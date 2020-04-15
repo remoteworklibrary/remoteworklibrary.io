@@ -1,0 +1,12 @@
+baseURL = "https://remoteworklibrary.io"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "Remote Work Library"
+enableRobotsTXT = true
+theme = "dream"
+
+[params]
+author = "Remote Work Library"
+description = "an open library of remote work culture, practices and tools"
+email = "info@remoteworklibrary.io"
+favicon = "/favicon.ico"

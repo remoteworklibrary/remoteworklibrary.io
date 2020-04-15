@@ -4,6 +4,7 @@ defaultContentLanguage = "en-us"
 title = "Remote Work Library"
 copyright = "QAware GmbH"
 enableRobotsTXT = true
+enableGitInfo = true
 theme = "dream"
 
 [params]
@@ -11,3 +12,4 @@ author = "Remote Work Library"
 description = "an open library of remote work culture, practices and tools"
 email = "info@remoteworklibrary.io"
 favicon = "/favicon.ico"
+avatar = "logo.png"

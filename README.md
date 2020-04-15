@@ -13,7 +13,7 @@ Open Library for Remote Work Culture, Practices and Tools
  3) `hugo server -D`
 
 ## Deploy Site
-TBD (maybe deploy on https://www.netlify.com or https://zeit.co)
+TBD
 
 ## References
  * similar site structure: https://github.com/openpracticelibrary/openpracticelibrary

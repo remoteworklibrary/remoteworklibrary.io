@@ -1,16 +1,19 @@
 ---
-title: "Digital Whiteboard"
+title: Digital Whiteboard
 date: 2020-04-15T20:52:17+02:00
 lastmod: 2020-04-15T20:52:17+02:00
 author: Josef Adersberger
 cover: /img/digital-whiteboard.jpg
 categories: ["Deep Collaborative Work"]
-tags: ["tool", "practice", "culture"]
+tags: ["tool"]
 draft: true
 ---
 
-Cut out summary from your post content here.
-
+Interactive whiteboards, often known as SmartBoards, combine a computer, projector, and dry erase board to make an interactive surface.
 <!--more-->
 
-The remaining content of your post.
+Interactive whiteboards, often known as SmartBoards, combine a computer, projector, and dry erase board to make an interactive surface.
+
+Tools:
+ * Miro: https://miro.com
+ * Google Jamboard: https://jamboard.google.com

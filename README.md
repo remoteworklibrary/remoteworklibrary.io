@@ -4,6 +4,9 @@
 
 Open Library for Remote Work Culture, Practices and Tools
 
+![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
+
+
 ## write content
  1) `hugo new posts/<articleTitle>.md`
  2) edit content

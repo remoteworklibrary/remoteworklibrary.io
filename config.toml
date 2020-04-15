@@ -2,6 +2,7 @@ baseURL = "https://remoteworklibrary.io"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Remote Work Library"
+copyright = "QAware GmbH"
 enableRobotsTXT = true
 theme = "dream"
 

@@ -1,6 +1,6 @@
 # remoteworklibrary.io
 
-![Remote Work Library](https://raw.githubusercontent.com/adersberger/remoteworklibrary.io/master/static/logo.png "Remote Work Library")
+![Remote Work Library](https://github.com/adersberger/remoteworklibrary.io/blob/master/static/logo.png "Remote Work Library")
 
 Open Library for Remote Work Culture, Practices and Tools
 

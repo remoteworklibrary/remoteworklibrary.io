@@ -15,7 +15,3 @@ github = "adersberger/remoteworklibrary.io"
 linkedin = "company/qaware-gmbh"
 favicon = "/favicon.ico"
 avatar = "logo.png"
-
-[module]
-  [[module.imports]]
-    path = "github.com/adersberger/dream"

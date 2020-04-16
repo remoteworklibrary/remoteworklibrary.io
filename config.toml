@@ -1,4 +1,4 @@
-baseURL = "https://remoteworklibrary.io"
+baseURL = "http://adersberger.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Remote Work Library"

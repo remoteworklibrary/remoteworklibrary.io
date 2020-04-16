@@ -2,7 +2,7 @@ baseURL = "http://adersberger.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Remote Work Library"
-copyright = "<i>made with ❤  in our home offices at</i><br /><b>QAware GmbH</b><br />Aschauer Str. 32<br />D-81549 Munich<br />Tel.: +49 89 232315-0<br />E-Mail: info@qaware.de<br /><a href='https://www.qaware.de/'>www.qaware.de</a>"
+copyright = "<i>made with ❤  from home</i><br /><b>QAware GmbH</b><br />Aschauer Str. 32<br />D-81549 Munich<br />Tel.: +49 89 232315-0<br />E-Mail: info@qaware.de<br /><a href='https://www.qaware.de/'>www.qaware.de</a>"
 enableRobotsTXT = true
 enableGitInfo = true
 theme = "dream-theme"

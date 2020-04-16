@@ -1,0 +1,103 @@
+<div class="ui centered relaxed grid dream-grid dream-back">
+  {{ range where .Site.RegularPages "Section" "about" }}
+    <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+      <article>
+        <div class="ui top attached segment">
+          <h3 class="ui header">{{ .Title }}</h3>
+        </div>
+        <div class="ui attached segment markdown-body">
+          {{ .Content | emojify }}
+        </div>
+      </article>
+    </section>
+  {{ end }}
+
+  <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    <article>
+      <div class="ui top attached segment">
+        <h3 class="ui header">Get in touch with us:</h3>
+      </div>
+      <div class="ui attached segment">
+        <nav class="ui secondary menu dream-menu">
+          {{ if .Site.Params.email }}
+            <div class="item">
+              <a href="mailto:{{ .Site.Params.email }}">
+                <i class="large mail icon" title="email"></i>
+              </a>
+            </div>
+          {{ end }}
+
+          {{ if .Site.Params.github }}
+            <div class="item">
+              <a href="https://github.com/{{ .Site.Params.github }}" target="_blank">
+                <i class="large github icon" title="github"></i>
+              </a>
+            </div>
+          {{ end }}
+
+          {{ if .Site.Params.linkedin }}
+            <div class="item">
+              <a href="https://www.linkedin.com/{{ .Site.Params.linkedin }}" target="_blank">
+                <i class="large linkedin icon" title="linkedin"></i>
+              </a>
+            </div>
+          {{ end }}
+
+          {{ if .Site.Params.stackoverflow }}
+            <div class="item">
+              <a href="https://www.stackoverflow.com/users/{{ .Site.Params.stackoverflow }}" target="_blank">
+                <i class="large stack overflow icon" title="stackoverflow"></i>
+              </a>
+            </div>
+          {{ end }}
+
+          {{ if .Site.Params.codepen }}
+            <div class="item">
+              <a href="https://codepen.io/{{ .Site.Params.codepen }}" target="_blank">
+                <i class="large codepen icon" title="codepen"></i>
+              </a>
+            </div>
+          {{ end }}
+        </nav>
+      </div>
+    </article>
+  </section>
+
+  <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    {{ if .Site.Copyright }}
+      <footer class="ui segment">
+        {{ .Site.Copyright | safeHTML }}
+      </footer>
+    {{ end }}
+  </section>
+
+  {{ if findRE "posts/.+" .RelPermalink }}
+  {{ else }}
+  {{ if and .Site.DisqusShortname  }}
+    <section class="sixteen wide mobile eight wide tablet eight wide computer column dream-column">
+      <footer class="ui segment">
+        <div id="disqus_thread"></div>
+        <script>
+          /**
+           *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+           *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+           */
+
+          var disqus_config = function () {
+            this.page.url = '{{ .Permalink }}about';  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = '/about'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+          };
+
+          (function() { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://' + '{{ .Site.DisqusShortname }}' + '.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </footer>
+    </section>
+  {{ end }}
+{{ end }}
+</div>

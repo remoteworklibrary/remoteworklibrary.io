@@ -1,0 +1,50 @@
+[blogAlias]
+other = "'s blog"
+
+[home]
+other = "Home"
+
+[backToHome]
+other = "Back to home"
+
+[flip]
+other = "Flip it!"
+
+[archives]
+other = "Archives"
+
+[allTags]
+other = "All Tags"
+
+[tag]
+one = "tag"
+other = "{{ .Count }} tags"
+
+[allCategories]
+other = "All Categories"
+
+[category]
+one = "category"
+other = "{{ .Count }} categories"
+
+[article]
+one = "1 article"
+other = "{{ .Count }} articles"
+
+[socialLinks]
+other = "Social Links"
+
+[minuteRead]
+other = " minute read"
+
+[updateAt]
+other = "Update at"
+
+[noTag]
+other = "No Tags"
+
+[prevPage]
+other = 'Previous page'
+
+[nextPage]
+other = 'Next page'

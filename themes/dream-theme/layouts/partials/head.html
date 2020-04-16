@@ -1,0 +1,44 @@
+{{ if isset .Site.Params "favicon" }}
+  <link href="{{ .Site.Params.favicon }}" rel="shortcut icon" type="image/x-icon" />
+{{ end }}
+
+{{ if eq .Type "posts" }}
+  <!-- Page Author & Description -->
+  <meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
+  <meta name="description" content="{{ .Summary | plainify }}" />
+{{ else }}
+  <!-- Site Author & Description -->
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="description" content="{{ .Site.Params.description }}" />
+{{ end }}
+
+<!-- Site Generator -->
+{{ hugo.Generator }}
+
+<link rel="canonical" href="{{ .Permalink }}" />
+
+<!-- Open Graph -->
+{{ template "_internal/opengraph.html" . }}
+
+<!-- Twitter Cards -->
+{{ template "_internal/twitter_cards.html" . }}
+
+<link rel="stylesheet" href="/css/github-markdown.css" />
+<link rel="stylesheet" href="/css/semantic.min.css" />
+<link rel="stylesheet" href="/css/site.css" />
+
+{{ if .Site.Params.linkColor }}
+<style>
+  a {
+    color: {{ .Site.Params.linkColor }} !important;
+  }
+</style>
+{{ end }}
+
+{{ if .Site.Params.darkLinkColor }}
+<style>
+  .inverted a {
+     color: {{ .Site.Params.darkLinkColor }} !important;
+  }
+</style>
+{{ end }}

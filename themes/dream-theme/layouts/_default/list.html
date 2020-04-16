@@ -1,0 +1,28 @@
+{{ define "title" }}
+
+{{ if eq .Data.Singular "tag" }}
+  {{ i18n "tag" }} | {{ .Data.Term }}
+{{ end }}
+
+{{ if eq .Data.Singular "category" }}
+  {{ i18n "category" }} | {{ .Data.Term }}
+{{ end }}
+
+{{ end }}
+
+{{ define "main"}}
+<div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    {{ partial "header.html" . }}
+  </div>
+
+  {{ $paginator := .Paginate .Pages }}
+  {{ range $paginator.Pages }}
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+      {{ .Render "summary" }}
+    </div>
+  {{ end }}
+</div>
+
+{{ partial "paginator.html" (dict "paginator" $paginator "Site" .Site) }}
+{{ end }}

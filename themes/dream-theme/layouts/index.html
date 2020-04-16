@@ -1,0 +1,20 @@
+{{ define "main"}}
+<div class="ui centered relaxed grid dream-grid">
+  <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    {{ partial "header.html" . }}
+  </div>
+
+  {{ $paginator := .Paginate (where .Site.RegularPages "Section" "!=" "about") }}
+  {{ range $paginator.Pages }}
+    {{ if isset .Params "showcase" }}
+    <div class="sixteen wide mobile eight wide tablet eight wide computer column dream-column">
+    {{ else }}
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    {{ end }}
+      {{ .Render "summary" }}
+    </div>
+  {{ end }}
+</div>
+
+{{ partial "paginator.html" (dict "paginator" $paginator "Site" .Site) }}
+{{ end }}

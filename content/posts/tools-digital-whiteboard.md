@@ -12,7 +12,7 @@ draft: true
 Interactive whiteboards, often known as SmartBoards, combine a computer, projector, and dry erase board to make an interactive surface.
 <!--more-->
 
-Interactive whiteboards, often known as SmartBoards, combine a computer, projector, and dry erase board to make an interactive surface.
+Interactive whiteboards, often known as SmartBoards, combine a computer, projector, and dry erase board to make an interactive surface. Hallo!
 
 Tools:
  * Miro: https://miro.com

@@ -6,6 +6,7 @@ copyright = "<i>made with ❤  from home</i><br /><b>QAware GmbH</b><br />Aschau
 enableRobotsTXT = true
 enableGitInfo = true
 theme = "dream-theme"
+googleAnalytics = "UA-538827-4"
 
 [params]
 author = "Remote Work Library"

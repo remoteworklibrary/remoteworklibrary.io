@@ -4,8 +4,8 @@ date: 2020-04-15T22:28:48+02:00
 lastmod: 2020-04-15T22:28:48+02:00
 author: Josef Adersberger
 cover: /img/online-retrospectives.jpg
-categories: ["Collaborative Learning"]
-tags: ["tool", "practice", "culture"]
+categories: ["tool", "practice", "culture"]
+tags: ["Collaborative Learning"]
 # showcase: true
 draft: true
 ---

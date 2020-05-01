@@ -2,8 +2,10 @@
 title: Online Retros
 date: 2020-04-15T22:28:48+02:00
 lastmod: 2020-04-15T22:28:48+02:00
+description: "This is meta description"
+type: "post"
 author: Josef Adersberger
-cover: /img/online-retrospectives.jpg
+image: "img/online-retrospectives.jpg"
 categories: ["tool", "practice", "culture"]
 tags: ["Collaborative Learning"]
 # showcase: true

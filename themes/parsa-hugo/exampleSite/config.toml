@@ -1,7 +1,7 @@
 # default config
-baseURL = "https://remoteworklibrary.github.io/"
+baseURL = "https://examplesite.org"
 languageCode = "en-us"
-title = "Remote Work Library"
+title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -55,12 +55,12 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "https://avatars3.githubusercontent.com/u/64264623?s=200&v=4"
+logo = "images/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "an open library of remote work culture, practices and tools"
+description = "This is meta description"
 # Preloader
 preloader = true
 # search
@@ -76,7 +76,7 @@ address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
-google_analitycs_id = "UA-538827-4"
+google_analitycs_id = "Your ID"
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 

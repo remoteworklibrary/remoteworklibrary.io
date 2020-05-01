@@ -3,7 +3,8 @@ title: Digital Whiteboard
 date: 2020-04-15T20:52:17+02:00
 lastmod: 2020-04-15T20:52:17+02:00
 author: Josef Adersberger
-cover: /img/digital-whiteboard.jpg
+type: "post"
+image: /img/digital-whiteboard.jpg
 categories: ["tool"]
 tags: ["Deep Collaborative Work"]
 draft: true

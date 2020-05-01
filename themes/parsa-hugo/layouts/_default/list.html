@@ -1,11 +1,11 @@
 {{ define "main" }}
 
 <!-- page-title -->
-<section class="section bg-secondary">
+<section class="section-sm bg-secondary">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h4>{{.Title}}</h4>
+        <h4>{{.Title | title | humanize}}</h4>
       </div>
     </div>
   </div>

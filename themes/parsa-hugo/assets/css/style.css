@@ -35,11 +35,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
   font-family: "hanskendrick";
   font-weight: 600;
-  line-height: 1.2;
+  /*line-height: 1.2;*/
 }
 
 h1, .h1 {
-  font-size: 80px;
+  font-size: 40px;
 }
 
 @media (max-width: 767px) {
@@ -280,8 +280,8 @@ a.text-dark:hover {
 }
 
 .section-sm {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .section-title {

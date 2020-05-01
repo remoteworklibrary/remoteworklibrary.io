@@ -53,52 +53,52 @@ name = "Contact"
 URL = "contact"
 weight = 3
 
-# deult parameter
+# site parameter
 [params]
-logo = "https://avatars3.githubusercontent.com/u/64264623?s=200&v=4"
+logo = "1218816731.jpg"
 home = "Home"
+
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
+
 # Meta data
 description = "an open library of remote work culture, practices and tools"
+
 # Preloader
 preloader = true
+
 # search
 search = true
-# about author
-author = "Themefisher"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+tel = "+49 89 232315-0"
+email = "info@qaware.de"
+street = "Aschauer Str. 32"
+city = "81549 Munich, Germany"
+
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "UA-538827-4"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 <i>made with ❤ from home by [QAware GmbH](https://www.qaware.de). Theme by [themefisher.com](https://themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
-enable = true
+enable = false
 user_id = "4044026246"
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 
 # social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/qaware"
 
 [[params.social]]
 icon = "ti-linkedin"
-URL = "#"
+URL = "https://www.linkedin.com/company/qaware-gmbh"
 
 [[params.social]]
 icon = "ti-github"
-URL = "#"
+URL = "https://github.com/remoteworklibrary"

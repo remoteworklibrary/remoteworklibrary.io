@@ -1,6 +1,19 @@
 <header class="navigation">
-  <nav class="navbar navbar-expand-lg navbar-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="{{.Site.BaseURL}}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{.Site.Title}}"></a>
+    <a class="navbar-brand" href="{{.Site.BaseURL}}">Remote Work Library</a>
+    
+    <div>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href="{{ "categories/" | relLangURL }}/tool/">Tool</a></li>
+        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href="{{ "categories/" | relLangURL }}/practice/">Practice</a></li>
+        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href="{{ "categories/" | relLangURL }}/culture/">Culture</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <nav class="navbar navbar-expand-sm navbar-light">
+    <!--<a class="navbar-brand" href="{{.Site.BaseURL}}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{.Site.Title}}"></a>-->
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navogation"
       aria-controls="navogation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -40,4 +53,6 @@
       {{ end }}
     </div>
   </nav>
+
+  
 </header>

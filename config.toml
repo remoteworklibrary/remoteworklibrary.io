@@ -55,7 +55,7 @@ weight = 3
 
 # site parameter
 [params]
-logo = "1218816731.jpg"
+logo = "logo.png"
 home = "Home"
 
 # theme layout ( two layout is available, "1" and "2" )

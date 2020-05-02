@@ -24,7 +24,17 @@
           <div class="col-sm-6 mb-5">
             <article class="text-center">
               <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
-              <p class="text-uppercase mb-2">{{ .Params.Categories }}</p>
+              <div>
+                {{- if isset .Params "categories" }}
+                {{- if not (eq (len .Params.Categories) 0) }}
+                <ul class="list-inline tag-list">
+                  {{- range $index, $name := .Params.Categories }}
+                  <li class="list-inline-item m-1"><a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
+                  {{- end }}
+                </ul>
+                {{- end }}
+                {{- end }}
+              </div>
               <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
               <p>{{ .Summary }}</p>
               <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>

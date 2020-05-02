@@ -1,8 +1,36 @@
 {{ define "main" }}
 
-<section class="section-title">
-  <div class="container text-center">
-    <h1>Remote Work Library</h1>
+<section>
+  <div class="container">
+    <div class="row">
+      <img src="img/homepage.jpg" alt="homepage picture" class="img-fluid rounded float-left mr5 mb-4">
+    </div>
+    <div class="row">
+      <h1>Remote Work Library</h1>
+    </div>
+    <div class="row">
+      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore 
+        et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
+        amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+        erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+        no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        
+        <ul>
+          <li><a href="{{ "categories/" | relLangURL }}/tool/">Tools</a></li>
+          <li><a href="{{ "categories/" | relLangURL }}/practice/">Practises</a></li>
+          <li><a href="{{ "categories/" | relLangURL }}/culture/">Culture</a></li>
+        </ul>
+      </p>
+    </div>
+    <div class="row">
+      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore 
+        et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
+        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit 
+        amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+        erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, 
+        no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+    </div>
   </div>
 </section>
 
@@ -73,7 +101,17 @@
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
           <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
-          <p class="text-uppercase mb-2">{{.Params.Categories}}</p>
+          <div>
+            {{- if isset .Params "categories" }}
+            {{- if not (eq (len .Params.Categories) 0) }}
+            <ul class="list-inline tag-list">
+              {{- range $index, $name := .Params.Categories }}
+              <li class="list-inline-item m-1"><a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
+              {{- end }}
+            </ul>
+            {{- end }}
+            {{- end }}
+          </div>
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
           <p>{{.Summary}}</p>
           <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>

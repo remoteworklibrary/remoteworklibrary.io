@@ -917,5 +917,39 @@ blockquote {
   border-radius: .2rem;
 }
 
+/** Social Share Buttons **/
+
+/*.share-btn {
+  display: inline-block;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+  outline: none;
+  text-align: center;
+  text-decoration: none;
+}
+
+.share-btn:hover {
+    color: #ffffff !important;
+}
+
+.share-btn:active {
+    position: relative;
+    top: 2px;
+    box-shadow: none;
+    color: #e2e2e2;
+    outline: none;
+}*/
+
+.share-btn.twitter     { 
+  background: #55acee!important;
+  color:#fff!important;
+}
+
+.share-btn.linkedin    { 
+  background: #4875B4!important;
+  color:#fff!important;
+}
 
 /*# sourceMappingURL=maps/style.css.map */

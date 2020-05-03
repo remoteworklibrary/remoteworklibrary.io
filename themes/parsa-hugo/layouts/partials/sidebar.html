@@ -45,4 +45,21 @@
     {{- end }}
     {{- end }}
   </div>
+  <div class="widget">
+    <h6 class="mb-4">SHARE</h6>
+    <ul class="list-inline tag-list">
+      <!-- Twitter -->
+      {{ if .Site.Params.socialShareTwitter | default true}}
+      <li class="list-inline-item m-1">
+        <a href="//twitter.com/share?text={{ .Title }}&amp;via={{ .Site.Params.socialTwitterAccount }}&amp;url={{ .Permalink }}&amp;hashtags=RemoteWork%2CRemoteWorkLibrary" target="_blank" class="ui label share-btn twitter"><i class="ti-twitter-alt"></i>&nbsp;Twitter</a>
+      </li>
+      {{ end }}
+      <!-- LinkedIn -->
+      {{ if .Site.Params.socialShareLinkedin | default true}}
+      <li class="list-inline-item m-1">
+        <a href="//www.linkedin.com/sharing/share-offsite/?mini=true&amp;url={{ .Permalink }}&amp;title={{ .Title }}&amp;source={{ .Site.Params.socialLinkedAccount }}" target="_blank" class="ui label share-btn linkedin"><i class="ti-linkedin"></i>&nbsp;LinkedIn</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
 </div>

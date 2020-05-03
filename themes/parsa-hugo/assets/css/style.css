@@ -847,4 +847,75 @@ blockquote {
   color: #ff6f00;
 }
 
+.ui.red.label {
+  background-color:#db2828!important;
+  border-color:#db2828!important;
+  color:#fff!important
+}
+
+.ui.orange.label  {
+  background-color:#f2711c!important;
+  border-color:#f2711c!important;
+  color:#fff!important
+}
+
+.ui.yellow.label  {
+  background-color:#fbbd08!important;
+  border-color:#fbbd08!important;
+  color:#fff!important
+}
+
+.ui.olive.label {
+  background-color:#b5cc18!important;
+  border-color:#b5cc18!important;
+  color:#fff!important
+}
+
+.ui.green.label {
+  background-color:#21ba45!important;
+  border-color:#21ba45!important;
+  color:#fff!important
+}
+
+.ui.teal.label  {
+  background-color:#00b5ad!important;
+  border-color:#00b5ad!important;
+  color:#fff!important
+}
+
+.ui.blue.label  {
+  background-color:#2185d0!important;
+  border-color:#2185d0!important;
+  color:#fff!important
+}
+
+.ui.violet.label  {
+  background-color:#6435c9!important;
+  border-color:#6435c9!important;
+  color:#fff!important
+}
+
+.ui.purple.label  {
+  background-color:#a333c8!important;
+  border-color:#a333c8!important;
+  color:#fff!important
+}
+
+.ui.brown.label {
+  background-color:#a5673f!important;
+  border-color:#a5673f!important;
+  color:#fff!important
+}
+
+.ui.pink.label  {
+  background-color:#e03997!important;
+  border-color:#e03997!important;
+  color:#fff!important
+}
+
+.ui.label {
+  border-radius: .2rem;
+}
+
+
 /*# sourceMappingURL=maps/style.css.map */

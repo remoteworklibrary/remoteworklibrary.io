@@ -58,4 +58,8 @@
   ga('create', '{{ . }}', 'auto');
   ga('send', 'pageview');
 </script>
+
+{{ "<!-- Footer Script -->" | safeHTML }}
+{{ $script := resources.Get "js/footer.js" }}
+<script src="{{ $script.Permalink }}"></script>
 {{ end }}

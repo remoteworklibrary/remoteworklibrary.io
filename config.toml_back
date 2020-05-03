@@ -1,0 +1,20 @@
+baseURL = "https://remoteworklibrary.github.io/"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "Remote Work Library"
+copyright = "<i>made with ❤  from home</i><br /><b>QAware GmbH</b><br />Aschauer Str. 32<br />D-81549 Munich<br />Tel.: +49 89 232315-0<br />E-Mail: info@qaware.de<br /><a href='https://www.qaware.de/'>www.qaware.de</a>"
+enableRobotsTXT = true
+enableGitInfo = true
+# theme = "dream-theme"
+theme = "parsa-hugo"
+googleAnalytics = "UA-538827-4"
+
+[params]
+layout = "1"
+author = "Remote Work Library"
+description = "an open library of remote work culture, practices and tools"
+email = "info@remoteworklibrary.io"
+github = "adersberger/remoteworklibrary.io"
+linkedin = "company/qaware-gmbh"
+favicon = "/favicon.ico"
+avatar = "https://avatars3.githubusercontent.com/u/64264623?s=200&v=4"

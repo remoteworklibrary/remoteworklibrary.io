@@ -14,9 +14,4 @@ Open Library for Remote Work Culture, Practices and Tools
  3) `hugo server -D`
 
 ## Deploy Site
-TBD
-
-## References
- * similar site structure: https://github.com/openpracticelibrary/openpracticelibrary
- * theme doc: http://g1eny0ung.site/hugo-theme-dream/#/
- * Hugo config reference: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+ * Site is automatically deployed by a github action to a github page

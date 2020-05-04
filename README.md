@@ -4,8 +4,9 @@
 
 Open Library for Remote Work Culture, Practices and Tools
 
-![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
+![CI](https://github.com/remoteworklibrary/remoteworklibrary.io/workflows/CI/badge.svg)
 
+![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
 
 ## Write Content
  1) `hugo new posts/<articleTitle>.md`

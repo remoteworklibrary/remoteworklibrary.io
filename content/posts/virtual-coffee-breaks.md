@@ -13,10 +13,14 @@ draft: true
 Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some coordination and tools in a remote work situation.
 <!--more-->
 
-## What is it?
+## What [is | are] XYZ?
 
-## When to use it?
+## Why do XYZ?
 
-## How to do it?
+## How to do [a] XYZ?
 
 ## Further information
+
+### Resource Links
+
+### Related [Practices | Tools]

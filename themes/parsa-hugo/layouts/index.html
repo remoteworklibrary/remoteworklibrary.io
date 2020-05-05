@@ -28,6 +28,15 @@
         no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
     </div>
   </div>
+  <form action="TODO">
+    <div class="form-group row">
+      <label for="email" class="col-sm-3 col-form-label">Receive our newsletter:</label>
+      <div class="col-sm-4">
+        <input class="form-control" type="email" placeholder="Email Address" id="email" name="e">
+        <button class="search-icon" type="submit"><i class="ti-email text-dark"></i></button>
+      </div>
+    </div>
+  </form>
 </section>
 
 {{ if eq .Site.Params.layout "1" }}

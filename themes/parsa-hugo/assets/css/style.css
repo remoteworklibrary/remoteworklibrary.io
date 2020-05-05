@@ -97,18 +97,22 @@ h6, .h6 {
   box-shadow: none;
 }
 
+.btn:hover  {
+  text-decoration: underline;
+}
+
 .btn-primary {
-  background: #ff6f00;
+  background: #28537D;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #ff6f00 !important;
+  background: #28537D !important;
 }
 
 .btn-primary:hover {
-  background: #ff8c33;
+  background: #28537D;
 }
 
 .btn-outline-light {
@@ -129,23 +133,13 @@ h6, .h6 {
 }
 
 .btn-transparent {
-  color: #ff6f00;
+  color: #28537D;
   border: 0;
 }
 
 body {
   background-color: #fff;
   overflow-x: hidden;
-}
-
-::-moz-selection {
-  background: #ff8c33;
-  color: #fff;
-}
-
-::selection {
-  background: #ff8c33;
-  color: #fff;
 }
 
 /* preloader */
@@ -178,7 +172,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #ff6f00;
+  background: #28537D;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -201,7 +195,7 @@ body {
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #ff6f00;
+  background: #28537D;
   border-radius: 50%;
 }
 
@@ -242,6 +236,11 @@ a,
 a:hover,
 a:focus {
   text-decoration: none;
+  color: #28537D;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 a,
@@ -258,10 +257,14 @@ select:focus {
 }
 
 a:hover {
-  color: #ff6f00;
+  color: #28537D;
 }
 a.text-dark:hover {
-  color: #ff6f00 !important;
+  color: #000000 !important;
+  text-decoration: none;
+}
+a.label:hover{
+  text-decoration: none;
 }
 
 .slick-slide {
@@ -324,7 +327,7 @@ a.text-dark:hover {
 }
 
 .bg-primary {
-  background: #ff6f00 !important;
+  background: #28537D !important;
 }
 
 .bg-secondary {
@@ -332,7 +335,7 @@ a.text-dark:hover {
 }
 
 .text-primary {
-  color: #ff6f00 !important;
+  color: #28537D !important;
 }
 
 .text-color {
@@ -404,7 +407,7 @@ a.text-dark:hover {
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #ff6f00;
+  border-color: #28537D;
 }
 
 textarea.form-control {
@@ -503,7 +506,7 @@ textarea.form-control {
 
 .navbar .dropdown-item:active {
   color: #fff;
-  background-color: #ff6f00;
+  background-color: #28537D;
 }
 
 .search-icon {
@@ -640,7 +643,7 @@ textarea.form-control {
 }
 
 .instagram-post ul a:hover {
-  color: #ff6f00 !important;
+  color: #28537D !important;
 }
 
 .instagram-post:hover::before {
@@ -844,7 +847,7 @@ blockquote {
 }
 
 .tag-list li a:hover {
-  color: #ff6f00;
+  color: #28537D;
 }
 
 .ui.red.label {
@@ -918,29 +921,6 @@ blockquote {
 }
 
 /** Social Share Buttons **/
-
-/*.share-btn {
-  display: inline-block;
-  color: #ffffff;
-  border: none;
-  border-radius: 4px;
-  box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
-  outline: none;
-  text-align: center;
-  text-decoration: none;
-}
-
-.share-btn:hover {
-    color: #ffffff !important;
-}
-
-.share-btn:active {
-    position: relative;
-    top: 2px;
-    box-shadow: none;
-    color: #e2e2e2;
-    outline: none;
-}*/
 
 .share-btn.twitter     { 
   background: #55acee!important;

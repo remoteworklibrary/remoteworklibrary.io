@@ -13,11 +13,11 @@ draft: true
 Work remotely, side-by-side. With virtual offices your distributed teams work together in an online workplace.
 <!--more-->
 
-## What [is | are] XYZ?
+## What are Virtual Offices?
 
-## Why do XYZ?
+## Why using Virtual Offices?
 
-## How to do [a] XYZ?
+## How to use Virtual Offices?
 
 ## Further information
 

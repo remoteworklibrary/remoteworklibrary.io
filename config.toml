@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://remoteworklibrary.github.io/"
+baseURL = "https://www.remoteworklibrary.io/"
 languageCode = "en-us"
 title = "Remote Work Library"
 theme = "parsa-hugo"

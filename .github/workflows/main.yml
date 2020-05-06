@@ -13,17 +13,15 @@ jobs:
           hugo-version: "0.69.2"
 
       - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo -s . --config ./config.toml --buildDrafts
+        run: hugo -s . --config ./config.toml --buildDrafts --minify
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: remoteworklibrary/remoteworklibrary.github.io
           publish_dir: ./public
-        #   keep_files: true
+          #keep_files: true
           user_name: adersberger
           user_email: josef.adersberger@qaware.de
           publish_branch: master
-        #   cname: example.com
+          cname: www.remoteworklibrary.io

@@ -69,6 +69,6 @@
 </script>
 
 {{ "<!-- Footer Script -->" | safeHTML }}
-{{ $script := resources.Get "js/footer.js" }}
+{{ $script := resources.Get "js/footer.js" | minify }}
 <script src="{{ $script.Permalink }}"></script>
 {{ end }}

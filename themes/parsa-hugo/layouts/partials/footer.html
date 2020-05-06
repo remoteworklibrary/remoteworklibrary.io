@@ -46,7 +46,7 @@
 </script>
 {{ end }}
 
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="a7f0e25c-4d8b-47ad-a1b2-291278e4d6dc" data-blockingmode="auto" type="text/javascript"></script>
+<script id="CookieConsent" data-culture="EN" src="https://consent.cookiebot.com/uc.js" data-cbid="a7f0e25c-4d8b-47ad-a1b2-291278e4d6dc" data-blockingmode="auto" type="text/javascript"></script>
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
@@ -72,5 +72,3 @@
 {{ $script := resources.Get "js/footer.js" }}
 <script src="{{ $script.Permalink }}"></script>
 {{ end }}
-
-<script id="CookieDeclaration" src="https://consent.cookiebot.com/a7f0e25c-4d8b-47ad-a1b2-291278e4d6dc/cd.js" type="text/javascript" async></script>

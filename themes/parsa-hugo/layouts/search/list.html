@@ -1,11 +1,11 @@
 {{ define "main" }}
 
 <!-- page-title -->
-<section class="section">
+<section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h4>{{.Title}}</h4>
+        <h2>{{.Title}}</h2>
       </div>
     </div>
   </div>
@@ -13,10 +13,10 @@
 <!-- /page-title -->
 
 <!-- search result -->
-<section class="section">
+<section class="section-sm">
   <div class="container">
     <div class="row">
-      <div class="col-lg-10 mx-auto">
+      <div class="col-lg-10">
         <div id="search-results"></div>
         <script id="search-result-template" type="text/x-js-template">
           <ul class="search-result list-unstyled" id="summary-${key}">

@@ -28,7 +28,7 @@ Here's a usage video from the [remo.co](https://remo.co) virtual office solution
 ### Available tools
  * [remo.co](https://remo.co)
  * [Sococo](https://www.sococo.com)
- * [walkabout workplace](https://www.walkboutco.com)
+ * [walkabout workplace](https://www.walkaboutco.com/)
  * [Wurkr](https://wurkr.io)
  * [Pragli](https://pragli.com)
  * [Virtual Office](https://github.com/TNG/virtual-office)

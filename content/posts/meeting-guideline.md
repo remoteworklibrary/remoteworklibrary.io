@@ -10,14 +10,14 @@ categories: ["collaborate"]
 draft: true
 ---
 
-Running effective meetings is essential for modern businesses - and it's especially hard to run effective 
-remote meetings. A remote meeting guideline provides guidance on how to succeed here.
+It's hard to run effective remote meetings. A remote meeting guideline provides guidance on how to keep remote meetings productive.
 
 <!--more-->
 
 ## What is it?
 
-A remote meeting guideline is a collection of rules and best practices on how to run effective remote meetings.
+Running effective meetings is essential for modern businesses - and it's especially hard to run effective 
+remote meetings. A remote meeting guideline provides guidance on how to succeed here. It's a collection of rules and best practices on how to run effective remote meetings.
 
 ## Why use it?
 

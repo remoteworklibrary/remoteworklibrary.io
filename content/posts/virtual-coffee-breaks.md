@@ -10,7 +10,7 @@ categories: ["socialize", "rejuvenate"]
 draft: true
 ---
 
-Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some coordination and tools in a remote work situation.
+Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some assistance in a remote work situation.
 <!--more-->
 
 ## What [is | are] XYZ?

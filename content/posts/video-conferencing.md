@@ -10,7 +10,7 @@ categories: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 
-Video conferencing is a fundamental technology to get in touch in a remote setting. The combination of voice, video, chat, and screen sharing brings teams close together even if there are huge physical distances in between.
+Video conferencing is a fundamental technology in remote settings. It brings teams close together even if there are huge physical distances in between.
 
 <!--more-->
 

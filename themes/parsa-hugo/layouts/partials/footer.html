@@ -3,16 +3,23 @@
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <h6>Contributors:</h6>
+        </div>
+      </div>
+      <div class="row">&nbsp;</div>
+      <div class="row">
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <a href="https://www.qaware.de" target="_blank"><img src="https://www.qaware.de/typo3conf/ext/s2_qaware_templates/Resources/Public/Images/logo-qaware.svg" /></a>
+        </div>
+      </div>
+      <div class="row">&nbsp;</div>
+      <div class="row">
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Address</h6>
           <ul class="list-unstyled">
             <li class="font-secondary text-dark">{{.Site.Params.company | markdownify }}</li>
             <li class="font-secondary text-dark">{{.Site.Params.street | markdownify }}</li>
             <li class="font-secondary text-dark">{{.Site.Params.city | markdownify }}</li>
-          </ul>
-        </div>
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Contact Info</h6>
-          <ul class="list-unstyled">
             <li class="font-secondary text-dark">Tel : {{ .Site.Params.tel | markdownify }}</li>
             <li class="font-secondary text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
           </ul>

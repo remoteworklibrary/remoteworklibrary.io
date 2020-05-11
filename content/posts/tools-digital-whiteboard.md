@@ -14,15 +14,15 @@ Whiteboard sessions are often the heart of creative processes and stimulate team
 
 <!--more-->
 
-## What is a Digital Whiteboard?
+## What is it?
 
 Whiteboards only work when the team is in the same space. As work becomes more remote, whiteboards are replaced by their digital equivalent. Digital whiteboards help to transfer the collaborative experience of whiteboards into the digital world. Digital whiteboards are essential in a remote-only setting but also very helpful in hybrid scenarios with distributed teams in different offices, or when some participants are joining from home.
 
-## Why use a Digital Whiteboard?
+## Why use it?
 
 To enable realtime remote collaboration on whiteboards especially for creative team processes and to stimulate team flow.
 
-## How to use Digital Whiteboards?
+## How to do it?
 
 The following picture shows a sample digital whiteboard used for brainstorming based on the tool [miro](https://miro.com).
 ![miro digital whiteboard](/img/digital-whiteboard-miro.jpg)

@@ -71,6 +71,7 @@ preloader = true
 search = true
 
 # Contact info
+company = "QAware GmbH"
 tel = "+49 89 232315-0"
 email = "info@qaware.de"
 street = "Aschauer Str. 32"

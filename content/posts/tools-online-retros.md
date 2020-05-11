@@ -36,15 +36,15 @@ First you've to choose the structure of the retrospective. [Retromat](https://re
    
 A special form of a retrospective are [team health checks like those used by Spotify](https://labs.spotify.com/2014/09/16/squad-health-check-model). Good online retro tools also support team health checks.
 
-![TeamRetro](/img/online-retro.jpg)
-
 After the structure is clear and the retro tool is prepared accordingly the retro can be run in several rounds:
 
-First round: Each participant enters the input to the retrospective structure. The team decides wether the input is visible immediately or after the first round is closed.
+First round. Each participant enters the input to the retrospective structure. The team decides wether the input is visible immediately or after the first round is closed.
 
-Second round: Each participant presents his/her input and all participants can ask questions of understanding. No discussions!
+Second round. Each participant presents his/her input and all participants can ask questions of understanding. No discussions!
 
-Third round: The input is prioritized, clustered and action items are derived.
+Third round. The input is prioritized, clustered and action items are derived as you can see here:
+![TeamRetro](/img/online-retro.jpg)
+
 
 After the retrospective the result is provided to all participants and to other stakeholders. It is good practice to provide feedback to the top lessons learned to the whole organization (e.g. in a Slack channel #lessionslearned) and to use an issue tracking system like JIRA, Trello or Meistertask to track the derived action items.
    

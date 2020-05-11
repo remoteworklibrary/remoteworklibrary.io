@@ -49,4 +49,4 @@ Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/p
 
 ### Related items
 
-* [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})
+`* [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})`

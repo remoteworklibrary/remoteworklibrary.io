@@ -5,8 +5,8 @@ lastmod: 2020-05-05T22:49:07+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/mob-programming.jpg"
-categories: ["practice", "tool"]
-tags: ["collaborative", "learn", "teamwork"]
+tags: ["practice"]
+categories: ["collaborative", "learn", "socialize"]
 draft: true
 ---
 

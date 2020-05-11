@@ -6,8 +6,8 @@ description: "This is meta description"
 type: "post"
 author: Josef Adersberger
 image: "img/online-retrospectives.jpg"
-categories: ["tool", "practice", "culture"]
-tags: ["Collaborative Learning"]
+tags: ["tool", "practice", "culture"]
+categories: ["collaborate", "learn"]
 # showcase: true
 draft: true
 ---

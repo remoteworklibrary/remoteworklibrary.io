@@ -5,8 +5,8 @@ lastmod: 2020-05-05T23:41:19+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/video-conferencing.jpg"
-categories: ["tool"]
-tags: ["collaborative", "learn", "teamwork", "socialize"]
+tags: ["tool"]
+categories: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 

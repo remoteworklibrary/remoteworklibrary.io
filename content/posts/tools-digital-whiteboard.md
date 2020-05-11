@@ -5,8 +5,8 @@ lastmod: 2020-05-01T20:52:17+02:00
 author: "[Josef Adersberger](https://github.com/adersberger)"
 type: "post"
 image: /img/digital-whiteboard.jpg
-categories: ["tool"]
-tags: ["Deep Collaborative Work"]
+tags: ["tool"]
+categories: ["collaborate"]
 draft: true
 ---
 

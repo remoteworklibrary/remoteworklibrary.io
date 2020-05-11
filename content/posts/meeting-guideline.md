@@ -33,7 +33,7 @@ Without a remote meeting guideline those meetings will more or less be held like
 
 #### Meeting preparation
 
-As a participant:
+All participants:
  * Take care of an appropriate infrastructure and the required technical setup
     * Internet access: prefer LAN/PowerLAN connection over WiFi 
     * Camera: Notebook cameras are OK, HD USB cameras are way better
@@ -41,46 +41,39 @@ As a participant:
  * Take care of having enough to drink for the meeting (e.g. a 1l bottle of water)
  * Form the new habit to join the meeting 2 minutes in advance. 
 
-<!-- 
-As a host:
- * Sorge dafür, dass jedem Teilnehmer eine Agenda und ein Einwahllink vorliegt (z.B. durch die Kalendereinladung).
-Wähle bewusst den Teilnehmerkreis aus und halte ihn möglichst gering. Zwei Vorschläge dazu:
-   * "No Spectators": Mehr Meinungen in einem Meeting zu haben ist zwar keine schlechte Einstellung, aber du wirst damit wahrscheinlich feststellen, dass die meisten Teilnehmer nur als Zuschauer anwesend sind. Diese Leute liefern für das Meeting keinen Nutzen und werden von ihrer Arbeit abgehalten. Aus diesem Grund empfiehlt es sich, Meetings auf 5 bis 9 Personen zu beschränken. Bei dieser Größe wird es genug Platz geben, um unterschiedliche Meinungen am Tisch zu haben, und es wird auch klein genug sein, um keine Zuschauer zu haben.
-   * "Befreit Teilnehmer vom Meeting": Fragt am Anfang des Meetings ein Frage: Gibt es Teilnehme, die der Meinung sind im Meeting nicht anwesend sein zu müssen, oder andere wichtige und dringende Tätigkeiten haben? Melden sich Teilnehmer, ermutigt diese das Meeting zu verlassen und informiert sie später über die Ergebnisse (z.B. über das Protokoll). Bedenkt bitte immer, dass eine Teilnahme an gefühlt unwichtigen Besprechungen weder sinnvoll noch effektiv ist.
- * Legt eine Agenda fest und plant ausreichend Pausen ein. Haltet euch beim Meeting an diese geplante Struktur und weicht nur im Notfall davon ab. Denn z.B. planen die Teilnehmer in den Pause kurze Telefonate ein, die sie dann nicht einhalten können. Plant bei längeren Terminen (z.B. Workshops) auch gemeinsame Pausen ein (Video- und Mikro bleiben an) für Small Talk, Netzwerken und Aufbau sozialer Nähe ein. Das Hilft beim "wir sind ein Team" Gedanken und übergreifenden Team Building (QAware → Kunde, QAware → Partner, QAware → QAware).
- * Bei der Vorbereitung muss sich der Moderator die Frage stellen, was funktioniert bei Präsenzmeetings ganz gut, bei Remote Meetings aber weniger. Darauf müsst ihr reagieren und Antworten haben. Beispiele hierzu sind:
- * Definiert klare Regeln "wer dran" ist. Bei kleinen Gruppen ist das einfacher und funktionier meistens auch ungesteuert. Bei größeren Gruppen (>5) macht es oft Sinn, dass der Moderator die Teilnehmer direkt anspricht. Reden erst nach Aufforderung. 
- * Wenn Interaktivität der Teilnehmer gefordert ist, ist schriftlicher Input oft schneller und einfacher in der Gruppe zu verarbeiten. Denn dann ist paralleler Input, ohne die "nur einer spricht" Regel zu brechen, möglich. Beispiele: 
-   * Themensammlung am Anfang des Termins: Einfach ein GSheet (oder ähnliches) an alle Teilnehmer verteilen. Dann können alle Teilnehmer gleichzeitig Themen in die Liste eintragen.
-   * Team-Retro: Wenn die Pinnwand aus dem Präsenzmeetings fehlt, kann man auf ein Retro-Tool (s.u.) wechseln.
-   * Timer: Ist die Zeit in einem Meeting kritisch, dann im Hintergrund (oder per Screenshare für alle sichtbar) einen Online-Timer laufen lassen (z.B. AgilePokerClock, Online Time Timer)
-   * Gemeinsames Zeichnen: Digitale Whitebords (s.u.)
- * Wähle für dein Meeting die richtigen Tools aus und bereite diese vor:
-   * Wie werden die Ergebnisse und Action Items des Meetings dokumentiert (Google Drive, Powerpoint, Confluence, Mindmeister, JIRA, ...)?
-   * Brauchen wir ein digitales Whiteboard (Zoom, Jamboard, Miro)?
-   * Brauchen wir Breakout-Sessions? Diese können in Zoom on-the-fly erstellt werden. Bei anderen Video Conferencing Tools ist es besser, wenn schon vorab mehrere Sessions angelegt und die Einwahldaten vorab an alle Teilnehmer verschickt werden.
-   * Macht ein Retro-Tool (z.B. TeamRetro) Sinn?
-   * Wie behalte ich die Zeit im Auge? Brauche ich einen Online Timer (s.o.) oder einen physischen Timer (Smartphone, TimeTimer, Uhr)
- -->
-   
+
+As host:
+ * Take care of that every participant has access to the agenda and has a video conferencing link to join the meeting. It is good practice keeping this information in the calendar entry.
+ * Keep the number of participants as low as possible (5-9). Two suggestions:
+    1. "no spectators": Do not invite participants only to keep them informed. Everybody should be invited to actively participate and contribute an otherwise missing opinion.
+    2. "free participants from the meeting": Start the meeting with the question if any participant thinks she/he isn't mandatory for the meeting and would prefer not to participate.
+ * Provide an agenda with a schedule, and a sufficient amount of breaks (communication breaks and rejuvenation breaks).
+ * Prepare rules for common pitfalls in remote meetings like: Who talks? In meetings with more than 5 non-steady participants it could be useful that each participant only talks upon request by the host and after digitally raising the hand. For the introduction or feedback rounds the sequence should be made clear for all.
+ * Interactive parts require proper preparation: It is often better to collect the participant input upfront or in parallel during the meeting with tools like a common online document, an online retro board, or a digital whiteboard.
+ * Prepare the required tools for the remote meeting
+    * for managing the agenda and the meeting minutes (Wiki page like Confluence, online documents like GoogleDocs)
+    * for collecting the action items (issue trackers like [JIRA](https://www.atlassian.com/software/jira) or taskboards like [Trello](https://trello.com) or [Meistertask](https://www.meistertask.com/)) 
+    * for collaborative [digital whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}}) sessions
+    * for [online retrospectives]({{< ref "/posts/tools-online-retros.md" >}})
+    * for breakout sessions (Zoom can handle this on-the-fly. For others separate video conferencing sessions should be prepared as breakout rooms)
+    * time timer: Smartphone, real time timer visible in video stream, digital timers like [AgilePokerClock](https://www.agilepokerclock.com/clock) or the [Online Time Timer](http://timer.designthinkingcoach.de).
+    
 #### Running the Meeting
+
+All participants:
  * always switch on the video. Facial expression and body language are an important part of communication. Only switch the video off if you've troubles with the internet connection or if you participate in a large meeting where you have no active parts.
  * keep the focus on the meeting
     * do not work on other tasks in parallel (not even on e-mails and chats)
     * do not use your smartphone 
     * do not change the virtual background during the meeting
-<!--
- * Es spricht immer nur genau eine Person. Definiert klare Regeln "wer dran" ist. Bei kleinen Gruppen ist das einfacher und funktioniert oft auch ungesteuert. Bei größeren Gruppen (>5) macht es Sinn, dass der Moderator die Teilnehmer direkt anspricht: Reden erst nach Aufforderung. Nutzt hierzu z.B. die "Hand heben" Funktion in Zoom (Doku).
- * Wer nicht spricht, stellt sein Mikrophone auf mute.
- * Macht regelmäßig Pausen (alle 45 - 60 Minuten mindestens 5 Minuten Pause oder nach 1,5h 15min Pause) und kommt pünktlich zurück.
- * Nehmt die Rolle des Moderators wahr:
-    * Achtet auf die Einhaltung der geplanten Agenda.
-    * Moderiert jeden einzelnen Agendapunkt an. Stellt das Thema, die Ziele und das geplante Vorgehen zu Beginn jedes Themenblocks vor.
-    * Fasst am Ende eines Agendapunkts die Ergebnisse, offenen Punkte und weiteren Aufgaben kurz zusammen und dokumentiert alles (s.u.)
- * Dokumentiert alle Ergebnisse:
-    * Fasst die Ergebnisse in Protokollen oder Präsentationen zusammen. Legt sie an einem zentralen Ort für alle Teilnehmer ab.
-    * Dokumentiert alle TODOs: Was? Wer? Bis Wann? 
--->
+ * only one person speaks simultaneously all others mute themselves. Only the host can interrupt. Participants can raise their hand in the chat or with the according feature of the video conferencing solution.
+ * take a break for 5-15min each 60-90min and come back from the break in time. Keep video and microphones on during the breaks for smalltalk and networking (take every chance to do team building in remote settings)
+ 
+ As host:
+ * Take care of the agenda and follow the schedule. It's good practice nominating a time keeper (!= the host) to take care of the schedule. Use a time timer to make all participants aware of the timebox and the remaining time.
+ * Provide an intro to each agenda item setting the context, the goals, the approach, and the desired outcome. 
+ * Provide a summary after each agenda item and collect the results, the open issues, the action items and next steps.
+ * Document all results and provide meeting minutes for all participants and affected stakeholders. It's good practice nominating a recorder to take care of the meeting minutes.
 
 ## Further information
 
@@ -90,5 +83,6 @@ Wähle bewusst den Teilnehmerkreis aus und halte ihn möglichst gering. Zwei Vor
  * [Meeting roles](https://www.conferencecalling.com/blog/meeting-roles) 
 
 ### Related items
+ * [Digital Whiteboards]({{< ref "/posts/tools-digital-whiteboard.md" >}})
  * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
- * [Online Retros]({{< ref "/posts/tools-online-retros.md" >}})
+ * [Online Retrospectives]({{< ref "/posts/tools-online-retros.md" >}})

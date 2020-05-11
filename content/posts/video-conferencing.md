@@ -28,13 +28,13 @@ Best practices:
  * always switch on the video. Only switch it off if you've troubles with the internet connection or if you participate in a large meeting where you have no active parts
  * keep the focus on the meeting
  * use virtual backgrounds to avoid visual distractions
- * learn the most important hot keys: start/stop screen sharing, mute/unmute
+ * learn the most important hot keys: start/stop screen sharing, mute/unmute, push-to-talk, mute others (host only)
  * showing support without voice: raise hand, +1 in chat
  * avoid interruptions with questions and async feedback on accompanying chat
  * be dressed (at least above the desk) like in the office
  * get to know the power features of your video conferencing solution like breakout rooms, polls, integrated whiteboards etc
 
-Video conferencing etiquette: see [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})
+Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})
    
 ## Further information
 

@@ -57,7 +57,7 @@ After the retrospective the result is provided to all participants and to other 
  * [FunRetro](https://funretro.io)
  * [Parabol](https://www.parabol.co)
  
-### Retrospective struktures
+### Retrospective structures
  * [Retromat](https://retromat.org/en)
  * [FunRetrospective](https://www.funretrospectives.com)
  * [Squad Health Checks](https://labs.spotify.com/2014/09/16/squad-health-check-model)

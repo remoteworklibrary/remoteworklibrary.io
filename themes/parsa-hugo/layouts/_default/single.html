@@ -7,6 +7,17 @@
       <div class="col-lg-12">
         <h1>{{ .Title }}</h1>
       </div>
+      <div>
+        {{- if isset .Params "categories" }}
+        {{- if not (eq (len .Params.Categories) 0) }}
+        <ul class="list-inline tag-list">
+          {{- range $index, $name := .Params.Categories }}
+          <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
+          {{- end }}
+        </ul>
+        {{- end }}
+        {{- end }}
+      </div>
     </div>
   </div>
 </section>

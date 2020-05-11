@@ -6,7 +6,7 @@ author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/virtual-coffee-breaks.jpg"
 tags: ["culture"]
-categories: ["socialize", "rejuvenation"]
+categories: ["socialize", "rejuvenate"]
 draft: true
 ---
 

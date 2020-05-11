@@ -27,6 +27,7 @@ function initTags() {
   $('.color-tags')
     .children()
     .map(function() {
-      $(this).addClass(SemanticUIColors[randomInt(0, SemanticUIColors.length)])
+      $(this).addClass(SemanticUIColors[6])
+      //or make it random: randomInt(0, SemanticUIColors.length)
     })
 }

@@ -22,12 +22,12 @@
     {{ end }}
   </div>
   <div class="widget">
-    <h6 class="mb-4">TAG</h6>
+    <h6 class="mb-4">TAGS</h6>
     {{- if isset .Site.Taxonomies "tags" }}
     {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
     <ul class="list-inline tag-list">
       {{- range $name, $items := .Site.Taxonomies.tags }}
-      <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | humanize }}</a></li>
+      <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | lower }}</a></li>
       {{- end }}
     </ul>
     {{- end }}
@@ -39,7 +39,7 @@
     {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
     <ul class="list-inline tag-list">
       {{- range $name, $items := .Site.Taxonomies.categories }}
-      <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | humanize }}</a></li>
+      <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
       {{- end }}
     </ul>
     {{- end }}

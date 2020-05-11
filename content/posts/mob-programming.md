@@ -6,7 +6,7 @@ author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/mob-programming.jpg"
 tags: ["practice"]
-categories: ["collaborative", "learn", "socialize"]
+categories: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 

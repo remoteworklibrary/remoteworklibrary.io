@@ -9,14 +9,12 @@ Open Library for Remote Work Culture, Practices and Tools
 ![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
 
 ## Write Content
-![Get used to Hugo](https://gohugo.io/getting-started/quick-start) and then:
+[Get used to Hugo](https://gohugo.io/getting-started/quick-start) and then:
  1) `hugo new posts/<articleTitle>.md` (as file name without blanks, e.g. `hello-world.md`)
  2) edit content
  3) `hugo server -D`
 
 ### Edit page header
-
-
 
 ```
 ---
@@ -32,7 +30,11 @@ draft: true
 ---
 ```
 
-### Add image
+### Add images
+Place image in _/static/img_ and refer them in markdown:
+```
+![mypic](/img/mypic.jpg)
+```
 
 ## Deploy Site
  * Site is automatically deployed by a github action to a github page

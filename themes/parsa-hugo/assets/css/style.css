@@ -813,6 +813,10 @@ blockquote {
   height: auto;
 }
 
+.content li {
+  margin-bottom: 5px;
+}
+
 .widget {
   padding: 15px 0;
 }

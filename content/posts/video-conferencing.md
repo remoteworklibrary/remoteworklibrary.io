@@ -47,6 +47,5 @@ Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/p
  * [GotoMeeting](https://www.gotomeeting.com)
  * [Jitsi (Open Source)](https://jitsi.org)
 
-### Related items
-
-`* [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})`
+### Related items 
+ * [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})

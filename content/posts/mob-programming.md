@@ -13,7 +13,7 @@ draft: true
 You know pair programming? Mob programming is similar to pair programming with the entire team.
 <!--more-->
 
-## What is it?
+## What is Mob Programming?
 
 Mob programming is a practice where your complete team comes together to implement a small user story or feature.
 

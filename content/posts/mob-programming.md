@@ -13,15 +13,15 @@ draft: true
 You know pair programming? Mob programming is similar to pair programming with the entire team.
 <!--more-->
 
-## What is Mob Programming?
+## What is it?
 
 Mob programming is a practice where your complete team comes together to implement a small user story or feature.
 
-## Why do Mob Programming?
+## Why use it?
 
 Mob Programming helps you to share information about how a problem is solved in your source code or how a specific part of the implementation is realized with the whole team. It is also an option to easily onboard new team members or discuss working methods with the help of a concrete example.
 
-## How to do Mob Programming?
+## How to do it?
 
 Like Pair Programming, Mob Programming also has the roles of 'driver' and 'navigator'. The driver writes the program code while sharing the screen for all others (e.g. with video conferencing tool). All participants watch the shared source code and collaborate on solving the problem. One of the team members has the role of the navigator (this role switches) and tells the driver what to do.
 

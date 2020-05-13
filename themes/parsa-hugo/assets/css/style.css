@@ -854,6 +854,10 @@ blockquote {
   color: #28537D;
 }
 
+li.author {
+  font-size: 13px!important;
+}
+
 .ui.red.label {
   background-color:#db2828!important;
   border-color:#db2828!important;

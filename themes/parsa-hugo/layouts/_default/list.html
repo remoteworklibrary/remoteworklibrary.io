@@ -25,11 +25,11 @@
             <article class="text-center">
               <img class="img-fluid mb-4 rounded" src="{{.Params.Image | absURL }}" alt="post-thumb">
               <div>
-                {{- if isset .Params "categories" }}
-                {{- if not (eq (len .Params.Categories) 0) }}
+                {{- if isset .Params "tags" }}
+                {{- if not (eq (len .Params.Tags) 0) }}
                 <ul class="list-inline tag-list">
-                  {{- range $index, $name := .Params.Categories }}
-                  <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
+                  {{- range $index, $name := .Params.Tags }}
+                  <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
                   {{- end }}
                 </ul>
                 {{- end }}

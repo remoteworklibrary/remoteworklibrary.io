@@ -108,3 +108,8 @@ URL = "https://www.linkedin.com/company/qaware-gmbh"
 [[params.social]]
 icon = "ti-github"
 URL = "https://github.com/remoteworklibrary"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+	  footnote = true

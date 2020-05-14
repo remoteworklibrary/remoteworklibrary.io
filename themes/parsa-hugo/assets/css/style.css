@@ -66,6 +66,10 @@ h4, .h4 {
   font-size: 25px;
 }
 
+p.figcaption {
+  font-size: 12px;
+}
+
 h5, .h5 {
   font-size: 20px;
 }

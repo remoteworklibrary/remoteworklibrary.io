@@ -10,17 +10,17 @@ categories: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 
-Video conferencing is a fundamental technology in remote settings. It brings teams close together even if there are huge physical distances in between.
+Video conferencing is a fundamental technology in remote work settings. It brings teams close together even if there are huge physical distances in between.
 
 <!--more-->
 
 ## What is it?
 
-Video conferencing is a tool to enable multiple participants (1:1 up to hundreds) to communicate: by voice, by video, by chat, and by screen sharing. 
+Video conferencing is a tool to enable multiple participants (1:1 up to hundreds) to communicate: by voice, video, chat, and screen sharing. 
 
 ## Why use it?
 
-Without video conferencing your fallback solution are phone calls and conferences and e-mails. Trust me: you don't want to run into this fallback solution...
+Without video conferencing your fallback solutions are phone calls and e-mails. Trust me: you don't want to run into these fallback solutions...
 
 ## How to do it?
 
@@ -29,10 +29,10 @@ Best practices:
  * keep the focus on the meeting
  * use virtual backgrounds to avoid visual distractions
  * learn the most important hot keys: start/stop screen sharing, mute/unmute, push-to-talk, mute others (host only)
- * showing support without voice: raise hand, +1 in chat
- * avoid interruptions with questions and async feedback on accompanying chat
- * be dressed (at least above the desk) like in the office
- * get to know the power features of your video conferencing solution like breakout rooms, polls, integrated whiteboards etc
+ * show support without speaking: raise hand, +1 in chat
+ * avoid interruptions with questions and write your feedback in the chat
+ * get dressed like in the office
+ * get to know the power features of your video conferencing solution like breakout rooms, polls, integrated whiteboards etc.
 
 Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})
    

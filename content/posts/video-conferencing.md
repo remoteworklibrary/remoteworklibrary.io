@@ -5,8 +5,8 @@ lastmod: 2020-05-11
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "img/video-conferencing.jpg"
-tags: ["tool"]
-categories: ["collaborate", "learn", "socialize"]
+categories: ["tool"]
+tags: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 

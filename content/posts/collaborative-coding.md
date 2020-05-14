@@ -5,8 +5,8 @@ lastmod: 2020-05-05
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "img/collaborative-coding.jpg"
-tags: ["tool","practice"]
-categories: ["collaborate", "learn"]
+categories: ["tool","practice"]
+tags: ["collaborate", "learn"]
 draft: true
 ---
 

@@ -5,8 +5,8 @@ lastmod: 2020-05-11T10:43:02+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/telepresence.jpg"
-tags: ["tool"]
-categories: ["collaborate", "socialize"]
+categories: ["tool"]
+tags: ["collaborate", "socialize"]
 draft: true
 ---
 

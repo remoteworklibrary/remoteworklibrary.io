@@ -5,8 +5,8 @@ lastmod: 2020-05-11
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: /img/digital-whiteboard.jpg
-tags: ["tool"]
-categories: ["collaborate"]
+categories: ["tool"]
+tags: ["collaborate"]
 draft: true
 ---
 

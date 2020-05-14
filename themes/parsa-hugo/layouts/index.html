@@ -8,15 +8,15 @@
         
         <h1>Remote Work Library</h1>
         <p>
-          An open and community-driven library for <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/tool/">tools</a>, 
-          <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/practice/">practices</a>, and elements of corporate 
-          <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/culture/">culture</a> 
+          An open and community-driven library for <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/tool/">tools</a>, 
+          <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/practice/">practices</a>, and elements of corporate 
+          <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/culture/">culture</a> 
           for effective remote work. For individuals and teams. For full remote work, distributed teams and hybrid 
-          scenarios. Addresses all working modes: <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/focus/">focus</a>, 
-          <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/collaborate/">collaborate</a>, 
-          <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/learn/">learn</a>, 
-          <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/socialize/">socialize &amp; serendipity</a>, and 
-          <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/rejuvenate/">rejuvenate</a>.
+          scenarios. Addresses all working modes: <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/focus/">focus</a>, 
+          <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/collaborate/">collaborate</a>, 
+          <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/learn/">learn</a>, 
+          <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/socialize/">socialize &amp; serendipity</a>, and 
+          <a class="badge badge-primary" href="{{ "tags/" | relLangURL }}/rejuvenate/">rejuvenate</a>.
         </p>
       </div>
     </div>
@@ -34,7 +34,7 @@
           <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
           <div class="card-img-overlay">
             <div class="card-content">
-              <p class="text-uppercase">{{.Params.Categories}}</p>
+              <p class="text-uppercase">{{.Params.Tags}}</p>
               <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
               <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
             </div>
@@ -91,11 +91,11 @@
         <article class="text-center">
           <img class="img-fluid mb-4 rounded" src="{{.Params.Image | absURL }}" alt="post-thumb">
           <div>
-            {{- if isset .Params "categories" }}
-            {{- if not (eq (len .Params.Categories) 0) }}
+            {{- if isset .Params "tags" }}
+            {{- if not (eq (len .Params.Tags) 0) }}
             <ul class="list-inline tag-list">
-              {{- range $index, $name := .Params.Categories }}
-              <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
+              {{- range $index, $name := .Params.Tags }}
+              <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
               {{- end }}
             </ul>
             {{- end }}

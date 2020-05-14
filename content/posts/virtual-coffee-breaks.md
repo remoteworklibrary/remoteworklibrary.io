@@ -5,8 +5,8 @@ lastmod: 2020-05-03T19:24:31+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/virtual-coffee-breaks.jpg"
-tags: ["culture"]
-categories: ["socialize", "rejuvenate"]
+categories: ["culture"]
+tags: ["socialize", "rejuvenate"]
 draft: true
 ---
 

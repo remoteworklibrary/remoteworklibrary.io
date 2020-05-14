@@ -5,8 +5,8 @@ lastmod: 2020-05-11
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: /img/remote-meetings.jpg
-tags: ["practice", "culture"]
-categories: ["collaborate"]
+categories: ["practice", "culture"]
+tags: ["collaborate"]
 draft: true
 ---
 

@@ -5,8 +5,8 @@ lastmod: 2020-05-13T12:36:26+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "img/health-checks.jpg"
-tags: ["practice", "tool", "culture"]
-categories: ["collaborative", "learn", "rejuvenate"]
+categories: ["practice", "tool", "culture"]
+tags: ["collaborate", "learn", "rejuvenate"]
 draft: true
 ---
 

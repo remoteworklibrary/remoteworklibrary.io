@@ -13,23 +13,6 @@
       </div>
     </div>
   </div>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6">
-        <!--[if lte IE 8]>
-          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-        <![endif]-->
-        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-        <script>
-          hbspt.forms.create({
-            portalId: "5338476",
-            formId: "c4209797-f9d4-4d76-a9cf-e8baaa49a481"
-          });
-        </script>
-      </div>
-    </div>
-  </div>
 </section>
 
 {{ if eq .Site.Params.layout "1" }}
@@ -223,6 +206,24 @@
 </section>
 <!-- /blog post -->
 
-{{partial "instafeed.html" . }}
+<div class="container">
+  <div class="row">
+      <h6>Please subscribe to our newsletter if you want to receive updates on remote work tools, practices, and culture elements:</h6>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <!--[if lte IE 8]>
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+      <![endif]-->
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+      <script>
+        hbspt.forms.create({
+          portalId: "5338476",
+          formId: "c4209797-f9d4-4d76-a9cf-e8baaa49a481"
+        });
+      </script>
+    </div>
+  </div>
+</div>
 
 {{ end }}

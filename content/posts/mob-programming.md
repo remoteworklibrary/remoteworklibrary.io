@@ -40,4 +40,5 @@ Like Pair Programming, Mob Programming also has the roles of 'driver' and 'navig
 
 ### Related Practices or Tools
 
+* [Collaborative Coding]({{< ref "/posts/collaborative-coding.md" >}})
 * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})

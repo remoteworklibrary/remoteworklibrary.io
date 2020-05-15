@@ -6,7 +6,7 @@ description: "Data Privacy Information"
 
 ## Basic Information
 
-You can finde the basics of our privacy policy [here](https://www.qaware.de/datenschutz/).
+You can find the basics of our privacy policy [here](https://www.qaware.de/datenschutz/).
 
 ## Which cookies are used by remoteworklibrary.io?
 

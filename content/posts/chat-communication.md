@@ -6,9 +6,8 @@ description: "This is meta description"
 type: "post"
 author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
 image: "img/chat-communication.jpg"
-tags: ["tool", "practice", "culture"]
-categories: ["collaborate", "socialize"]
-# showcase: true
+categories: ["tool", "practice", "culture"]
+tags: ["collaborate", "socialize"]
 draft: true
 ---
 

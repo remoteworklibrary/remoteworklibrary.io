@@ -4,8 +4,8 @@ date: 2020-05-14
 lastmod: 2020-05-14
 description: "This is meta description"
 type: "post"
-author: Ziba Cole
-image: "img/online-retrospectives.jpg"
+author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
+image: "img/chat-communication.jpg"
 tags: ["tool", "practice", "culture"]
 categories: ["collaborate", "socialize"]
 # showcase: true
@@ -27,6 +27,7 @@ In a chat a distributed team can communicate quick and easy - almost as if they 
 ## How to do it?
 
 Just as in a regular conversation, it is important to note that certain rules of communication also apply in chat communication:
+
 * always be aware of the range and the target group of the message
 * read the message carefully again before sending and ask yourself how your counterpart might perceive it and whether you have expressed yourself clearly. If there are formulations that are misunderstandable, correct them.
 * pay attention to give sufficient context so that the message is understandable
@@ -37,19 +38,15 @@ Just as in a regular conversation, it is important to note that certain rules of
 * try to reduce notifications, e.g. by bundling the request/message
 * use status options to show your availability
 * be aware that messages are not always answered immediately
-
    
 ## Further information
 
 ### Available tools
 
  * [Slack](https://slack.com)
+ * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/group-chat-software)
  * [Skype](https://www.skype.com)
  
-
 ### Related items
 
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-
-
-
+* [Meeting Guideline]({{< ref "/posts/meeting-guideline.md" >}})

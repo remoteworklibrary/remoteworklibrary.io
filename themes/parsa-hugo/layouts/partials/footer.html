@@ -42,7 +42,7 @@
     </div>
   </div>
   <div class="text-center pb-3">
-    <p class="mb-0">{{ .Site.Params.copyright | markdownify }}</p>
+    <p class="mb-0">{{ .Site.Params.copyright | safeHTML }}</p>
   </div>
 </footer>
 

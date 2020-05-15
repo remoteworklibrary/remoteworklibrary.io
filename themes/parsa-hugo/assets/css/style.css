@@ -66,10 +66,6 @@ h4, .h4 {
   font-size: 25px;
 }
 
-p.figcaption {
-  font-size: 12px;
-}
-
 h5, .h5 {
   font-size: 20px;
 }
@@ -862,6 +858,22 @@ li.author {
   font-size: 13px!important;
 }
 
+/* figures */
+figure {
+  float: center;
+  text-align: center;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+figure img  {
+  margin-bottom: 10px!important;
+}
+figcaption p {
+  font-size: 13px;
+}
+
+/* tag labels */
 .ui.red.label {
   background-color:#db2828!important;
   border-color:#db2828!important;
@@ -936,6 +948,7 @@ li.author {
   color: #fff;
   background-color: #2185d0;
 }
+
 
 /** Social Share Buttons **/
 

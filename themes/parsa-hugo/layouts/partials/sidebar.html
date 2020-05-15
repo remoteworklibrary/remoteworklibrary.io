@@ -14,6 +14,12 @@
         <a href="//www.linkedin.com/sharing/share-offsite/?mini=true&amp;url={{ .Permalink }}&amp;title={{ .Title }}&amp;source={{ .Site.Params.socialLinkedAccount }}" target="_blank" class="ui label share-btn linkedin"><i class="ti-linkedin"></i>&nbsp;LinkedIn</a>
       </li>
       {{ end }}
+      <!-- Mail -->
+      {{ if .Site.Params.socialShareMail | default true}}
+      <li class="list-inline-item m-1">
+        <a href="mailto:?subject=remoteworklibrary.io:%20{{ .Title }}%20&amp;body=From%20remoteworklibrary.io%3A%20{{ .Title }}%0A%0A{{ .Summary | plainify }}%0A%0ALink:%20{{ .Permalink }}%0A%0ANewsletter:%20{{.Site.BaseURL}}newsletter" title="Share post via email" target="_blank" class="ui label share-btn mail"><i class="ti-email"></i>&nbsp;Mail</a>
+      </li>
+      {{ end }}
     </ul>
   </div>
   <div class="widget">

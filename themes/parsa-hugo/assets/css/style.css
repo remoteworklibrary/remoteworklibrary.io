@@ -50,6 +50,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 35px;
+  margin-block-end: 1em;
 }
 
 @media (max-width: 767px) {
@@ -959,6 +960,11 @@ figcaption p {
 
 .share-btn.linkedin    { 
   background: #4875B4!important;
+  color:#fff!important;
+}
+
+.share-btn.mail    { 
+  background: #808080!important;
   color:#fff!important;
 }
 

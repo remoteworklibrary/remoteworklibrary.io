@@ -67,7 +67,7 @@ For simple surveys you do not necessarily need an extension. You can also simply
 
 #### Real-time presentation feedback
 
-If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, you can integrate real-time feedback tools for interactive questions directly into the presentation. The participants then vote via a web or smartphone app and the results are directly visible in the presentation. The drawback of this solution is that the surveys must be prepared and cannot be integrated on the fly into a meeting.
+If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, you can integrate real-time feedback tools for interactive questions directly into the presentation. The participants then vote via a web or smartphone app and the results are directly visible in the presentation. Examples of this type of tools are [Mentimeter and Poll Everywhere]({{< relref "#tools" >}}). The drawback of this solution is that the surveys must be prepared and cannot be integrated on the fly into a meeting.
 
 {{< vimeo 401017176 >}}
 

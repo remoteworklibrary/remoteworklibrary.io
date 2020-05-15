@@ -87,7 +87,7 @@
     <h2>Recent Topics</h2>
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
     {{ if eq .Site.Params.layout "1" }}
-    <div class="row masonry-container">
+    <div class="row">
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">

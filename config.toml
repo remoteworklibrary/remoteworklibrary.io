@@ -30,8 +30,6 @@ link = "plugins/headroom/headroom.js"
 [[params.plugins.js]]
 link = "plugins/instafeed/instafeed.min.js"
 [[params.plugins.js]]
-link = "plugins/masonry/masonry.js"
-[[params.plugins.js]]
 link = "plugins/reading-time/readingTime.min.js"
 [[params.plugins.js]]
 link = "plugins/smooth-scroll/smooth-scroll.js"

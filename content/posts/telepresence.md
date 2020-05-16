@@ -24,11 +24,11 @@ Telepresence groups together technical solutions that promise to solve three pro
 
 ## Why use it?
 
-In face-to-face meetings with a small number of remote participants, they are very easily overlooked and quickly get lost during a meeting. Telepresence tooling makes it possible that these participants are also recognized as part of the presence group and can actively participate in the meeting. 
+In face-to-face meetings with a small number of remote participants, they are very easily overlooked and quickly get lost during a meeting. Telepresence tooling makes it possible that these participants are also recognized as part of the presence group and can actively participate in the meeting.
 
 ## How to do it?
 
-For the troublesome situations described in the teaser exists solutions that solve one problem or even all of them. Single solutions are cheaper, less complex and can be integrated very easily into the remote office everyday business. 
+For the troublesome situations described in the teaser exists solutions that solve one problem or even all of them. Single solutions are cheaper, less complex and can be integrated very easily into the remote office everyday business.
 
 ### Telepresence cameras
 
@@ -36,7 +36,7 @@ Smart camera systems in meeting rooms or offices are the solution to problem #1:
 
 Conference room systems usually solve this problem with a wide-angle camera which permanently captures all participants in a meeting.
 
-360° cameras with integrated omnidirectional microphones and speakers that support a variety of video conferencing platforms (Zoom, Microsoft Teams, Webex, GotoMeeting, ...) are a good and cost-efficient start. A product line from this category are the Meeting Owl products of the manufacturer Owl Labs. The best feature of Meeting Owl is that the camera automatically focuses on the speaker. The result is an experience that almost feels like sitting side-by-side in a real room with the team. 
+360° cameras with integrated omnidirectional microphones and speakers that support a variety of video conferencing platforms (Zoom, Microsoft Teams, Webex, GotoMeeting, ...) are a good and cost-efficient start. A product line from this category are the Meeting Owl products of the manufacturer Owl Labs. The best feature of Meeting Owl is that the camera automatically focuses on the speaker. The result is an experience that almost feels like sitting side-by-side in a real room with the team.
 
 > The Meeting Owl smart video conferencing camera captures 360° video and audio for a near face-to-face experience.
 
@@ -52,7 +52,7 @@ Another product in this category is the 360° camera *Meeting* from Kandao. This
 
 ### Tabletop telepresence
 
-Simply explained, tabletop telepresence systems are tablet PCs on a motor-driven arm. The devices are a technical solution for problem 1 and 2. These devices are placed on a meeting table as if there were a meeting participant sitting at that position. The remote participant can remotely control his tabletop telepresence system and thus take part in what is happening at the table or on the whiteboard of the meeting room. The hardware components of the tablet are used for communication (microphone, speakers, camera). The participants in the meeting room can see the remote participant on the tablet monitor. 
+Simply explained, tabletop telepresence systems are tablet PCs on a motor-driven arm. The devices are a technical solution for problem 1 and 2. These devices are placed on a meeting table as if there were a meeting participant sitting at that position. The remote participant can remotely control his tabletop telepresence system and thus take part in what is happening at the table or on the whiteboard of the meeting room. The hardware components of the tablet are used for communication (microphone, speakers, camera). The participants in the meeting room can see the remote participant on the tablet monitor.
 
 Systems of this type are best suited if a single person cannot attend a face-to-face meeting. The people in the meeting room can interact with the remote participant's clone in an almost natural way. An example of such a system is *KUBI*.
 
@@ -60,7 +60,7 @@ Systems of this type are best suited if a single person cannot attend a face-to-
 
 ### Telepresence robots
 
-Telepresence robots are the all-in-one solution for the three problems mentioned above. In addition to the features of tabletop systems, telepresence robots allow free movement in the room and, depending on the model, also have grippers or other possibilities for physical interactivity. Thus, these systems are also well suited to easily participate in meetings with position or room transfers. 
+Telepresence robots are the all-in-one solution for the three problems mentioned above. In addition to the features of tabletop systems, telepresence robots allow free movement in the room and, depending on the model, also have grippers or other possibilities for physical interactivity. Thus, these systems are also well suited to easily participate in meetings with position or room transfers.
 
 Because one can move independently from other people in office rooms, these systems are also suitable for "just cruising around". Walking around meeting and also occasional water cooler conversations become possible.
 

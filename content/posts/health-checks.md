@@ -24,7 +24,7 @@ Health checks should normally be part of every retro. But in some situations it 
 
 Every manager, team leader, agile master should do a short video call once a week with each team member. In a relaxed atmosphere for a short exchange. How are you doing? What was bothering or causing you problems at the job this week? Maybe I can help you? What did you enjoy most about your job this week? Tell something about your week so that your colleague can get to know your topics.
 
-If you work geographically distributed these regular meetings are very important. If you are not working site-by-site in one office, these conversations do not happen by chance. They must be done explicit. They must become routine without becoming boring and redundant. This is not easy. Every manager has to find an authentic way and establish a good relationship to the employees. 
+If you work geographically distributed these regular meetings are very important. If you are not working site-by-site in one office, these conversations do not happen by chance. They must be done explicit. They must become routine without becoming boring and redundant. This is not easy. Every manager has to find an authentic way and establish a good relationship to the employees.
 
 ### Team Health Checks
 
@@ -47,7 +47,7 @@ Health checks in the very small *Mood Check* format "How are you doing: good, ok
 
 #### TeamRetro
 
-An exemplary online tool for retros and health checks is [TeamRetro](https://www.teamretro.com/health-checks/). Out of the box, TeamRetro supports a range of health check models. 
+An exemplary online tool for retros and health checks is [TeamRetro](https://www.teamretro.com/health-checks/). Out of the box, TeamRetro supports a range of health check models.
 
 * Spotify Squad Health Check
 * Team radar
@@ -63,8 +63,6 @@ Atlassian has also thought about Team Health Checks. The results of their resear
 {{< figure src="/img/atlassian-project-team-health-monitor.png" caption="Atlassian Project Team Health Monitor (source: atlassian.com)" >}}
 
 In an online setting this model can be used e.g. via an online whiteboard like [Miro and Mural]({{< ref "/posts/tools-digital-whiteboard.md" >}}) or via the Confluence Teamplate ([link to marketplace](https://marketplace.atlassian.com/apps/1216029/leadership-team-health-monitor?hosting=cloud&tab=overview)).
-
-
 
 ## Further information
 

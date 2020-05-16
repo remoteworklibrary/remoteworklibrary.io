@@ -18,7 +18,7 @@ Instant messaging tools simplify the communication in remote work settings if yo
 ## What is it?
 
 Via a chat tool a team can communicate with eachother 1:1 or in (larger) groups. This comes in handy especially if the team works distributed.
- 
+
 ## Why use it?
 
 In a chat a distributed team can communicate quick and easy - almost as if they would sit next to each other. This way a chat tool also helps to socialize and to maintain the corporate culture in remote settings.
@@ -37,15 +37,15 @@ Just as in a regular conversation, it is important to note that certain rules of
 * try to reduce notifications, e.g. by bundling the request/message
 * use status options to show your availability
 * be aware that messages are not always answered immediately
-   
+
 ## Further information
 
 ### Available tools
 
- * [Slack](https://slack.com)
- * [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/group-chat-software)
- * [Skype](https://www.skype.com)
- 
+* [Slack](https://slack.com)
+* [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/group-chat-software)
+* [Skype](https://www.skype.com)
+
 ### Related items
 
 * [Meeting Guideline]({{< ref "/posts/meeting-guideline.md" >}})

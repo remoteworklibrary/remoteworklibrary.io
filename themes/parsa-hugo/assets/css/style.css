@@ -916,9 +916,10 @@ figcaption p {
 }
 
 .ui.blue.label  {
-  background-color:#4F9FDC!important;
-  border-color:#4F9FDC!important;
-  color:#fff!important
+  background-color:#F9F598!important;
+  border-color:#F9F598!important;
+  color:#585757!important;
+  font-weight: 700;
 }
 
 .ui.violet.label  {
@@ -950,13 +951,11 @@ figcaption p {
 }
 
 .badge-primary {
-  color: #fff;
-  background-color: #2185d0;
+  color: #000;
+  background-color: #F9F598;
 }
 
-
 /** Social Share Buttons **/
-
 .share-btn.twitter     { 
   background: #55acee!important;
   color:#fff!important;
@@ -971,5 +970,4 @@ figcaption p {
   background: #808080!important;
   color:#fff!important;
 }
-
 /*# sourceMappingURL=maps/style.css.map */

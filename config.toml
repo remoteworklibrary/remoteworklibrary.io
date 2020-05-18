@@ -80,7 +80,7 @@ contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "UA-538827-4"
 # copyright
-copyright = "Made with &#x2764; from home<br/>Picture credits: gettyimages.com"
+copyright = "Made with &#x2764; from home<br/>Picture credits: <a target=\"_blank\" href=\"https://gettyimages.com\">gettyimages.com</a>"
 
 socialShareLinkedin  = true
 socialLinkedAccount = "qaware-gmbh"

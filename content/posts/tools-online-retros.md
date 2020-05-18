@@ -65,5 +65,5 @@ After the retrospective, the result is provided to all participants and to other
 ### Related items
 
 * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Health Checks]({{< ref "/posts/health-checks.md" >}})
+* [Health Checks]({{< ref "/posts/team-health-checks.md" >}})
 * [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}})

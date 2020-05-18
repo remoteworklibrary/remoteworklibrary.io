@@ -31,9 +31,9 @@ Here is our how-to for the different stages of a digital whiteboard session:
 
 ### ... prepare a whiteboard session
 
-Prepare the session right on the canvas. Try to reflect the meeting agenda directly on the whiteboard: Add the agenda and prepare regions for every agenda item. Visually link the regions according the storyline of the meeting. 
+Prepare the session right on the canvas. Try to reflect the meeting agenda directly on the whiteboard: Add the agenda and prepare regions for every agenda item. Visually link the regions according the storyline of the meeting.
 
-If the agenda item is a presentation: Include the slides on the whiteboard. 
+If the agenda item is a presentation: Include the slides on the whiteboard.
 
 If the agenda item is interactive: Choose an appropriate template that facilitates the required group process the most. Good digital whiteboard solutions provide templates for a lot of creative methodologies (like those listed at [servicedesigntools.org](https://servicedesigntools.org/tools) or [Open Practice Library](https://openpracticelibrary.com)).
 
@@ -44,24 +44,26 @@ Finally: Lock all parts of the whiteboard which shouldn't be modified during the
 ### ... run a whiteboard session
 
 Each whiteboard session needs a facilitator who guides the group through the agenda and the corresponding whiteboard. There are basically three different interaction modes during a digital whiteboard session:
- 1. _Brainstorming mode_, where all participants first insert their ideas, then the ideas are presented and clustered and finally conclusions are derived.
- 2. _Co-edition mode_, where a small group of participants (3-5) is editing the same region of the whiteboard simultaneously and all modifications are merged in real-time.
- 3. _Presentation mode_, where one participant presents a region of the whiteboard or draws & explains in real-time.
+
+1. _Brainstorming mode_, where all participants first insert their ideas, then the ideas are presented and clustered and finally conclusions are derived.
+2. _Co-edition mode_, where a small group of participants (3-5) is editing the same region of the whiteboard simultaneously and all modifications are merged in real-time.
+3. _Presentation mode_, where one participant presents a region of the whiteboard or draws & explains in real-time.
 
 Meeting minutes can be written directly to the whiteboard or on a separate document which is linked to it.
 
 ### ... follow-up a whiteboard session
 
-After a whiteboard session, it's good practice to send a link to the final whiteboard to all participants and maybe some other effected stakeholders and lock all items on the whiteboard for edits before. 
-   
+After a whiteboard session, it's good practice to send a link to the final whiteboard to all participants and maybe some other effected stakeholders and lock all items on the whiteboard for edits before.
+
 ## Further information
 
 ### Available tools
- * [G2: List of Collaborative Whiteboard Software](https://www.g2.com/categories/collaborative-whiteboard)
- * Digital whiteboards in video conferencing solutions like [Zoom](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard), [Webex](https://help.webex.com/de-de/zfhy55/Use-the-Whiteboard-on-Cisco-Webex-Board), [Teams](https://myteamsday.com/2019/11/19/how-to-use-whiteboard-in-teams-meetings)
- * The leading digital whiteboards: [miro](https://miro.com) and [Mural](https://mural.co)
- * A digital collaboration space for Office 365: [Deon](https://deon.de)
- * Some hardware devices for digital whiteboards: [Google Jambaord](https://gsuite.google.com/products/jamboard/), Microsoft [SurfaceHub](https://www.microsoft.com/en-us/surface/business/surface-hub-2), 
+
+* [G2: List of Collaborative Whiteboard Software](https://www.g2.com/categories/collaborative-whiteboard)
+* Digital whiteboards in video conferencing solutions like [Zoom](https://support.zoom.us/hc/en-us/articles/205677665-Sharing-a-whiteboard), [Webex](https://help.webex.com/de-de/zfhy55/Use-the-Whiteboard-on-Cisco-Webex-Board), [Teams](https://myteamsday.com/2019/11/19/how-to-use-whiteboard-in-teams-meetings)
+* The leading digital whiteboards: [miro](https://miro.com) and [Mural](https://mural.co)
+* A digital collaboration space for Office 365: [Deon](https://deon.de)
+* Some hardware devices for digital whiteboards: [Google Jambaord](https://gsuite.google.com/products/jamboard/), Microsoft [SurfaceHub](https://www.microsoft.com/en-us/surface/business/surface-hub-2)
 
 ### Related items
 

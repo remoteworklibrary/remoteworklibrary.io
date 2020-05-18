@@ -61,7 +61,7 @@ The fastest way to set up an Instant Feedback poll with Polly in Slack are Yes-N
 
 {{< figure src="/img/polls-polly-yesno.png" caption="YesNo poll visualization in Slack channel" >}}
 
-For simple surveys you do not necessarily need an extension. You can also simply write a post and the participants answer with emojis. 
+For simple surveys you do not necessarily need an extension. You can also simply write a post and the participants answer with emojis.
 
 {{< figure src="/img/polls-emojipoll.png" caption="Emoji poll with Slack" >}}
 
@@ -88,4 +88,3 @@ If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, yo
 * [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}})
 * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
 * [Health Checks]({{< ref "/posts/health-checks.md" >}})
-

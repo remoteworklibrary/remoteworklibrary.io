@@ -4,9 +4,9 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h1 class="text-center">Remote Work Library</h1>
+        <!--<h1 class="text-center">Remote Work Library</h1>-->
 
-        <p>
+        <p style="font-size: 18px; padding-left: 27px;">
           An open and community-driven library for <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/tool/">tools</a>, 
           <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/practice/">practices</a>, and elements of corporate 
           <a class="badge badge-primary" href="{{ "categories/" | relLangURL }}/culture/">culture</a> 
@@ -87,7 +87,7 @@
     <h2>Recent Topics</h2>
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
     {{ if eq .Site.Params.layout "1" }}
-    <div class="row masonry-container">
+    <div class="row">
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">

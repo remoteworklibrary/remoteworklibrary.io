@@ -10,34 +10,34 @@ tags: ["collaborate", "learn"]
 draft: true
 ---
 
-Sometimes it is important to get feedback from colleagues during a meeting, workshop or in the middle of the working day. There are excellent tools for getting input quickly and easily.
+Sometimes it is important to get instant feedback from colleagues during a meeting or a workshop or in the middle of the working day. There are excellent tools to get input quickly and easily.
 
 <!--more-->
 
 ## What is it and why use it?
 
-"A smile often says more than a thousand words". A simple honest smile is an instant feedback, for example on a decision made in a meeting. What might be simple in a meeting room quickly becomes a challenge in a video call or in an asynchronous communication via email or messenger. In this case you always have to explicitly aks for feedback, often during a meeting to make the right decisions to have an agreement for the next steps.
+"A smile often says more than a thousand words". A simple and honest smile is an instant feedback, for example on a decision made in a meeting. What might be simple in a meeting room quickly becomes a challenge in a video call or in an asynchronous communication via e-mail or messenger. In this case you always have to explicitly ask for feedback, e.g. during a meeting to make the right decision or to have an agreement on the next steps.
 
 ## How to do it?
 
 ### Thumbs up
 
-In small meeting rounds it is easiest if you explicitly add a short feedback question with each decision: How do you feel about the decision? Thumbs up, thumbs down or ok? We call these polls "Flash Light Polls" and they are most easily comparable as a mix of *Traffic Light Polls* and *Muddiest Point* ([CATs]({{< relref "#tools" >}})). In a second round participants who have shown their thumbs down can briefly explain their disagreement in one sentence and propose a compromise solution. The goal of this exercise is to enable the moderator to quickly measure the confidence of all participants on a topic.
+In small meetings it is easy to explicitly add a short feedback question with pre-defined answers: How do you feel about the decision? Thumbs up, thumbs down or ok? We call these polls "Flash Light Polls" and they are comparable to a mix of *Traffic Light Polls* and *Muddiest Point* ([CATs]({{< relref "#tools" >}})). After giving their answer, participants who have shown their thumbs down can briefly explain their disagreement in one sentence and propose a compromise solution. The goal of this exercise is to enable the moderator to quickly measure the confidence of all participants on a certain topic.
 
-In a remote meeting, such a survey can be technically implemented very quickly:
+During a remote meeting, such a survey can be technically implemented very quickly:
 
-* In a video conference, each participant holds their thumb or a [traffic light]({{< relref "#tools" >}}) card into the camera.
-* Some video conferencing tools offer features for non-verbal communication. For example [Zoom]({{< relref "#tools" >}})
+* In a video conference, each participant holds his/her thumb or a [traffic light]({{< relref "#tools" >}}) card into the camera.
+* Some video conferencing tools offer features for non-verbal instant feedback. For example [Zoom]({{< relref "#tools" >}})
 
 {{< figure src="/img/polls-zoom-nonverbal-feedback.png" caption="Zoom non-verbal communication icons" >}}
 
 ### Polls
 
-If you don't like analog polls so much, you can use a bunch of digital tools for Instand Feedback polls.
+If you don't like analog polls so much, there are also many digital tools for instant feedback polls.
 
 #### Video Conferencing Polls
 
-Good video conferencing tools have poll features integrated in their clients. As a moderator you have the possibility to create polls in your pre-meeting preperation and also export the results after the meeting.
+Good video conferencing tools have poll features integrated in their clients. As a moderator you can create polls before the meeting and export the results afterwards.
 
 The first video shows how you can create surveys with zoom and use them in a meeting:
 
@@ -49,14 +49,14 @@ The second video shows the same for Webex:
 
 #### Messenger Polls
 
-Messenger services can also be easily used during a meeting for Instand feedback polls. Depending on the messenger, polls are already included out-of-the-box in the product or can be added as an extension. A very popular extension for Slack and Microsoft teams is [Polly]({{< relref "#tools" >}}).
+Messenger services can also be easily used for instant feedback polls during a meeting. Depending on the messenger, polls are either already included in the product or can be added as an extension. A very popular extension for Slack and Microsoft teams is [Polly]({{< relref "#tools" >}}).
 
 {{< youtube O1eGsofm-Rk >}}
 
-The fastest way to set up an Instant Feedback poll with Polly in Slack are Yes-No questions. These can be created with one *slash command* in a channel.
+The fastest way to set up an instant feedback poll with Polly in Slack are yes-no questions. These can be created with a *slash command* in a channel.
 
 {{< highlight plaintext >}}
-/yesno Do we have to discuss a second example, or can we move on to the next agenda item?
+/yesno Do we have to discuss a second example?
 {{< / highlight >}}
 
 {{< figure src="/img/polls-polly-yesno.png" caption="YesNo poll visualization in Slack channel" >}}
@@ -67,7 +67,7 @@ For simple surveys you do not necessarily need an extension. You can also simply
 
 #### Real-time presentation feedback
 
-If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, you can integrate real-time feedback tools for interactive questions directly into the presentation. The participants then vote via a web or smartphone app and the results are directly visible in the presentation. Examples of this type of tools are [Mentimeter and Poll Everywhere]({{< relref "#tools" >}}). The drawback of this solution is that the surveys must be prepared and cannot be integrated on the fly into a meeting.
+If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, you can integrate real-time feedback tools for interactive questions directly into the presentation. The participants then vote via a web or smartphone app and the results are directly visible in the presentation. Examples of these types of tools are [Mentimeter and Poll Everywhere]({{< relref "#tools" >}}). The drawback of these solutions is that the surveys must be prepared in advance and cannot be integrated on the fly during a meeting.
 
 {{< vimeo 401017176 >}}
 

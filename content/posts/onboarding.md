@@ -5,12 +5,12 @@ lastmod: 2020-05-18
 author: "[Claudia Wenter](https://www.linkedin.com/in/claudia-wenter-059306139/)"
 type: "post"
 image: "img/onboarding.jpg"
-categories: ["culture"]
+categories: ["culture", "tool"]
 tags: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 
-Onsite interviews are ideal for both parties to get to know each other from a professional and cultural perspective. This post describes why it also works in a remote setting.
+The first days in a new company are important. Getting productive quickly, meeting colleagues and breathing in the company culture. A mentor and the right tooling will help.
 
 <!--more-->
 

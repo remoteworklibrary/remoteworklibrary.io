@@ -7,7 +7,6 @@ type: "post"
 image: "img/health-checks.jpg"
 categories: ["practice", "tool", "culture"]
 tags: ["collaborate", "learn", "rejuvenate", "socialize"]
-draft: true
 ---
 
 Health checks are a special form of feedback from colleagues in the team or company regarding how they are currently doing: mental, satisfaction with processes, tooling and goals.

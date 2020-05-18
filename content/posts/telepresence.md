@@ -84,4 +84,3 @@ The second video shows a robot from Origin Robotics with a controllable gripper 
 ### Related items
 
 * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})

@@ -892,9 +892,10 @@ figcaption p {
 }
 
 .ui.yellow.label  {
-  background-color:#fbbd08!important;
-  border-color:#fbbd08!important;
-  color:#fff!important
+  background-color:#F9F598!important;
+  border-color:#F9F598!important;
+  color:#585757!important;
+  font-weight: 600;
 }
 
 .ui.olive.label {
@@ -916,10 +917,9 @@ figcaption p {
 }
 
 .ui.blue.label  {
-  background-color:#F9F598!important;
-  border-color:#F9F598!important;
-  color:#585757!important;
-  font-weight: 700;
+  background-color:#4F9FDC!important;
+  border-color:#4F9FDC!important;
+  color:#fff!important
 }
 
 .ui.violet.label  {
@@ -950,7 +950,7 @@ figcaption p {
   border-radius: .2rem;
 }
 
-.badge-primary {
+.badge-primary,.badge-primary[href]:hover,.badge-primary[href]:focus {
   color: #000;
   background-color: #F9F598;
 }

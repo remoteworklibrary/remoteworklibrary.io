@@ -91,7 +91,9 @@
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
-          <img class="img-fluid mb-4 rounded" src="{{.Params.Image | absURL }}" alt="post-thumb">
+          <a href="{{.Permalink}}">
+            <img class="img-fluid mb-4 rounded" src="{{.Params.Image | absURL }}" alt="post-thumb">
+          </a>
           <div>
             {{- if isset .Params "tags" }}
             {{- if not (eq (len .Params.Tags) 0) }}
@@ -104,7 +106,7 @@
             {{- end }}
           </div>
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
-          <p>{{.Summary}}</p>
+          <p><a class="text-color" href="{{.Permalink}}">{{.Summary}}</a></p>
           <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
         </article>
       </div>

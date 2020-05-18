@@ -261,7 +261,11 @@ a:hover {
   color: #28537D;
 }
 a.text-dark:hover {
-  color: #000000 !important;
+  color: #000000!important;
+  text-decoration: none;
+}
+a.text-color:hover {
+  color: #585757!important;
   text-decoration: none;
 }
 a.label:hover{

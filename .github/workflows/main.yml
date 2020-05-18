@@ -46,7 +46,7 @@ jobs:
       
       # Build the Docker image for staging environment
       - name: Build
-        run: docker build --build-arg https://remoteworklibrary-zkop4aqvwa-ez.a.run.app/ --tag gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA . 
+        run: docker build --build-arg BASE_URL=https://remoteworklibrary-zkop4aqvwa-ez.a.run.app/ --tag gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA . 
         
       # Push the Docker image to Google Container Registry
       - name: Publish

@@ -8,7 +8,6 @@ author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
 image: "img/chat-communication.jpg"
 categories: ["tool", "practice", "culture"]
 tags: ["collaborate", "socialize"]
-draft: true
 ---
 
 Instant messaging tools simplify the communication in remote work settings if you stick to a few basic rules.

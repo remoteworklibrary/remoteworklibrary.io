@@ -8,7 +8,6 @@ author: Josef Adersberger
 image: "img/online-retrospectives.jpg"
 categories: ["tool", "practice", "culture"]
 tags: ["collaborate", "learn"]
-draft: true
 ---
 
 A Retrospective is an opportunity for the team to inspect itself and to create a plan for improvements to be enacted.

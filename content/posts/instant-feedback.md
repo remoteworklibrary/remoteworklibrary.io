@@ -7,7 +7,6 @@ type: "post"
 image: "img/polls.jpg"
 categories: ["practice", "tool"]
 tags: ["collaborate", "learn"]
-draft: true
 ---
 
 Sometimes it is important to get feedback from colleagues during a meeting, workshop or in the middle of the working day. There are excellent tools for getting input quickly and easily.

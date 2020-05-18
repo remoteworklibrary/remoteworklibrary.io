@@ -7,7 +7,6 @@ type: "post"
 image: "img/mob-programming.jpg"
 categories: ["practice"]
 tags: ["collaborate", "learn", "socialize"]
-draft: true
 ---
 
 You know pair programming? Mob programming is similar to pair programming with the entire team.

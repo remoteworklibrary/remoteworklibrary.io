@@ -7,7 +7,6 @@ type: "post"
 image: "img/video-conferencing.jpg"
 categories: ["tool"]
 tags: ["collaborate", "learn", "socialize"]
-draft: true
 ---
 
 Video conferencing is a fundamental technology in remote work settings. It brings teams close together even if there are huge physical distances in between.

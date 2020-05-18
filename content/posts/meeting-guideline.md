@@ -6,8 +6,7 @@ author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: /img/remote-meetings.jpg
 categories: ["practice", "culture"]
-tags: ["collaborate"]
-draft: true
+tags: ["collaborate", "focus"]
 ---
 
 It's hard to run effective virtual meetings. A remote meeting guideline provides guidance on how to keep them productive.

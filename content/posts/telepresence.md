@@ -7,7 +7,6 @@ type: "post"
 image: "img/telepresence.jpg"
 categories: ["tool"]
 tags: ["collaborate", "socialize"]
-draft: true
 ---
 
 Being present without being physically on the spot? This happens with telepresence hardware.

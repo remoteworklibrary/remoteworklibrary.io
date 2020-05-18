@@ -7,7 +7,6 @@ type: "post"
 image: "img/collaborative-coding.jpg"
 categories: ["tool","practice"]
 tags: ["collaborate", "learn"]
-draft: true
 ---
 
 Writing code in teams is always collaborative. But how to perform effective collaboration practices like pair programming or code walkthroughs in remote settings?

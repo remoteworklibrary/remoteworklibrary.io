@@ -7,7 +7,6 @@ type: "post"
 image: /img/digital-whiteboard.jpg
 categories: ["tool"]
 tags: ["collaborate"]
-draft: true
 ---
 
 Whiteboard sessions are often the heart of creative processes and stimulate team flow. Digital whiteboards help to transfer this collaborative experience into the digital world.

@@ -8,7 +8,7 @@ env:
   SERVICE_NAME: remoteworklibrary
 
 jobs:
-  deploy:
+  deploy-prod:
     runs-on: ubuntu-18.04
     steps:
       - name: Git checkout
@@ -33,6 +33,10 @@ jobs:
           publish_branch: master
           cname: www.remoteworklibrary.io
 
+    deploy-test-env:
+      - name: Git checkout
+        uses: actions/checkout@v2
+        
       # Setup gcloud CLI
       - name: setup gcloud CLI
         uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
@@ -49,7 +53,7 @@ jobs:
           --tag "gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA"
 
       # Deploy image to Cloud Run
-      - name: gcloud feploy
+      - name: gcloud deploy
         run: |-
           gcloud run deploy "$SERVICE_NAME" \
           --quiet \

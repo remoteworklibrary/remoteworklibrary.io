@@ -6,7 +6,7 @@ author: "[Claudia Wenter](https://www.linkedin.com/in/claudia-wenter-059306139/)
 type: "post"
 image: "img/onboarding.jpg"
 categories: ["culture"]
-tags: ["collaborate", "learn"]
+tags: ["collaborate", "learn", "socialize"]
 draft: true
 ---
 

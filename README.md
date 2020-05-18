@@ -9,18 +9,20 @@ Open Library for Remote Work Culture, Practices and Tools
 ![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
 
 ## Write Content
+
 [Get used to Hugo](https://gohugo.io/getting-started/quick-start) and then:
- 1) `hugo new posts/<articleTitle>.md` (as file name without blanks, e.g. `hello-world.md`)
- 2) edit content
- 3) `hugo server -D`
+
+1) `hugo new posts/<articleTitle>.md` (as file name without blanks, e.g. `hello-world.md`)
+2) edit content
+3) `hugo server -D`
 
 ### Edit page meta data
 
-The Hugo Generator creates the content page as a markdown file. After running the generator the meta data must be extended. 
+The Hugo Generator creates the content page as a markdown file. After running the generator the meta data must be extended.
 
 Generator example:
 
-```
+```md
 ---
 title: "Hello World"
 date: 2020-05-11T10:43:02+02:00
@@ -37,7 +39,7 @@ draft: true
 
 Final example:
 
-```
+```md
 ---
 title: "Hello World"
 date: 2020-05-11T10:43:02+02:00
@@ -55,7 +57,7 @@ draft: true
 
 Please search and download your images by [gettyimages](https://www.gettyimages.de/). Store title and content images for your post in folder `/static/img` and refer them in markdown:
 
-```
+```md
 ![mypic](/img/mypic.jpg)
 ```
 
@@ -66,5 +68,26 @@ Title image rules:
 
 For further information and storage of source files we have an own GitHub project [remoteworklibrary-assets](https://github.com/remoteworklibrary/remoteworklibrary-assets).
 
+## Docker Build & Run
+
+### Build image with current content
+
+```bash
+docker build -t gcr.io/engineering-cloud/remoteworklibrary:latest .
+```
+
+### Run Docker container from image
+
+```bash
+docker run -p 1313:80 --rm gcr.io/engineering-cloud/remoteworklibrary:latest
+```
+
+Start your browser and open <http://localhost:1313/.>
+
 ## Deploy Site
- * Site is automatically deployed by a github action to a github page
+
+* Site is automatically deployed by a github action to a github page
+  * GitHub project: https://github.com/remoteworklibrary/remoteworklibrary.github.io
+  * Site: https://www.remoteworklibrary.io
+* Test environment with draft posts is automatically deployed by a github action to a Google Cloud Run service
+  * Site: https://remoteworklibrary-zkop4aqvwa-ez.a.run.app

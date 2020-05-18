@@ -44,24 +44,14 @@ jobs:
       # Configure docker to use the gcloud command-line tool as a credential helper  
       - run: gcloud auth configure-docker
       
-      # Build the Docker image
+      # Build the Docker image for staging environment
       - name: Build
-        run: docker build . --tag gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA
+        run: docker build --build-arg https://remoteworklibrary-zkop4aqvwa-ez.a.run.app/ --tag gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA . 
         
       # Push the Docker image to Google Container Registry
       - name: Publish
         run: docker push gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA
         
-      # Deploy the Docker image to the GKE cluster
+      # Deploy the Docker image to Google Cloud Run
       - name: Deploy
         run: gcloud components install beta && gcloud beta run deploy $SERVICE_NAME --quiet --image gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA --project $PROJECT_ID --region $RUN_REGION --platform managed --allow-unauthenticated
-
-      # Deploy image to Cloud Run
-      #- name: gcloud deploy
-      #  run: |-
-      #    gcloud run deploy "$SERVICE_NAME" \
-      #    --quiet \
-      #    --region "$RUN_REGION" \
-      #    --image "gcr.io/$PROJECT_ID/$SERVICE_NAME:$GITHUB_SHA" \
-      #    --platform "managed" \
-      #    --allow-unauthenticated

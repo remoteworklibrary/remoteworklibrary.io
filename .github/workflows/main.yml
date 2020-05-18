@@ -33,10 +33,6 @@ jobs:
           publish_branch: master
           cname: www.remoteworklibrary.io
 
-    deploy-test-env:
-      - name: Git checkout
-        uses: actions/checkout@v2
-        
       # Setup gcloud CLI
       - name: setup gcloud CLI
         uses: GoogleCloudPlatform/github-actions/setup-gcloud@master

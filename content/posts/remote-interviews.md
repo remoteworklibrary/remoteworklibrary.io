@@ -31,7 +31,7 @@ Remote interviews enable hiring new employees without having onsite interviews.
 * Inform the candidates about your remote recruiting process and explain them why you are recruiting remotely
 * Invite the candidate to a video call and ask if a remote interview is fine. If the candidate prefers an onsite meeting, try to organize a meeting onsite or explain him/her why you are not able to meet onsite.
 * Send the login credentials and inform the candidate about the procedure. Don't forget to send your contact details (including a telephone number) in case the candidate needs to get in touch with you, i.e. if there is a technical issue
-* Share your remote meeting guidelines (see [Meeting Guideline]({{< ref "/posts/meeting-guideline.md" >}})) and inform the
+* Share your remote meeting guidelines (see [Meeting Guideline]({{< ref "/posts/meeting-guideline.md" >}}) ) and inform the
 candidate about the dress code
 * Make sure you have enough time for the meeting
 * If you are more than one interviewer, prepare a clear structure of the meeting and decide who will be the moderator

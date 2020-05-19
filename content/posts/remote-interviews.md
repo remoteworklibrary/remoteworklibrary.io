@@ -20,7 +20,7 @@ It is a process for hiring remotely.
 
 ## Why use it?
 
-Remote recruiting enables hiring new employees without having onsite interviews.
+Remote interviews enable hiring new employees without having onsite interviews.
 
 ## How to do it?
 

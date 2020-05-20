@@ -5,6 +5,7 @@ title = "Remote Work Library"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 100
+enableRobotsTXT = true
 
 # disable category and tag overview pages
 disableKinds = ["taxonomyTerm"]

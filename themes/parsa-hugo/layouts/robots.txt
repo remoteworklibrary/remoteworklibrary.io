@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: {{ .Sitemap.Filename | default "sitemap.xml" | absURL }}

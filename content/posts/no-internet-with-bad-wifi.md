@@ -10,27 +10,38 @@ tags: ["collaborate"]
 draft: true
 ---
 
-No video call without internet. Right. But what is the problem if your internet provider serves enough bandwidth to your home or office and but anyway your internet connection at your notebook is slow as in the 90ies?
+No video call without internet. Right. But why is it slow like in the 90ies even though you purchased a super broadband line from your internet provider? 
 
 <!--more-->
 
 ## What is it and why fix it?
 
-A remote worker often needs nothing more than his notebook and a good internet connection. But what if that's exactly the problem: Too slow, too unstable, too overloaded. Sure, if your internet connection to your provider is too slow or unstable, only your provider can fix this problem, or you can consider a change of provider or a relocation to an address with fast fiber. According to our analysis, most of the problems are not caused by the internet provider, but by bad WiFi conditions. This article provides tips and alternatives for tackling slow and unstable WiFi connections.
+A remote worker often needs nothing more than his computer and a good internet connection. But what if that's exactly the problem: Too slow, too unstable, too overloaded. Before you consider changing providers or relocating to a different address, check out your equipment on site. According to our analysis, most of the problems are not caused by the internet provider, but by bad WiFi conditions. This article provides alternatives to slow and unstable WiFi connections.
 
 ## How to do it?
 
-There’s several components between your laptop and the internet. Their overall performance can be no greater than what the weakest link in the whole chain can perform, and surprisingly often, you can optimize throughput without contacting your internet provider.
+There’s several components between your laptop and the internet. Their overall performance can not exceed the performance of their weakest link. Surprisingly often, you can optimize throughput without contacting your internet provider.
 
 ### WiFi is good, cable is better.
 
-No exceptions! Whenever you are able to connect your PC to your router via an ethernet cable, just do it! Even a typical 2010-ish 54 MBit WiFi setup would be easily able to handle a video stream in a perfect environment. After all, even a compressed FullHD stream can stay well below 3 Mbit. But reality usually kicks in and adds latency, congestion and several concrete walls to your WiFi. Just run a cable in the first place and save yourself A LOT of trouble.
+No exceptions! Whenever you are able to connect via an ethernet cable instead of WiFi, just do it! 
+Consider this: A common FullHD video stream in a digital meeting is well below 3 MBit/s. Even the (slightly outdated) 54 MBit/s WiFi setups would handle that, if only you could provide a perfect environment. Then reality kicks in and adds latency, congestion and  concrete walls. Just run a cable in the first place and save yourself A LOT of trouble.
 
 ### Get creative
 
-Yes. Running a cable across your house is a lot of work. It might still be worth the effort, considering the current circumstances. This is not the occasional work from home day. Odds are this will be your office for the next months or a year. Do it early, get the maximum out of it. There are some workarounds for more complex situations. Powerline adapters make use of the electricity lines in your house to transmit data “on top”. The throughput is surprisingly high and will easily handle multiple video conferences in parallel.
+Yes. Running the cable across your house can be a lot of work. It might still be worth the effort, considering the current circumstances. This is not the occasional work from home day. Odds are this will be your office for the next months or a year. Do it early, get the maximum out of it. 
 
-Vertical distance is often a bigger problem than horizontal distance. What if your router is in the basement but your workplace on the 2nd floor? Consider just running the cable on the outside wall. There are super-flat ethernet cables that will fit within window frames and doors. You might need a RJ45 coupler to connect them. Don’t worry, even indoor LAN cables withstand the weather pretty well for a year or longer. Just use some tape on the connection ends and you’ll be fine. Warning: Never do the same with power supply lines (high voltage electricity)! If you still can’t reach your workplace, would you be able to cover at least part of the distance, to place an additional WiFi access point at a location that is in better reach of your workplace?
+Workarounds exist for more complex situations. Powerline adapters use the electricity lines in your house to transmit data on top. The Throughput can reach Gigabit and the adapters are not expensive. 
+
+<!--Image Powerline adapter-->
+
+Vertical distance can be a bigger problem than horizontal distance. What if your router is in the basement but your workplace is on the 2nd floor? Consider running the cable on the outside wall. Super-flat ethernet cables will fit within window frames and underneath doors. Use RJ45 couplers to connect them. Don’t be too worried about weather, just make sure that you keep the connectors dry and/or cover them in lots of tape. Warning: Never do anything like this with power supply lines (high voltage electricity)!
+
+### If you just can't reach your desk
+
+If you still can’t reach your workplace, would you be able to cover at least part of the distance via cable, to place an additional WiFi access point at a more suitable location?
+
+Would you be able to relocate your router? Some houses have multiple telephone sockets available. Also, the cable that connects the telephone socket to your router can be even smaller in diameter than a CAT cable.
 
 ### Optimize your WiFi
 

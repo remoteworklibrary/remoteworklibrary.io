@@ -971,3 +971,8 @@ figcaption p {
   color:#fff!important;
 }
 /*# sourceMappingURL=maps/style.css.map */
+
+/** Hubspot newsletter form **/
+.hbspt-form .hs-form-iframe {
+  width: 100% !important;
+}

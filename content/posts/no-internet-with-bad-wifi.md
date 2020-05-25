@@ -33,7 +33,9 @@ Yes. Running the cable across your house can be a lot of work. It might still be
 
 Workarounds exist for more complex situations. Powerline adapters use the electricity lines in your house to transmit data on top. The Throughput can reach Gigabit and the adapters are not expensive. 
 
-<!--Image Powerline adapter-->
+{{< figure src="/img/Powerline.png" caption="Powerline Adapter (source: https://avm.de/produkte/fritzpowerline/fritzpowerline-1260e-wlan-set/)" >}}
+
+{{< figure src="/img/superflat_cat_cable.jpg" caption="Super-flat CAT cable for windowframes (source: https://www.wentronic.com/en/ultra-slim-rj45-window-feed-through-025-m-71411)" >}}
 
 Vertical distance can be a bigger problem than horizontal distance. What if your router is in the basement but your workplace is on the 2nd floor? Consider running the cable on the outside wall. Super-flat ethernet cables will fit within window frames and underneath doors. Use RJ45 couplers to connect them. Don’t be too worried about weather, just make sure that you keep the connectors dry and/or cover them in lots of tape. Warning: Never do anything like this with power supply lines (high voltage electricity)!
 
@@ -43,16 +45,13 @@ If you still can’t reach your workplace, would you be able to cover at least p
 
 Would you be able to relocate your router? Some houses have multiple telephone sockets available. Also, the cable that connects the telephone socket to your router can be even smaller in diameter than a CAT cable.
 
-### Optimize your WiFi
+### Just in case 
 
-If you are still not able to run the cable, then it’s time to check your WiFi settings. WiFi operates on two common frequency bands:
+If none of the above works for you, then you'll probably have to stick with WiFi. Check out this guide: 
+[Optimizing WiFi]({{< ref "/posts/optimizing-wifi.md" >}})
 
-* 2.4 GHz: long range, good transmission through walls and ceilings, widely used, easily
-congested. Also the only suitable option for REALLY old devices
-* 5 GHz: shorter range, more blockage by walls/ceilings, not congested
-
-If you are on 2.4 GHz and having problems, test what happens if you switch to 5GHz. Not only does it provide more bandwidth, it is usually not as congested as 2.4GHz. In a large apartment building, it has become almost impossible to run a 2.4 GHz WiFi with acceptable performance. Oh, and while you’re at it, please test what the minimum output strength of your WiFi is to reach all locations within your home. The power savings are marginal, but at least you’re not contributing to someone else’s WiFi congestion problems.
 
 ### Related items
 
 * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
+* [Optimizing WiFi]({{< ref "/posts/optimizing-wifi.md" >}})

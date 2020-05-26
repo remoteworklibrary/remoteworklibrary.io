@@ -1,16 +1,16 @@
 ---
-title: "No Internet With Bad WiFi"
+title: "WiFi is good, cable is better"
 date: 2020-05-19
 lastmod: 2020-05-19
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
 type: "post"
-image: "img/bad-wifi.jpg"
+image: "img/network-cable.jpg"
 categories: ["tool"]
 tags: ["collaborate"]
 draft: true
 ---
 
-No video call without internet. Right. But why is it slow like in the 90ies even though you purchased a super broadband line from your internet provider? 
+No video call without internet. Right. But why is it slow like in the 90ies even though you purchased a super broadband line from your internet provider?
 
 <!--more-->
 
@@ -22,16 +22,15 @@ A remote worker often needs nothing more than his computer and a good internet c
 
 There’s several components between your laptop and the internet. Their overall performance can not exceed the performance of their weakest link. Surprisingly often, you can optimize throughput without contacting your internet provider.
 
-### WiFi is good, cable is better.
+### WiFi is good, cable is better
 
-No exceptions! Whenever you are able to connect via an ethernet cable instead of WiFi, just do it! 
-Consider this: A common FullHD video stream in a digital meeting is well below 3 MBit/s. Even the (slightly outdated) 54 MBit/s WiFi setups would handle that, if only you could provide a perfect environment. Then reality kicks in and adds latency, congestion and  concrete walls. Just run a cable in the first place and save yourself A LOT of trouble.
+No exceptions! Whenever you are able to connect via an ethernet cable instead of WiFi, just do it! Consider this: A common FullHD video stream in a digital meeting is well below 3 MBit/s. Even the (slightly outdated) 54 MBit/s WiFi setups would handle that, if only you could provide a perfect environment. Then reality kicks in and adds latency, congestion and  concrete walls. Just run a cable in the first place and save yourself A LOT of trouble.
 
 ### Get creative
 
-Yes. Running the cable across your house can be a lot of work. It might still be worth the effort, considering the current circumstances. This is not the occasional work from home day. Odds are this will be your office for the next months or a year. Do it early, get the maximum out of it. 
+Yes. Running the cable across your house can be a lot of work. It might still be worth the effort, considering the current circumstances. This is not the occasional work from home day. Odds are this will be your office for the next months or a year. Do it early, get the maximum out of it.
 
-Workarounds exist for more complex situations. Powerline adapters use the electricity lines in your house to transmit data on top. The Throughput can reach Gigabit and the adapters are not expensive. 
+Workarounds exist for more complex situations. Powerline adapters use the electricity lines in your house to transmit data on top. The Throughput can reach Gigabit and the adapters are not expensive.
 
 {{< figure src="/img/Powerline.png" caption="Powerline Adapter (source: https://avm.de/produkte/fritzpowerline/fritzpowerline-1260e-wlan-set/)" >}}
 
@@ -45,13 +44,12 @@ If you still can’t reach your workplace, would you be able to cover at least p
 
 Would you be able to relocate your router? Some houses have multiple telephone sockets available. Also, the cable that connects the telephone socket to your router can be even smaller in diameter than a CAT cable.
 
-### Just in case 
+### Just in case
 
 If none of the above works for you, then you'll probably have to stick with WiFi. Check out this guide: 
-[Optimizing WiFi]({{< ref "/posts/optimizing-wifi.md" >}})
-
+[Optimize your WiFi]({{< ref "/posts/optimize-wifi.md" >}})
 
 ### Related items
 
 * [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Optimizing WiFi]({{< ref "/posts/optimizing-wifi.md" >}})
+* [Optimize your WiFi]({{< ref "/posts/optimize-wifi.md" >}})

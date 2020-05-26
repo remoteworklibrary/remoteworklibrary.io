@@ -20,7 +20,7 @@ A remote worker often needs nothing more than his computer and a good internet c
 
 ## How to do it?
 
-There’s several components between your laptop and the internet. Their overall performance can not exceed the performance of their weakest link. Surprisingly often, you can optimize throughput without contacting your internet provider.
+There’s several components between your laptop and the internet. Their overall performance cannot exceed the performance of their weakest link. Surprisingly often, you can optimize throughput without contacting your internet provider.
 
 ### WiFi is good, cable is better
 
@@ -28,7 +28,7 @@ No exceptions! Whenever you are able to connect via an ethernet cable instead of
 
 ### Get creative
 
-Yes. Running the cable across your house can be a lot of work. It might still be worth the effort, considering the current circumstances. This is not the occasional work from home day. Odds are this will be your office for the next months or a year. Do it early, get the maximum out of it.
+Yes. Running the cable across your house can be a lot of work. It might still be worth the effort, considering the current circumstances. Probably you will be working from home for the next months or a year. Do it early, get the maximum out of it.
 
 Workarounds exist for more complex situations. Powerline adapters use the electricity lines in your house to transmit data on top. The Throughput can reach Gigabit and the adapters are not expensive.
 
@@ -36,7 +36,7 @@ Workarounds exist for more complex situations. Powerline adapters use the electr
 
 {{< figure src="/img/superflat_cat_cable.jpg" caption="Super-flat CAT cable for windowframes (source: https://www.wentronic.com/en/ultra-slim-rj45-window-feed-through-025-m-71411)" >}}
 
-Vertical distance can be a bigger problem than horizontal distance. What if your router is in the basement but your workplace is on the 2nd floor? Consider running the cable on the outside wall. Super-flat ethernet cables will fit within window frames and underneath doors. Use RJ45 couplers to connect them. Don’t be too worried about weather, just make sure that you keep the connectors dry and/or cover them in lots of tape. Warning: Never do anything like this with power supply lines (high voltage electricity)!
+Vertical distance can be a bigger problem than horizontal distance. What if your router is in the basement but your workplace is on the 2nd floor? Consider running the cable on the outside wall. Super-flat ethernet cables will fit within window frames and underneath doors. Use RJ45 couplers to connect them. Don’t be too worried about weather conditions, just make sure that you keep the connectors dry and/or cover them in lots of tape. Warning: Never do anything like this with power supply lines (high voltage electricity)!
 
 ### If you just can't reach your desk
 

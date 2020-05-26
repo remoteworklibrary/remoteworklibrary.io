@@ -976,3 +976,10 @@ figcaption p {
 .hbspt-form .hs-form-iframe {
   width: 100% !important;
 }
+
+/** Images **/
+img.image {
+  margin: 0;
+  max-width: 100%;
+  height: auto;
+}

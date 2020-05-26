@@ -4,7 +4,7 @@ date: 2020-05-11T10:43:02+02:00
 lastmod: 2020-05-11T10:43:02+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
-image: "img/telepresence.jpg"
+image: "telepresence.jpg"
 categories: ["tool"]
 tags: ["collaborate", "socialize"]
 ---

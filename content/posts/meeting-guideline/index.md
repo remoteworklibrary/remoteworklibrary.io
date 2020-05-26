@@ -4,7 +4,7 @@ date: 2020-05-11
 lastmod: 2020-05-11
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
-image: /img/remote-meetings.jpg
+image: "remote-meetings.jpg"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus"]
 ---

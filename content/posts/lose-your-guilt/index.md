@@ -4,7 +4,7 @@ date: 2020-05-18T19:28:30+02:00
 lastmod: 2020-05-18T19:28:30+02:00
 author: "[Marvin Therolf](https://github.com/callmemarv)"
 type: "post"
-image: "img/lose-your-guilt.jpg"
+image: "lose-your-guilt.jpg"
 categories: ["culture"]
 tags: ["rejuvenate", "focus"]
 draft: true

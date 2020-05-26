@@ -5,7 +5,7 @@ lastmod: 2020-05-14
 description: "This is meta description"
 type: "post"
 author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
-image: "img/chat-communication.jpg"
+image: "chat-communication.jpg"
 categories: ["tool", "practice", "culture"]
 tags: ["collaborate", "socialize"]
 ---

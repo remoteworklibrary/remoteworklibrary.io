@@ -4,7 +4,7 @@ date: 2020-05-18
 lastmod: 2020-05-18
 author: "[Claudia Wenter](https://www.linkedin.com/in/claudia-wenter-059306139/)"
 type: "post"
-image: "img/interviews.jpg"
+image: "interviews.jpg"
 categories: ["culture"]
 tags: ["collaborate"]
 draft: true

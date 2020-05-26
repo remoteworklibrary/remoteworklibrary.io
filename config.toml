@@ -43,6 +43,8 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/lazysizes/lazysizes.min.js"
 
 # navigation
 [[menu.main]]
@@ -115,3 +117,6 @@ URL = "https://github.com/remoteworklibrary"
   [markup.goldmark]
     [markup.goldmark.extensions]
 	  footnote = true
+
+[imaging]
+quality = 100

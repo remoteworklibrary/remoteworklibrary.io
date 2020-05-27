@@ -13,7 +13,7 @@ Health checks are a special form of feedback from colleagues in the team or comp
 
 <!--more-->
 
-## What is it why use it?
+## What is a team health check why use it?
 
 Health checks should normally be part of every retro. But in some situations it is useful to do additional health checks. This is the case, for example, if the frequency of the retros is not so often (> 2 weeks) or retros are not made regularly. Another reason for special health checks may be that team members in the larger video call session are shy and frightened of their personal feedback.  
 

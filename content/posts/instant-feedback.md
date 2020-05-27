@@ -13,7 +13,7 @@ Sometimes it is important to get feedback from colleagues during a meeting, work
 
 <!--more-->
 
-## What is it and why use it?
+## What is an instant feedback and why use it?
 
 "A smile often says more than a thousand words". A simple honest smile is an instant feedback, for example on a decision made in a meeting. What might be simple in a meeting room quickly becomes a challenge in a video call or in an asynchronous communication via email or messenger. In this case you always have to explicitly aks for feedback, often during a meeting to make the right decisions to have an agreement for the next steps.
 

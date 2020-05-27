@@ -14,7 +14,7 @@ A Retrospective is an opportunity for the team to inspect itself and to create a
 
 <!--more-->
 
-## What is it?
+## What is an Online Retrospective?
 
 According to the Agile Alliance a [(heartbeat) retrospective](https://www.agilealliance.org/glossary/heartbeatretro/) is: "The team meets regularly, usually adhering to the rhythm of its iterations, to explicitly reflect on the most significant events to have occurred since the previous such meeting, and take decisions aiming at remediation or improvement."
 

@@ -14,7 +14,7 @@ Instant messaging tools simplify the communication in remote work settings if yo
 
 <!--more-->
 
-## What is it?
+## What is Chat Communication?
 
 Via a chat tool you can communicate with other team members 1:1 or in (larger) groups. This comes in handy especially if the team is distributed.
 

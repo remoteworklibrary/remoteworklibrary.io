@@ -13,7 +13,7 @@ Video conferencing is a fundamental technology in remote work settings. It bring
 
 <!--more-->
 
-## What is it?
+## What is Video Conferencing?
 
 Video conferencing is a tool to enable multiple participants (1:1 up to hundreds) to communicate: by voice, video, chat, and screen sharing.
 

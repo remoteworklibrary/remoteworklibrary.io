@@ -13,7 +13,7 @@ Being present without being physically on the spot? This happens with telepresen
 
 <!--more-->
 
-## What is it?
+## What is Telepresence?
 
 Telepresence groups together technical solutions that promise to solve three problems:
 

@@ -42,7 +42,7 @@ First round: Each participant enters the input to the retrospective structure. T
 Second round: Each participant presents his/her input and all participants can ask questions of understanding. No discussions!
 
 Third round: The input is prioritized, clustered and action items are derived as you can see here:
-![TeamRetro](online-retro.jpg)
+{{< img src="online-retro.jpg" alt="TeamRetro" >}}
 
 After the retrospective, the result is provided to all participants and to other stakeholders. It is good practice to provide feedback to the top lessons learned to the whole organization (e.g. in a Slack channel #lessonslearned) and to use an issue tracking system like JIRA, Trello or Meistertask to track the derived action items.
 

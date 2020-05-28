@@ -24,7 +24,7 @@ To enable real-time remote collaboration on whiteboards especially for creative 
 ## How to do it?
 
 The following picture shows a sample digital whiteboard used for brainstorming based on the tool [miro](https://miro.com).
-![miro digital whiteboard](digital-whiteboard-miro.jpg)
+{{< img src="digital-whiteboard-miro.jpg" alt="miro digital whiteboard" >}}
 
 Here is our how-to for the different stages of a digital whiteboard session:
 

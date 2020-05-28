@@ -31,9 +31,9 @@ Yes. Running the cable across your house can be a lot of work. It might still be
 
 Workarounds exist for more complex situations. Powerline adapters use the electricity lines in your house to transmit data on top. The Throughput can reach Gigabit and the adapters are not expensive.
 
-{{< figure src="/img/Powerline.png" caption="Powerline Adapter (source: https://avm.de/produkte/fritzpowerline/fritzpowerline-1260e-wlan-set/)" >}}
+{{< figure src="Powerline.png" caption="Powerline Adapter (source: https://avm.de/produkte/fritzpowerline/fritzpowerline-1260e-wlan-set/)" >}}
 
-{{< figure src="/img/superflat_cat_cable.jpg" caption="Super-flat CAT cable for windowframes (source: https://www.wentronic.com/en/ultra-slim-rj45-window-feed-through-025-m-71411)" >}}
+{{< figure src="superflat_cat_cable.jpg" caption="Super-flat CAT cable for windowframes (source: https://www.wentronic.com/en/ultra-slim-rj45-window-feed-through-025-m-71411)" >}}
 
 Vertical distance can be a bigger problem than horizontal distance. What if your router is in the basement but your workplace is on the 2nd floor? Consider running the cable on the outside wall. Super-flat ethernet cables will fit within window frames and underneath doors. Use RJ45 couplers to connect them. Don’t be too worried about weather conditions, just make sure that you keep the connectors dry and/or cover them in lots of tape. Warning: Never do anything like this with power supply lines (high voltage electricity)!
 

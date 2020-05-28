@@ -69,7 +69,7 @@ layout = "1"
 description = "an open library of remote work culture, practices and tools"
 
 # Preloader
-preloader = true
+preloader = false
 
 # search
 search = true

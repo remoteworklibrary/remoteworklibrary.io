@@ -7,7 +7,6 @@ type: "post"
 image: "img/bad-wifi.jpg"
 categories: ["tool"]
 tags: ["collaborate"]
-draft: true
 ---
 
 Bad WiFi can seriously drag down your working performance. There are some things you can fix by yourself.

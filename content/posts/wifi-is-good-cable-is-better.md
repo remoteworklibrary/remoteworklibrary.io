@@ -7,7 +7,6 @@ type: "post"
 image: "img/network-cable.jpg"
 categories: ["tool"]
 tags: ["collaborate"]
-draft: true
 ---
 
 No video call without internet. Right. But why is it slow like in the 90ies even though you purchased a super broadband line from your internet provider?

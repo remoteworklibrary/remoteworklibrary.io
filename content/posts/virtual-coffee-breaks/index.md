@@ -7,7 +7,7 @@ type: "post"
 image: "virtual-coffee-breaks.jpg"
 categories: ["culture"]
 tags: ["socialize", "rejuvenate"]
-draft: false
+draft: true
 ---
 
 Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some assistance in a remote work situation.

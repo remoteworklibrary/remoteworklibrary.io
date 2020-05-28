@@ -7,7 +7,7 @@ type: "post"
 image: "virtual-office.jpg"
 categories: ["tool"]
 tags: ["socialize"]
-draft: false
+draft: true
 ---
 
 Work remotely, side-by-side. With virtual offices your distributed teams work together in an online workplace.

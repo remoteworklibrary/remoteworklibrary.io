@@ -24,3 +24,19 @@
   height="{{ $img.Height }}"
   {{ with .alt }}alt="{{ . }}"{{ end }}
 />
+
+<noscript>
+  <style>
+    img.lazyload {
+      display: none;
+    }
+  </style>
+  <img class="image {{ .class }}"
+    loading="lazy"
+    src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
+    srcset="{{ $src_set }}"
+    width="{{ $img.Width }}"
+    height="{{ $img.Height }}"
+    {{ with .alt }}alt="{{ . }}"{{ end }}
+  />
+</noscript>

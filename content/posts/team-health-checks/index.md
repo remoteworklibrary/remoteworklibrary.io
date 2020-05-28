@@ -36,13 +36,17 @@ Who is the Health Check Model intended for? In the Health Check Model of a Squad
 
 Being aware of the problem is the first step to solving a problem. This type of visualization makes it much harder to ignore a problem.
 
-{{< figure src="squad-health-check-model-overview.png" caption="Squad Health Check model (source: https://labs.spotify.com)" >}}
+{{< figure figcaption="Squad Health Check model (source: https://labs.spotify.com)" >}}
+  {{< img src="squad-health-check-model-overview.png" alt="squad health check model" >}}
+{{< figure >}}
 
 #### Mood Checks
 
 Health checks in the very small *Mood Check* format "How are you doing: good, ok, bad" are not ideal for obtaining detailed and regular feedback from the team. But: They are a good icebreaker for retro meeting.
 
-{{< figure src="mood-check.jpg" caption="Mood Check" >}}
+{{< figure figcaption="Mood Check" >}}
+  {{< img src="mood-check.jpg" alt="mood check" >}}
+{{< figure >}}
 
 #### TeamRetro
 
@@ -59,7 +63,9 @@ You can also create your own templates, depending on the context of your team. I
 
 Atlassian has also thought about Team Health Checks. The results of their research are eight attributes that healthy and productive teams have in common and for which a regular check-up is therefore rewarding.
 
-{{< figure src="atlassian-project-team-health-monitor.png" caption="Atlassian Project Team Health Monitor (source: atlassian.com)" >}}
+{{< figure figcaption="Atlassian Project Team Health Monitor (source: atlassian.com)" >}}
+  {{< img src="atlassian-project-team-health-monitor.png" alt="atlassian project team health monitor" >}}
+{{< figure >}}
 
 In an online setting this model can be used e.g. via an online whiteboard like [Miro and Mural]({{< ref "/posts/tools-digital-whiteboard/index.md" >}}) or via the Confluence Teamplate ([link to marketplace](https://marketplace.atlassian.com/apps/1216029/leadership-team-health-monitor?hosting=cloud&tab=overview)).
 

@@ -39,5 +39,5 @@ New employees should gain the knowledge and skills they need to quickly become p
 
 ### Related items
 
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks/index.md" >}})

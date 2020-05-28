@@ -47,4 +47,4 @@ Just as in a regular conversation, it is important to note that certain rules of
 
 ### Related items
 
-* [Meeting Guideline]({{< ref "/posts/meeting-guideline.md" >}})
+* [Meeting Guideline]({{< ref "/posts/meeting-guideline/index.md" >}})

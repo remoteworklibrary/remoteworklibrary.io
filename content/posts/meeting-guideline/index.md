@@ -53,8 +53,8 @@ As host:
 * Prepare the required tools for the remote meeting
   * for managing the agenda and the meeting minutes (Wiki page like Confluence, online documents like GoogleDocs)
   * for collecting the action items (issue trackers like [JIRA](https://www.atlassian.com/software/jira) or taskboards like [Trello](https://trello.com) or [Meistertask](https://www.meistertask.com/))
-  * for collaborative [digital whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}}) sessions
-  * for [online retrospectives]({{< ref "/posts/tools-online-retros.md" >}})
+  * for collaborative [digital whiteboard]({{< ref "/posts/tools-digital-whiteboard/index.md" >}}) sessions
+  * for [online retrospectives]({{< ref "/posts/tools-online-retros/index.md" >}})
   * for breakout sessions (Zoom can handle this on-the-fly. For others separate video conferencing sessions should be prepared as breakout rooms)
   * time timer: Smartphone, real time timer visible in video stream, digital timers like [AgilePokerClock](https://www.agilepokerclock.com/clock) or the [Online Time Timer](http://timer.designthinkingcoach.de).
 
@@ -87,6 +87,6 @@ All participants:
 
 ### Related items
 
-* [Digital Whiteboards]({{< ref "/posts/tools-digital-whiteboard.md" >}})
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Online Retrospectives]({{< ref "/posts/tools-online-retros.md" >}})
+* [Digital Whiteboards]({{< ref "/posts/tools-digital-whiteboard/index.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Online Retrospectives]({{< ref "/posts/tools-online-retros/index.md" >}})

@@ -7,7 +7,7 @@ type: "post"
 image: "virtual-office.jpg"
 categories: ["tool"]
 tags: ["socialize"]
-draft: true
+draft: false
 ---
 
 Work remotely, side-by-side. With virtual offices your distributed teams work together in an online workplace.
@@ -39,4 +39,4 @@ Here's a usage video from the [remo.co](https://remo.co) virtual office solution
 
 ### Related items
 
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})
+* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks/index.md" >}})

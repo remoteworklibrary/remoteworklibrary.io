@@ -34,7 +34,7 @@ Best practices:
 * get dressed like in the office
 * get to know the power features of your video conferencing solution like breakout rooms, polls, integrated whiteboards etc.
 
-Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})
+Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/posts/meeting-guideline/index.md" >}})
 
 ## Further information
 
@@ -50,4 +50,4 @@ Further best practices for online meetings: see [Meeting Guidelines]({{< ref "/p
 
 ### Related items 
 
-* [Meeting Guidelines]({{< ref "/posts/meeting-guideline.md" >}})
+* [Meeting Guidelines]({{< ref "/posts/meeting-guideline/index.md" >}})

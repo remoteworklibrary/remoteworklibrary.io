@@ -66,5 +66,5 @@ After a whiteboard session, it's good practice to send a link to the final white
 
 ### Related items
 
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Online Retros]({{< ref "/posts/tools-online-retros.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Online Retros]({{< ref "/posts/tools-online-retros/index.md" >}})

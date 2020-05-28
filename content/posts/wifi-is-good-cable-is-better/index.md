@@ -47,9 +47,9 @@ Would you be able to relocate your router? Some houses have multiple telephone s
 ### Just in case
 
 If none of the above works for you, then you'll probably have to stick with WiFi. Check out this guide: 
-[Optimize your WiFi]({{< ref "/posts/optimize-wifi.md" >}})
+[Optimize your WiFi]({{< ref "/posts/optimize-wifi/index.md" >}})
 
 ### Related items
 
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Optimize your WiFi]({{< ref "/posts/optimize-wifi.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Optimize your WiFi]({{< ref "/posts/optimize-wifi/index.md" >}})

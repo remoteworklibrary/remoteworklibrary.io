@@ -26,6 +26,6 @@ Remind yourself that you should not feel guilty for something you're not respons
 
 ### Related items
 
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})
-* [Virtual Offices]({{< ref "/posts/virtual-offices.md" >}})
-* [Team Health Checks]({{< ref "/posts/team-health-checks.md" >}})
+* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks/index.md" >}})
+* [Virtual Offices]({{< ref "/posts/virtual-offices/index.md" >}})
+* [Team Health Checks]({{< ref "/posts/team-health-checks/index.md" >}})

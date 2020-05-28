@@ -83,7 +83,7 @@ If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, yo
 
 ### Related items
 
-* [Online Retros]({{< ref "/posts/tools-online-retros.md" >}})
-* [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}})
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Team Health Checks]({{< ref "/posts/team-health-checks.md" >}})
+* [Online Retros]({{< ref "/posts/tools-online-retros/index.md" >}})
+* [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard/index.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Team Health Checks]({{< ref "/posts/team-health-checks/index.md" >}})

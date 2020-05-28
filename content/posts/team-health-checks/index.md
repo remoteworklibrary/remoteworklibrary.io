@@ -61,7 +61,7 @@ Atlassian has also thought about Team Health Checks. The results of their resear
 
 {{< figure src="atlassian-project-team-health-monitor.png" caption="Atlassian Project Team Health Monitor (source: atlassian.com)" >}}
 
-In an online setting this model can be used e.g. via an online whiteboard like [Miro and Mural]({{< ref "/posts/tools-digital-whiteboard.md" >}}) or via the Confluence Teamplate ([link to marketplace](https://marketplace.atlassian.com/apps/1216029/leadership-team-health-monitor?hosting=cloud&tab=overview)).
+In an online setting this model can be used e.g. via an online whiteboard like [Miro and Mural]({{< ref "/posts/tools-digital-whiteboard/index.md" >}}) or via the Confluence Teamplate ([link to marketplace](https://marketplace.atlassian.com/apps/1216029/leadership-team-health-monitor?hosting=cloud&tab=overview)).
 
 ## Further information
 
@@ -78,6 +78,6 @@ In an online setting this model can be used e.g. via an online whiteboard like [
 
 ### Related items
 
-* [Online Retrospective]({{< ref "/posts/tools-online-retros.md" >}})
-* [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}})
-* [Instant Feedback]({{< ref "/posts/instant-feedback.md" >}})
+* [Online Retrospective]({{< ref "/posts/tools-online-retros/index.md" >}})
+* [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard/index.md" >}})
+* [Instant Feedback]({{< ref "/posts/instant-feedback/index.md" >}})

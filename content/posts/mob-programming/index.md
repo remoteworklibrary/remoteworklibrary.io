@@ -42,5 +42,5 @@ Like Pair Programming, Remote Mob Programming also has a dedicated role for the 
 
 ### Related Practices or Tools
 
-* [Collaborative Coding]({{< ref "/posts/collaborative-coding.md" >}})
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
+* [Collaborative Coding]({{< ref "/posts/collaborative-coding/index.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})

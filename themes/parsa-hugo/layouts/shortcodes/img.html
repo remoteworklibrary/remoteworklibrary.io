@@ -2,7 +2,7 @@
 {{ $src_set := "" }}
 {{ $placeholder := ($img.Resize "50x q20") | images.Filter (images.GaussianBlur 3) }}
 
-{{ $src_sizes := slice "75" "600" "800" "1000" "1200" }}
+{{ $src_sizes := slice "75" "200" "350" "500" "750" "1000" "1200" }}
 
 {{ range $src_sizes }}
   {{ if ge $img.Width . }}
@@ -22,4 +22,4 @@
   data-src="{{ $img.RelPermalink }}"
   width="{{ $img.Width }}"
   height="{{ $img.Height }}"
-  {{ with .Get "alt" }}alt='{{ .Get "alt" }}'{{ end }}>
+  {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>

@@ -1,13 +1,12 @@
 ---
 title: "Optimize your WiFi"
 date: 2020-05-19
-lastmod: 2020-05-19
+lastmod: 2020-05-27
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
 type: "post"
 image: "bad-wifi.jpg"
 categories: ["tool"]
 tags: ["collaborate"]
-draft: true
 ---
 
 Bad WiFi can seriously drag down your working performance. There are some things you can fix by yourself.

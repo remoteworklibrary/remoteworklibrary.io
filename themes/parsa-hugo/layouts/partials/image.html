@@ -1,37 +1,25 @@
-{{ $src := .context.Resources.GetMatch (printf "*%s*" .src) }}
+{{ $img := .context.Resources.GetMatch (printf "*%s*" .src) }}
 {{ $src_set := "" }}
-{{ $placeholder := ($src.Resize "50x q20") | images.Filter (images.GaussianBlur 3) }}
+{{ $placeholder := ($img.Resize "50x q20") | images.Filter (images.GaussianBlur 3) }}
 
-{{ if ge $src.Width "500"}}
-  {{ $x_small := $src.Resize "500x" }}
-  {{ $src_set = (print $x_small.RelPermalink " 500w") }}
-{{ else }}
-  {{ $src_set = (print $src.RelPermalink " " $src.Width "w") }}
-{{ end }}
+{{ $src_sizes := slice "75" "600" "650" "800" "1000" "1200" }}
 
-{{ if ge $src.Width "800"}}
-  {{ $small := $src.Resize "800x" }}
-  {{ $src_set = (print $src_set ", " $small.RelPermalink " 800w") }}
+{{ range $src_sizes }}
+  {{ if ge $img.Width . }}
+    {{ $img_resized := $img.Resize (print . "x") }}
+    {{ if $src_set }}
+      {{ $src_set = (print $src_set ", ") }}
+    {{ end }}
+    {{ $src_set = (print $src_set $img_resized.RelPermalink " " . "w") }}
+  {{ end }}
 {{ end }}
-
-{{ if ge $src.Width "1200"}}
-  {{ $medium := $src.Resize "1200x" }}
-  {{ $src_set = (print $src_set ", " $medium.RelPermalink " 1200w") }}
-{{ end }}
-
-{{ if gt $src.Width "1500"}}
-  {{ $large := $src.Resize "1500x" }}
-  {{ $src_set = (print $src_set ", " $large.RelPermalink " 1500w") }}
-{{ end }}
+{{ $src_set = (print $src_set ", " $img.RelPermalink " " $img.Width "w") }}
 
 <img class="lazyload image {{ .class }}"
-  {{ with .sizes }}sizes='{{ . }}'{{ else }}sizes="(min-width: 35em) 1200px, 100vw"{{ end }}
   data-sizes="auto"
-  src="{{ $src.RelPermalink }}"
-  srcset="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
-  data-src="{{ $src.RelPermalink }}"
+  src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
   data-srcset="{{ $src_set }}"
-  width="{{ $src.Width }}"
-  height="{{ $src.Height }}"
-  alt="{{ .alt }}"
-/>
+  data-src="{{ $img.RelPermalink }}"
+  width="{{ $img.Width }}"
+  height="{{ $img.Height }}"
+  {{ with .alt }}alt="{{ . }}"{{ end }}>

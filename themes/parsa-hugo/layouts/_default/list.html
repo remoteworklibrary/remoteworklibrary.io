@@ -24,7 +24,6 @@
           <div class="col-sm-6 mb-5">
             <article class="text-center">
               {{ partial "image.html" (dict "context" . "src" .Params.Image "alt" "post-thumb" "class" "img-fluid mb-4 rounded") }}
-              <!-- img class="img-fluid mb-4 rounded" src="{{.Params.Image | absURL }}" alt="post-thumb" -->
               <div>
                 {{- if isset .Params "tags" }}
                 {{- if not (eq (len .Params.Tags) 0) }}
@@ -53,7 +52,6 @@
               class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
               <div class="post-image">
                 {{ partial "image.html" (dict "context" . "src" .Params.Image "alt" "post-thumb" "class" "img-fluid rounded") }}
-                <!-- img class="img-fluid rounded" src="{{ .Params.Image | absURL }}" alt="post-thumb" -->
               </div>
               <div class="post-content">
                 <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">

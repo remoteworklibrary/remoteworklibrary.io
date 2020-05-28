@@ -28,7 +28,6 @@
     <div class="media mb-4">
       <div class="post-thumb-sm mr-3">
         <a href="{{ .Permalink }}">{{ partial "image.html" (dict "context" . "src" .Params.Image "class" "mr-3 post-thumb-sm rounded") }}</a>
-        <!-- a href="{{ .Permalink }}"><img class="mr-3 post-thumb-sm rounded" src="{{ .Params.Image | absURL }}"></a -->
       </div>
       <div class="media-body">
         <p><a class="text-dark" href="{{ .Permalink }}">{{.Title}}</a></p>

@@ -20,7 +20,6 @@
         </div>
 
         {{ partial "image.html" (dict "context" . "src" "homepage.png" "alt" "navigate through our categories and working modes" "class" "img-fluid float-left mr5 mb-4 mt-4") }}
-        <!-- img src="img/homepage.png" alt="navigate through our categories and working modes" class="img-fluid float-left mr5 mb-4 mt-4" -->
       </div>
     </div>
   </div>
@@ -35,7 +34,6 @@
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
           {{ partial "image.html" (dict "context" . "src" .Params.Image "alt" "post-thumb" "class" "card-img rounded-0 img-fluid w-100") }}
-          <!-- img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb" -->
           <div class="card-img-overlay">
             <div class="card-content">
               <p class="text-uppercase">{{.Params.Tags}}</p>
@@ -69,8 +67,7 @@
         </ul>
       </div>
       <div class="col-lg-6 text-right">
-        {{ partial "image.html" (dict "context" . "src" .Site.Params.author_image "alt" "banner-image" "class" "img-fluid") }}
-        <!-- img class="img-fluid" src="{{.Site.Params.author_image | absURL}}" alt="banner-image" -->
+        <img class="img-fluid" src="{{.Site.Params.author_image | absURL}}" alt="banner-image">
       </div>
     </div>
   </div>
@@ -97,7 +94,6 @@
         <article class="text-center">
           <a href="{{.Permalink}}">
             {{ partial "image.html" (dict "context" . "src" .Params.Image "alt" "post-thumb" "class" "img-fluid mb-4 rounded") }}
-            <!-- img class="img-fluid mb-4 rounded" src="{{.Params.Image | absURL }}" alt="post-thumb" -->
           </a>
           <div>
             {{- if isset .Params "tags" }}
@@ -127,7 +123,6 @@
           class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
           <div class="post-image">
             {{ partial "image.html" (dict "context" . "src" .Params.Image "alt" "post-thumb" "class" "img-fluid rounded") }}
-            <!-- img class="img-fluid rounded" src="{{ .Params.Image | absURL }}" alt="post-thumb" -->
           </div>
           <div class="post-content">
             <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">

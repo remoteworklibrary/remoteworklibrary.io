@@ -30,7 +30,7 @@ In a remote meeting, such a survey can be technically implemented very quickly:
 
 {{< figure figcaption="Zoom non-verbal communication icons" >}}
   {{< img src="polls-zoom-nonverbal-feedback.png" alt="zoom non-verbal feedback" >}}
-{{< figure >}}
+{{< /figure >}}
 
 ### Polls
 
@@ -62,13 +62,13 @@ The fastest way to set up an Instant Feedback poll with Polly in Slack are Yes-N
 
 {{< figure figcaption="YesNo poll visualization in Slack channel" >}}
   {{< img src="polls-polly-yesno.png" alt="yes no poll visualization" >}}
-{{< figure >}}
+{{< /figure >}}
 
 For simple surveys you do not necessarily need an extension. You can also simply write a post and the participants answer with emojis.
 
 {{< figure figcaption="Emoji poll with Slack" >}}
   {{< img src="polls-emojipoll.png" alt="emojipoll" >}}
-{{< figure >}}
+{{< /figure >}}
 
 #### Real-time presentation feedback
 

@@ -38,7 +38,7 @@ Being aware of the problem is the first step to solving a problem. This type of 
 
 {{< figure figcaption="Squad Health Check model (source: https://labs.spotify.com)" >}}
   {{< img src="squad-health-check-model-overview.png" alt="squad health check model" >}}
-{{< figure >}}
+{{< /figure >}}
 
 #### Mood Checks
 
@@ -46,7 +46,7 @@ Health checks in the very small *Mood Check* format "How are you doing: good, ok
 
 {{< figure figcaption="Mood Check" >}}
   {{< img src="mood-check.jpg" alt="mood check" >}}
-{{< figure >}}
+{{< /figure >}}
 
 #### TeamRetro
 
@@ -65,7 +65,7 @@ Atlassian has also thought about Team Health Checks. The results of their resear
 
 {{< figure figcaption="Atlassian Project Team Health Monitor (source: atlassian.com)" >}}
   {{< img src="atlassian-project-team-health-monitor.png" alt="atlassian project team health monitor" >}}
-{{< figure >}}
+{{< /figure >}}
 
 In an online setting this model can be used e.g. via an online whiteboard like [Miro and Mural]({{< ref "/posts/tools-digital-whiteboard/index.md" >}}) or via the Confluence Teamplate ([link to marketplace](https://marketplace.atlassian.com/apps/1216029/leadership-team-health-monitor?hosting=cloud&tab=overview)).
 

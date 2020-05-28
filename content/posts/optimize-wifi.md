@@ -1,7 +1,7 @@
 ---
 title: "Optimize your WiFi"
 date: 2020-05-19
-lastmod: 2020-05-19
+lastmod: 2020-05-27
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
 type: "post"
 image: "img/bad-wifi.jpg"

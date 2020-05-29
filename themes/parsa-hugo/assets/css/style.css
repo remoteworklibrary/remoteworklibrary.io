@@ -542,6 +542,23 @@ textarea.form-control {
   bottom: 30px;
 }
 
+.main-primary {
+  padding-left: 27px;
+}
+
+.main-primary > p {
+  display: inline;
+  font-size: 18px;
+}
+
+.main-primary > h1 {
+  display: inline;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+  color: #585757;
+}
+
 .title-border {
   position: relative;
   margin-bottom: 25px;

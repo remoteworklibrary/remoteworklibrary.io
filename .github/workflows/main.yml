@@ -36,6 +36,16 @@ jobs:
           publish_branch: master
           cname: www.remoteworklibrary.io
 
+      - name: Audit URLs using Lighthouse
+        uses: treosh/lighthouse-ci-action@v3
+        with:
+          urls: |
+            https://www.remoteworklibrary.io/
+            https://www.remoteworklibrary.io/posts/tools-online-retros/
+          #budgetPath: ./budget.json # test performance budgets
+          #uploadArtifacts: true # save results as an action artifacts
+          #temporaryPublicStorage: true # upload lighthouse report to the temporary storage
+
       # Setup gcloud CLI
       - name: setup gcloud CLI
         uses: GoogleCloudPlatform/github-actions/setup-gcloud@master

@@ -848,6 +848,15 @@ blockquote {
   border-bottom: 1px solid #f4f4f4;
 }
 
+.latest-posts .media {
+  display: flex;
+  align-items: center;
+}
+
+.latest-posts .media-body > p {
+  margin: 0;
+}
+
 .search-box {
   position: relative;
 }

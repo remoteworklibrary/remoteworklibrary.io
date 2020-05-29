@@ -44,7 +44,7 @@ jobs:
             https://www.remoteworklibrary.io/posts/tools-online-retros/
           #budgetPath: ./budget.json # test performance budgets
           #uploadArtifacts: true # save results as an action artifacts
-          #temporaryPublicStorage: true # upload lighthouse report to the temporary storage
+          temporaryPublicStorage: true # upload lighthouse report to the temporary storage
 
       # Setup gcloud CLI
       - name: setup gcloud CLI

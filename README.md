@@ -8,7 +8,24 @@ Open Library for Remote Work Culture, Practices and Tools
 
 ![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
 
+## Content creation process
+
+![Content marketing workflow diagram][doc/content-marketing-workflow.png]
+
+Content production involves many different people working together and can quickly become tangled and confusing. We organize and streamline our process for everyone involved with the help of this content workflow diagram. Our process shows four roles:
+
+* Stakeholder / Requester: A person or company unit that has an idea for a topic and an interest in publishing it.
+* Content Manager: A person from the QAware marketing team. Only members of this role can merge content in this repository to the master branch and publish content.
+* Writer: The author of the content.
+* Subject Matter Expert: A technical expert who helps the author as a sparring or review partner.
+
 ## Write Content
+
+### Precondition
+
+To become an author at the rwl, you need a github account. If you do not have an account yet, you can create one [here](https://github.com/join). If you already have an account, please send an email with your github name to info@remoteworklibrary.io and ask for membership in the `writer` group.
+
+### Start with our project  
 
 [Get used to Hugo](https://gohugo.io/getting-started/quick-start) and then:
 

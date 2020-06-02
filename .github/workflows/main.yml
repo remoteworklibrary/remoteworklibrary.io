@@ -37,6 +37,7 @@ jobs:
           cname: www.remoteworklibrary.io
 
       - name: Audit URLs using Lighthouse
+        if: github.ref == 'refs/heads/master'
         uses: treosh/lighthouse-ci-action@v3
         with:
           urls: |

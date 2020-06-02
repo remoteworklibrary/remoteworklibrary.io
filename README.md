@@ -10,7 +10,7 @@ Open Library for Remote Work Culture, Practices and Tools
 
 ## Content creation process
 
-![Content marketing workflow diagram][doc/content-marketing-workflow.png]
+![Content marketing workflow diagram](doc/content-marketing-workflow.png)
 
 Content production involves many different people working together and can quickly become tangled and confusing. We organize and streamline our process for everyone involved with the help of this content workflow diagram. Our process shows four roles:
 

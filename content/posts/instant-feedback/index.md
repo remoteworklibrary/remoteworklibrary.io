@@ -4,7 +4,7 @@ date: 2020-05-13T11:59:14+02:00
 lastmod: 2020-05-13T11:59:14+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
-image: "img/polls.jpg"
+image: "polls.jpg"
 categories: ["practice", "tool"]
 tags: ["collaborate", "learn"]
 ---
@@ -28,7 +28,9 @@ In a remote meeting, such a survey can be technically implemented very quickly:
 * In a video conference, each participant holds their thumb or a [traffic light]({{< relref "#tools" >}}) card into the camera.
 * Some video conferencing tools offer features for non-verbal communication. For example [Zoom]({{< relref "#tools" >}})
 
-{{< figure src="/img/polls-zoom-nonverbal-feedback.png" caption="Zoom non-verbal communication icons" >}}
+{{< figure figcaption="Zoom non-verbal communication icons" >}}
+  {{< img src="polls-zoom-nonverbal-feedback.png" alt="zoom non-verbal feedback" >}}
+{{< /figure >}}
 
 ### Polls
 
@@ -58,11 +60,15 @@ The fastest way to set up an Instant Feedback poll with Polly in Slack are Yes-N
 /yesno Do we have to discuss a second example, or can we move on to the next agenda item?
 {{< / highlight >}}
 
-{{< figure src="/img/polls-polly-yesno.png" caption="YesNo poll visualization in Slack channel" >}}
+{{< figure figcaption="YesNo poll visualization in Slack channel" >}}
+  {{< img src="polls-polly-yesno.png" alt="yes no poll visualization" >}}
+{{< /figure >}}
 
 For simple surveys you do not necessarily need an extension. You can also simply write a post and the participants answer with emojis.
 
-{{< figure src="/img/polls-emojipoll.png" caption="Emoji poll with Slack" >}}
+{{< figure figcaption="Emoji poll with Slack" >}}
+  {{< img src="polls-emojipoll.png" alt="emojipoll" >}}
+{{< /figure >}}
 
 #### Real-time presentation feedback
 
@@ -83,7 +89,7 @@ If you use Microsoft Powerpoint, Apple Keynote or Google Slides in a meeting, yo
 
 ### Related items
 
-* [Online Retros]({{< ref "/posts/tools-online-retros.md" >}})
-* [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard.md" >}})
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Team Health Checks]({{< ref "/posts/team-health-checks.md" >}})
+* [Online Retros]({{< ref "/posts/tools-online-retros/index.md" >}})
+* [Digital Whiteboard]({{< ref "/posts/tools-digital-whiteboard/index.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Team Health Checks]({{< ref "/posts/team-health-checks/index.md" >}})

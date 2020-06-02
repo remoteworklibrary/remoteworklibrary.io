@@ -4,7 +4,7 @@ date: 2020-05-19
 lastmod: 2020-05-27
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
 type: "post"
-image: "img/bad-wifi.jpg"
+image: "bad-wifi.jpg"
 categories: ["tool"]
 tags: ["collaborate"]
 ---
@@ -19,7 +19,7 @@ WiFi is a so-called shared medium, which means: There's a limited amount of band
 
 ## How to do it?
 
-Before you start optimizing WiFi, check if you can just get rid of it. If you are still not able to run the cable, then it’s time to check your router's WiFi settings ([WiFi is good, cable is better]({{< ref "/posts/wifi-is-good-cable-is-better.md" >}})).
+Before you start optimizing WiFi, check if you can just get rid of it. If you are still not able to run the cable, then it’s time to check your router's WiFi settings ([WiFi is good, cable is better]({{< ref "/posts/wifi-is-good-cable-is-better/index.md" >}})).
 
 WiFi operates on two common frequency bands:
 
@@ -44,5 +44,5 @@ Repeaters do have their advantages in long-range, low-congestion situations, but
 
 ### Related items
 
-* [WiFi is good, cable is better]({{< ref "/posts/wifi-is-good-cable-is-better.md" >}})
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
+* [WiFi is good, cable is better]({{< ref "/posts/wifi-is-good-cable-is-better/index.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})

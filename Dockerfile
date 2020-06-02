@@ -1,10 +1,10 @@
-FROM klakegg/hugo:0.69.2 AS hugo
+FROM klakegg/hugo:0.71.1 AS hugo
 
 ARG BASE_URL=http://localhost:1313/
 
 COPY . /src
 WORKDIR /src
-RUN hugo --buildDrafts --baseURL=$BASE_URL
+RUN hugo --buildDrafts --baseURL=$BASE_URL --destination=/target
 
 # Build runtime image
 FROM nginx:1.18.0-alpine

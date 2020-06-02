@@ -4,7 +4,7 @@ date: 2020-05-18
 lastmod: 2020-05-18
 author: "[Claudia Wenter](https://www.linkedin.com/in/claudia-wenter-059306139/)"
 type: "post"
-image: "img/onboarding.jpg"
+image: "onboarding.jpg"
 categories: ["culture", "tool"]
 tags: ["collaborate", "learn", "socialize"]
 draft: true
@@ -39,5 +39,5 @@ New employees should gain the knowledge and skills they need to quickly become p
 
 ### Related items
 
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})
+* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks/index.md" >}})

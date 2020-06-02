@@ -4,7 +4,7 @@ date: 2020-05-05T22:49:07+02:00
 lastmod: 2020-05-20T10:49:07+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
-image: "img/mob-programming.jpg"
+image: "mob-programming.jpg"
 categories: ["practice"]
 tags: ["collaborate", "learn", "socialize"]
 ---
@@ -42,5 +42,5 @@ Like Pair Programming, Remote Mob Programming also has a dedicated role for the 
 
 ### Related Practices or Tools
 
-* [Collaborative Coding]({{< ref "/posts/collaborative-coding.md" >}})
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
+* [Collaborative Coding]({{< ref "/posts/collaborative-coding/index.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})

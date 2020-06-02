@@ -4,7 +4,7 @@ date: 2020-05-05T14:58:37+02:00
 lastmod: 2020-05-05T14:58:37+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
-image: "img/virtual-office.jpg"
+image: "virtual-office.jpg"
 categories: ["tool"]
 tags: ["socialize"]
 draft: true
@@ -39,4 +39,4 @@ Here's a usage video from the [remo.co](https://remo.co) virtual office solution
 
 ### Related items
 
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})
+* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks/index.md" >}})

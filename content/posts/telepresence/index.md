@@ -4,7 +4,7 @@ date: 2020-05-11T10:43:02+02:00
 lastmod: 2020-05-11T10:43:02+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
-image: "img/telepresence.jpg"
+image: "telepresence.jpg"
 categories: ["tool"]
 tags: ["collaborate", "socialize"]
 ---
@@ -83,4 +83,4 @@ The second video shows a robot from Origin Robotics with a controllable gripper 
 
 ### Related items
 
-* [Video Conferencing]({{< ref "/posts/video-conferencing.md" >}})
+* [Video Conferencing]({{< ref "/posts/video-conferencing/index.md" >}})

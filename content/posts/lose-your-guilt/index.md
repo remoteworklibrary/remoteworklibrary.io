@@ -4,7 +4,7 @@ date: 2020-05-18T19:28:30+02:00
 lastmod: 2020-05-18T19:28:30+02:00
 author: "[Marvin Therolf](https://github.com/callmemarv)"
 type: "post"
-image: "img/lose-your-guilt.jpg"
+image: "lose-your-guilt.jpg"
 categories: ["culture"]
 tags: ["rejuvenate", "focus"]
 draft: true
@@ -26,6 +26,6 @@ Remind yourself that you should not feel guilty for something you're not respons
 
 ### Related items
 
-* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks.md" >}})
-* [Virtual Offices]({{< ref "/posts/virtual-offices.md" >}})
-* [Team Health Checks]({{< ref "/posts/team-health-checks.md" >}})
+* [Virtual Coffee Breaks]({{< ref "/posts/virtual-coffee-breaks/index.md" >}})
+* [Virtual Offices]({{< ref "/posts/virtual-offices/index.md" >}})
+* [Team Health Checks]({{< ref "/posts/team-health-checks/index.md" >}})

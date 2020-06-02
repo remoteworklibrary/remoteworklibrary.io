@@ -12,9 +12,9 @@ Open Library for Remote Work Culture, Practices and Tools
 
 [Get used to Hugo](https://gohugo.io/getting-started/quick-start) and then:
 
-1) `hugo new posts/<articleTitle>.md` (as file name without blanks, e.g. `hello-world.md`)
+1) `hugo new posts/<articleTitle>/index.md` (as file name without blanks, e.g. `hello-world/index.md`)
 2) edit content
-3) `hugo server -D`
+3) `hugo server -D --minify`
 
 ### Edit page meta data
 
@@ -26,8 +26,21 @@ Generator example:
 ---
 title: "Hello World"
 date: 2020-05-11T10:43:02+02:00
+author: ""
+type: "post"
+image: ""
+categories: []
+tags: []
 draft: true
 ---
+
+Post text
+
+<!--more-->
+
+{{< figure figcaption="caption text" >}}
+  {{< img src="filename.jpg" alt="alt text" >}}
+{{< /figure >}}
 ```
 
 1. Add `lastmod` attribute. Use value of `date` attribute for the first version of your new page.
@@ -55,10 +68,18 @@ draft: true
 
 ### Add images
 
-Please search and download your images by [gettyimages](https://www.gettyimages.de/). Store title and content images for your post in folder `/static/img` and refer them in markdown:
+Please search and download your images by [gettyimages](https://www.gettyimages.de/). Store title and content images for your post in the same folder as the post's markdown file and refer them in markdown:
 
 ```md
-![mypic](/img/mypic.jpg)
+{{< img src="mypic.jpg" alt="mypic" >}}
+```
+
+or as a figure with caption:
+
+```md
+{{< figure figcaption="caption text" >}}
+  {{< img src="mypic.jpg" alt="mypic" >}}
+{{< /figure >}}
 ```
 
 Title image rules:

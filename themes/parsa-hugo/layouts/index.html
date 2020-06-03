@@ -222,16 +222,7 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-12">
-      <!--[if lte IE 8]>
-      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-      <![endif]-->
-      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-      <script>
-        hbspt.forms.create({
-          portalId: "5338476",
-          formId: "c4209797-f9d4-4d76-a9cf-e8baaa49a481"
-        });
-      </script>
+      {{ partial "newsletter.html" . }}
     </div>
   </div>
 </div>

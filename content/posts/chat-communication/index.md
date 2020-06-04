@@ -4,6 +4,7 @@ date: 2020-05-14
 lastmod: 2020-05-14
 description: "This is meta description"
 author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
+featured: true
 image: "chat-communication.jpg"
 categories: ["tool", "practice", "culture"]
 tags: ["collaborate", "socialize"]

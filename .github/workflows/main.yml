@@ -11,8 +11,6 @@ jobs:
   deploy-prod:
     runs-on: ubuntu-18.04
     steps:
-      - name: test
-        run: echo ${{github.ref}}
       - name: Git checkout
         uses: actions/checkout@v2
 

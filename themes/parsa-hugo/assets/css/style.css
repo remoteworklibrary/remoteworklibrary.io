@@ -535,11 +535,11 @@ textarea.form-control {
 }
 
 .card-content {
-  padding: 30px;
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 30px;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 .main-primary {

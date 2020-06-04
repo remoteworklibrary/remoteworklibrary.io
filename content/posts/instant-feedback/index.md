@@ -3,7 +3,6 @@ title: "Instant Feedback"
 date: 2020-05-13T11:59:14+02:00
 lastmod: 2020-05-13T11:59:14+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
-type: "post"
 image: "polls.jpg"
 categories: ["practice", "tool"]
 tags: ["collaborate", "learn"]

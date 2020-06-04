@@ -2,7 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: ""
-type: "post"
 image: ""
 categories: []
 tags: []

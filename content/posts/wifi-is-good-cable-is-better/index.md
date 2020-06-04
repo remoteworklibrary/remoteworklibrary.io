@@ -3,7 +3,6 @@ title: "WiFi is good, cable is better"
 date: 2020-05-19
 lastmod: 2020-05-27
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
-type: "post"
 image: "network-cable.jpg"
 categories: ["tool"]
 tags: ["collaborate"]

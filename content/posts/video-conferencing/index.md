@@ -3,7 +3,6 @@ title: "Video Conferencing"
 date: 2020-05-05
 lastmod: 2020-05-11
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
-type: "post"
 image: "video-conferencing.jpg"
 categories: ["tool"]
 tags: ["collaborate", "learn", "socialize"]

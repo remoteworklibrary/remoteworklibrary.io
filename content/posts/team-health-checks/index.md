@@ -3,7 +3,6 @@ title: "Team Health Checks"
 date: 2020-05-13T12:36:26+02:00
 lastmod: 2020-05-13T12:36:26+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
-type: "post"
 image: "health-checks.jpg"
 categories: ["practice", "tool", "culture"]
 tags: ["collaborate", "learn", "rejuvenate", "socialize"]

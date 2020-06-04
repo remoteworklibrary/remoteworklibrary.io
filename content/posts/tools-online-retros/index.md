@@ -3,7 +3,6 @@ title: Online Retrospective
 date: 2020-04-15
 lastmod: 2020-05-11
 description: "This is meta description"
-type: "post"
 author: Josef Adersberger
 image: "online-retrospectives.jpg"
 categories: ["tool", "practice", "culture"]

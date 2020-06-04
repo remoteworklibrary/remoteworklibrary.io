@@ -3,7 +3,6 @@ title: Chat Communication
 date: 2020-05-14
 lastmod: 2020-05-14
 description: "This is meta description"
-type: "post"
 author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
 image: "chat-communication.jpg"
 categories: ["tool", "practice", "culture"]

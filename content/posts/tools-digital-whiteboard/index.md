@@ -3,7 +3,6 @@ title: Digital Whiteboard
 date: 2020-04-15
 lastmod: 2020-05-11
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
-type: "post"
 image: "digital-whiteboard.jpg"
 categories: ["tool"]
 tags: ["collaborate"]

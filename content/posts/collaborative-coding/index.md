@@ -3,7 +3,6 @@ title: "Collaborative Coding"
 date: 2020-05-05
 lastmod: 2020-05-05
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
-type: "post"
 image: "collaborative-coding.jpg"
 categories: ["tool","practice"]
 tags: ["collaborate", "learn"]

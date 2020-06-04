@@ -3,7 +3,6 @@ title: "Virtual Offices"
 date: 2020-05-05T14:58:37+02:00
 lastmod: 2020-05-05T14:58:37+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
-type: "post"
 image: "virtual-office.jpg"
 categories: ["tool"]
 tags: ["socialize"]

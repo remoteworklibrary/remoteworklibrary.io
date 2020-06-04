@@ -30,7 +30,7 @@
 <section>
   <div class="container-fluid p-sm-0">
     <div class="row featured-post-slider">
-      {{ range (where .Site.RegularPages "Type" "featured")}}
+      {{ range (where (where .Site.RegularPages "Section" "posts") ".Params.featured" true)}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
         <article class="card bg-dark text-center text-white border-0 rounded-0">
           {{ partial "image.html" (dict "context" . "src" .Params.Image "alt" "post-thumb" "class" "card-img rounded-0 img-fluid w-100") }}
@@ -50,7 +50,6 @@
 <!-- /featured post -->
 
 {{ else if (eq .Site.Params.layout "2")}}
-
 <!-- hero area -->
 <section class="hero-section">
   <div class="container">
@@ -86,7 +85,9 @@
 <section class="section-sm">
   <div class="container">
     <h2>Recent Topics</h2>
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "posts") }}
+
     {{ if eq .Site.Params.layout "1" }}
     <div class="row">
       {{ range $paginator.Pages }}
@@ -115,9 +116,8 @@
     </div>
 
     {{ else if (eq .Site.Params.layout "2")}}
-
     <div class="row">
-      {{ range $i,$p := (where $paginator.Pages "Type" "post") }}
+      {{ range $i,$p := $paginator.Pages }}
       <div class="col-12 mb-100">
         <article data-file="{{.Permalink}}" data-target="article"
           class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">

@@ -3,7 +3,6 @@ title: "Virtual Coffee Breaks"
 date: 2020-05-03T19:24:31+02:00
 lastmod: 2020-05-03T19:24:31+02:00
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
-type: "post"
 image: "virtual-coffee-breaks.jpg"
 categories: ["culture"]
 tags: ["socialize", "rejuvenate"]

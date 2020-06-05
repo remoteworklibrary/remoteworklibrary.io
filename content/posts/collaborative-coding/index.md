@@ -2,6 +2,7 @@
 title: "Collaborative Coding"
 date: 2020-05-05
 lastmod: 2020-05-05
+description: "Writing code in teams is always collaborative. How to perform effective collaboration practices like pair programming or code walkthroughs in remote settings?"
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "collaborative-coding.jpg"
@@ -10,6 +11,7 @@ tags: ["collaborate", "learn"]
 ---
 
 Writing code in teams is always collaborative. But how to perform effective collaboration practices like pair programming or code walkthroughs in remote settings?
+
 <!--more-->
 
 ## What is Collaborative Coding?

@@ -2,6 +2,7 @@
 title: "WiFi is good, cable is better"
 date: 2020-05-19
 lastmod: 2020-05-27
+description: "No video call without internet. Right. But why is it slow like in the 90ies even though you purchased a super broadband line from your internet provider?"
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
 type: "post"
 image: "network-cable.jpg"

@@ -2,6 +2,7 @@
 title: "Instant Feedback"
 date: 2020-05-13T11:59:14+02:00
 lastmod: 2020-05-13T11:59:14+02:00
+description: "It is important to get feedback during a meeting, workshop or in the middle of the working day. There are excellent tools to get input quickly and easily."
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "polls.jpg"

@@ -2,6 +2,7 @@
 title: "Team Health Checks"
 date: 2020-05-13T12:36:26+02:00
 lastmod: 2020-05-13T12:36:26+02:00
+description: "Health checks are a feedback from colleagues in the team or company regarding how they are doing: mental, satisfaction with processes, tooling and goals."
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "health-checks.jpg"

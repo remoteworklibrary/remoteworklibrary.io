@@ -2,6 +2,7 @@
 title: "Remote Interviews"
 date: 2020-05-18
 lastmod: 2020-05-18
+description: "Onsite interviews are ideal to get to know each other from a professional and cultural perspective. This post describes how it also works in a remote setting."
 author: "[Claudia Wenter](https://www.linkedin.com/in/claudia-wenter-059306139/)"
 type: "post"
 image: "interviews.jpg"

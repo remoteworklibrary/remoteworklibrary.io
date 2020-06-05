@@ -2,6 +2,7 @@
 title: "Lose Your Guilt"
 date: 2020-06-04
 lastmod: 2020-06-04
+description: "Working remotely - especially from home - can be tough. You may not be as productive as you would have been in the office. But that's ok!"
 author: "[Marvin Therolf](https://github.com/callmemarv)"
 type: "post"
 image: "lose-your-guilt.jpg"

@@ -2,6 +2,7 @@
 title: "Video Conferencing"
 date: 2020-05-05
 lastmod: 2020-05-11
+description: "Video conferencing is a fundamental technology in remote work settings. It brings teams close together even if there are huge physical distances in between."
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "video-conferencing.jpg"

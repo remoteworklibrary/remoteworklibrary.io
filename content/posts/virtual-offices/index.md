@@ -2,6 +2,7 @@
 title: "Virtual Offices"
 date: 2020-05-05T14:58:37+02:00
 lastmod: 2020-05-05T14:58:37+02:00
+description: "Work remotely, side-by-side. With virtual offices your distributed teams work together in an online workplace."
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "virtual-office.jpg"
@@ -11,6 +12,7 @@ draft: true
 ---
 
 Work remotely, side-by-side. With virtual offices your distributed teams work together in an online workplace.
+
 <!--more-->
 
 ## What is it?

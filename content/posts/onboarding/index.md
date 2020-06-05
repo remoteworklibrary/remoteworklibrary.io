@@ -2,6 +2,7 @@
 title: "Onboarding"
 date: 2020-05-18
 lastmod: 2020-05-18
+description: "The first days in a new company are important: Getting productive, meeting colleagues and breathing in the company culture. But how does that work remotely?"
 author: "[Claudia Wenter](https://www.linkedin.com/in/claudia-wenter-059306139/)"
 type: "post"
 image: "onboarding.jpg"

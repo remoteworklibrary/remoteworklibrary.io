@@ -1,8 +1,8 @@
 ---
-title: Chat Communication
+title: "Chat Communication"
 date: 2020-05-14
 lastmod: 2020-05-14
-description: "This is meta description"
+description: "Instant messaging tools simplify the communication in remote work settings if you stick to a few basic rules."
 type: "post"
 author: "[Ziba Cole](https://github.com/ZibaVakilzadeh)"
 image: "chat-communication.jpg"

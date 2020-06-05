@@ -2,6 +2,7 @@
 title: "Virtual Coffee Breaks"
 date: 2020-05-03T19:24:31+02:00
 lastmod: 2020-05-03T19:24:31+02:00
+description: "Breaks are important. What usually just happens in normal office routine needs some assistance in a remote work situation."
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "virtual-coffee-breaks.jpg"
@@ -11,6 +12,7 @@ draft: true
 ---
 
 Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some assistance in a remote work situation.
+
 <!--more-->
 
 ## What is it?

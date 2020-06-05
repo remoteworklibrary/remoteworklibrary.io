@@ -1,7 +1,8 @@
 ---
-title: Digital Whiteboard
+title: "Digital Whiteboard"
 date: 2020-04-15
 lastmod: 2020-05-11
+description: "Whiteboard sessions are often the heart of creative processes. Digital whiteboards help to transfer this collaborative experience into the digital world."
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "digital-whiteboard.jpg"

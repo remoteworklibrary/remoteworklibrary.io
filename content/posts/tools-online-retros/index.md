@@ -1,8 +1,8 @@
 ---
-title: Online Retrospective
+title: "Online Retrospective"
 date: 2020-04-15
 lastmod: 2020-05-11
-description: "This is meta description"
+description: "A Retrospective is an opportunity for the team to inspect itself and to create a plan for improvements to be enacted."
 type: "post"
 author: Josef Adersberger
 image: "online-retrospectives.jpg"

@@ -2,6 +2,7 @@
 title: "Mob Programming"
 date: 2020-05-05T22:49:07+02:00
 lastmod: 2020-05-20T10:49:07+02:00
+description: "You know pair programming? Mob programming is similar to pair programming with the entire team."
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "mob-programming.jpg"
@@ -10,6 +11,7 @@ tags: ["collaborate", "learn", "socialize"]
 ---
 
 You know pair programming? Mob programming is similar to pair programming with the entire team.
+
 <!--more-->
 
 ## What is Mob Programming?

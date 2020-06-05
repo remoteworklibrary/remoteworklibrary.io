@@ -2,6 +2,7 @@
 title: "Telepresence"
 date: 2020-05-11T10:43:02+02:00
 lastmod: 2020-05-11T10:43:02+02:00
+description: "Being present without being physically on the spot? This happens with telepresence hardware."
 author: "[Josef Fuchshuber](https://github.com/fuchshuber)"
 type: "post"
 image: "telepresence.jpg"

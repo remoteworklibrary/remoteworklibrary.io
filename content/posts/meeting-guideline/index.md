@@ -1,7 +1,8 @@
 ---
-title: Remote Meeting Guideline
+title: "Remote Meeting Guideline"
 date: 2020-05-11
 lastmod: 2020-05-11
+description: "It's hard to run effective virtual meetings. A remote meeting guideline provides guidance on how to keep them productive."
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "remote-meetings.jpg"

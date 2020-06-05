@@ -2,6 +2,7 @@
 title: "Optimize your WiFi"
 date: 2020-05-19
 lastmod: 2020-05-27
+description: "Bad WiFi can seriously drag down your working performance. There are some things you can fix by yourself."
 author: "[Florian Utzt](https://www.xing.com/profile/Florian_Utzt/cv)"
 type: "post"
 image: "bad-wifi.jpg"

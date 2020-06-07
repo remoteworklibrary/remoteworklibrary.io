@@ -66,7 +66,7 @@ home = "Home"
 layout = "1"
 
 # Meta data
-description = "an open library of remote work culture, practices and tools"
+description = "An open and community-driven library for tools, practices and elements of corporate culture for effective remote work. For individuals and teams. For full remote work, distributed teams and hybrid scenarios."
 
 # Preloader
 preloader = true

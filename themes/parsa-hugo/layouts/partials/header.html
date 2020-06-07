@@ -8,9 +8,9 @@
     
     <div class="collapse navbar-collapse text-center" id="navogation">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href="{{ "categories/" | relLangURL }}/tool/">Tools</a></li>
-        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href="{{ "categories/" | relLangURL }}/practice/">Practices</a></li>
-        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href="{{ "categories/" | relLangURL }}/culture/">Culture</a></li>
+        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href='{{ "categories/" | relLangURL }}tool/'>Tools</a></li>
+        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href='{{ "categories/" | relLangURL }}practice/'>Practices</a></li>
+        <li class="nav-item"><a class="nav-link text-dark text-uppercase" href='{{ "categories/" | relLangURL }}culture/'>Culture</a></li>
       </ul>
       {{ if .Site.Params.search }}
       {{ "<!-- search -->" | safeHTML }}

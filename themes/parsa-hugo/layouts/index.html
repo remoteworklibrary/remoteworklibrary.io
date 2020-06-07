@@ -7,15 +7,15 @@
         <div class="main-primary">
           <p>Welcome to the&nbsp;</p>
           <h1>Remote Work Library</h1>
-          <p>&nbsp;- an open and community-driven library for <a class="badge badge-primary" href='{{ "categories/" | relLangURL }}/tool/'>tools</a>, 
-            <a class="badge badge-primary" href='{{ "categories/" | relLangURL }}/practice/'>practices</a>, and elements of corporate 
-            <a class="badge badge-primary" href='{{ "categories/" | relLangURL }}/culture/'>culture</a> 
+          <p>&nbsp;- an open and community-driven library for <a class="badge badge-primary" href='{{ "categories/" | relLangURL }}tool/'>tools</a>, 
+            <a class="badge badge-primary" href='{{ "categories/" | relLangURL }}practice/'>practices</a>, and elements of corporate 
+            <a class="badge badge-primary" href='{{ "categories/" | relLangURL }}culture/'>culture</a> 
             for effective remote work. For individuals and teams. For full remote work, distributed teams and hybrid 
-            scenarios. Addresses all working modes: <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}/focus/'>focus</a>, 
-            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}/collaborate/'>collaborate</a>, 
-            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}/learn/'>learn</a>, 
-            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}/socialize/'>socialize &amp; serendipity</a>, and 
-            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}/rejuvenate/'>rejuvenate</a>.
+            scenarios. Addresses all working modes: <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}focus/'>focus</a>, 
+            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}collaborate/'>collaborate</a>, 
+            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}learn/'>learn</a>, 
+            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}socialize/'>socialize &amp; serendipity</a>, and 
+            <a class="badge badge-primary" href='{{ "tags/" | relLangURL }}rejuvenate/'>rejuvenate</a>.
           </p>
         </div>
 
@@ -100,7 +100,7 @@
             {{- if not (eq (len .Params.Tags) 0) }}
             <ul class="list-inline tag-list">
               {{- range $index, $name := .Params.Tags }}
-              <li class="list-inline-item m-1 color-tags"><a class="ui label" href="{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | title | lower }}</a></li>
+              <li class="list-inline-item m-1 color-tags"><a class="ui label" href='{{ "tags/" | relLangURL }}{{ $name | urlize | lower }}'>{{ $name | title | lower }}</a></li>
               {{- end }}
             </ul>
             {{- end }}

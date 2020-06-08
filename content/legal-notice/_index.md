@@ -2,6 +2,7 @@
 title: "Legal notice"
 date: 2020-06-07T15:15:35+02:00
 description: "Legal notice"
+type: "plain"
 ---
 
 QAware GmbH \

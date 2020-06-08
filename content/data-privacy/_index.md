@@ -2,6 +2,7 @@
 title: "Data Privacy"
 date: 2020-05-15T09:46:10+02:00
 description: "Data Privacy Information"
+type: "plain"
 ---
 
 ## Basic Information

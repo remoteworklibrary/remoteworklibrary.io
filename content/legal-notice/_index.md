@@ -16,7 +16,7 @@ E-Mail: [info@qaware.de](mailto:info@qaware.de)
 [Christian Kamm](https://www.qaware.de/unternehmen/christian-kamm/), [Johannes Weigend](https://www.qaware.de/unternehmen/johannes-weigend/), [Dr. Josef Adersberger](https://www.qaware.de/unternehmen/dr-josef-adersberger/)
 
 ##### Register entry:
-Entry in Handelsregister \
+Entry in commercial register \
 Registering court: Local court of Munich \
 Registration number: HRB 163761
 

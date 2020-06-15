@@ -6,7 +6,7 @@ Open Library for Remote Work Culture, Practices and Tools
 
 ![CI](https://github.com/remoteworklibrary/remoteworklibrary.io/workflows/CI/badge.svg)
 
-![Remote Work Library (Screenshot)](https://github.com/adersberger/remoteworklibrary.io/blob/master/screenshot.png "Remote Work Library (Screenshot)")
+![Remote Work Library (Screenshot)](doc/screenshot.png "Remote Work Library (Screenshot)")
 
 ## Content creation process
 
@@ -14,16 +14,34 @@ Open Library for Remote Work Culture, Practices and Tools
 
 Content production involves many different people working together and can quickly become tangled and confusing. We organize and streamline our process for everyone involved with the help of this content workflow diagram. Our process shows four roles:
 
-* Stakeholder / Requester: A person or company unit that has an idea for a topic and an interest in publishing it.
+* Stakeholder / Requester: A person or company unit that has an idea for a topic and an interest in publishing it. In this project it will often be the case that the stakeholder is also the (main) writer of the post.
 * Content Manager: A person from the QAware marketing team. Only members of this role can merge content in this repository to the master branch and publish content.
 * Writer: The author of the content.
 * Subject Matter Expert: A technical expert who helps the author as a sparring or review partner.
+
+As already described in the first point, it can be possible that one person has several roles (e.g. stakeholder & writer) in this process. The following description takes the view of a writer and describes the technical process.
 
 ## Write Content
 
 ### Precondition
 
-To become an author at the rwl, you need a github account. If you do not have an account yet, you can create one [here](https://github.com/join). If you already have an account, please send an email with your github name to info@remoteworklibrary.io and ask for membership in the `writer` group.
+To become a writer at Remote Work Library, you need a github account. If you do not have an account yet, you can create one [here](https://github.com/join). If you already have an account, please send an email with your github name to info@remoteworklibrary.io and ask for membership in the `writer` group.
+
+### Fork our Github Repository
+
+Writers work on a fork of the repository. A fork can be created either via the [web interface](https://github.com/remoteworklibrary/remoteworklibrary.io) or with the [GitHub command line tool](https://cli.github.com/).
+
+GitHub CLI example
+
+```bash
+gh repo fork remoteworklibrary/remoteworklibrary.io
+```
+
+After this step, a fork is created for the current GitHub user of the Writer: `https://github.com/<GITHUB_USER>/remoteworklibrary.io`. To work with it locally on a computer, this fork must first be cloned. If the fork is created with the CLI tool, a clone can at once. When creating the fork via the Web UI, this step must be performed as an extra step.
+
+```bash
+git clone https://github.com/<GITHUB_USER>/remoteworklibrary.io.git
+```
 
 ### Start with our project  
 

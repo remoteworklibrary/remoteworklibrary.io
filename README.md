@@ -124,6 +124,31 @@ Title image rules:
 
 For further information and storage of source files we have an own GitHub project [remoteworklibrary-assets](https://github.com/remoteworklibrary/remoteworklibrary-assets).
 
+### Create pull reqeust
+
+TODO
+
+### Update your fork
+
+Fetch branches and commits from the upstream repo (remoteworklibrary/remoteworklibrary.io). You’ll be storing the commits to master in a local branch upstream/master:
+
+```bash
+git fetch upstream
+```
+
+Checkout your fork’s local master, then merge changes from upstream/master into it.
+
+```bash
+git checkout master
+git merge upstream/master
+```
+
+Push changes to update your fork on Github.
+
+```bash
+git push
+```
+
 ## Docker Build & Run
 
 ### Build image with current content

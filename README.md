@@ -124,13 +124,20 @@ Title image rules:
 
 For further information and storage of source files we have an own GitHub project [remoteworklibrary-assets](https://github.com/remoteworklibrary/remoteworklibrary-assets).
 
-### Create pull reqeust
+### Create pull request
 
-TODO
+It is the best to work only on one post at a time and after the work on this post is finished for the time, create a pull request with the changes for the upstream respository.
+
+1. Commit & push all changes to your fork
+2. Create pull request
+
+```bash
+gh pr create
+```
 
 ### Update your fork
 
-Fetch branches and commits from the upstream repo (remoteworklibrary/remoteworklibrary.io). You’ll be storing the commits to master in a local branch upstream/master:
+Fetch branches and commits from the upstream repo (`remoteworklibrary/remoteworklibrary.io`). You’ll be storing the commits to master in a local branch upstream/master:
 
 ```bash
 git fetch upstream

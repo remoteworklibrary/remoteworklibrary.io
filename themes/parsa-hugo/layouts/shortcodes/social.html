@@ -1,0 +1,5 @@
+<ul class="list-inline d-inline-block">
+    {{ range .Site.Params.social }}
+    <li class="list-inline-item"><a href="{{ .URL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
+    {{ end }}
+</ul>

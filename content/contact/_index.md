@@ -14,10 +14,13 @@ Also your feedback on our Remote Work Library in general will be highly apprecia
 
 {{< contact_form >}}
 
-##### General questions
+#### General questions
 QAware GmbH \
 Aschauer Str. 32 \
 81549 Munich, Germany \
 Tel.: +49 89 232315-0 \
 Fax: +49 89 232315-129 \
 E-Mail: [info@qaware.de](mailto:info@qaware.de)
+
+##### Stay in contact with us:
+{{< social >}}

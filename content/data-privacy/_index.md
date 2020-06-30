@@ -11,7 +11,7 @@ You can find the basics of our privacy policy [here](https://www.qaware.de/daten
 
 ## Which cookies are used by remoteworklibrary.io?
 
-Our website only uses statistics cookies. Statistics cookies collect information anonymously. This information helps us to understand how our visitors use our website.
+Our website only uses statistics cookies. Statistics cookies collect information anonymously. Statistic cookies collect information of the usage of our website (Site usage, newsletter) to optimize our website and newsletter.
 
 ### HubSpot
 

@@ -133,6 +133,12 @@ It is the best to work only on one post at a time and after the work on this pos
 
 ```bash
 gh pr create
+
+Creating pull request for master into master in remoteworklibrary/remoteworklibrary.io
+
+? Title Describes pull request creation
+? What's next? Submit
+https://github.com/remoteworklibrary/remoteworklibrary.io/pull/20
 ```
 
 ### Update your fork

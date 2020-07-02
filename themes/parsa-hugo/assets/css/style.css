@@ -1003,6 +1003,11 @@ figcaption p {
   width: 100% !important;
 }
 
+/** Hubspot cookie banner **/
+body div#hs-eu-cookie-confirmation div#hs-eu-cookie-confirmation-inner div#hs-en-cookie-confirmation-buttons-area {
+  text-align: left!important;
+}
+
 /** Images **/
 img.image {
   margin: 0;

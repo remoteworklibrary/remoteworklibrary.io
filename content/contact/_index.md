@@ -2,7 +2,7 @@
 title: "Contact us"
 date: 2020-06-08T14:39:44+02:00
 description: "Contact"
-draft: "true"
+draft: "false"
 ---
 
 Do you have any comments or questions on our best practices for home office? Do you want to share your own work from home tips and tricks? Send us a message! 

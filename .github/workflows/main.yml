@@ -17,7 +17,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.71.1"
+          hugo-version: "0.73.0"
 
       - name: Build
         run: hugo -s . --config ./config.toml --minify

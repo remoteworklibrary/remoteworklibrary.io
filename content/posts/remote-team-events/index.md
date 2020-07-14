@@ -45,11 +45,11 @@ All in all Remo offers event participants more rights and due to the floor plan 
 ### Games
 
 It is always fun to have games at such an event and there are a lot of online games that you can play without being physically together. We were looking for games that do not take a lot of time, do not need a lot of explanation and are great fun. Our favorite game during the event was:
-skribbl.io: One person gets a word that she/he has to draw with the mouse - the other people have to guess the word in the game chat. The earlier you identify the word, the more points you get. The person with the most points wins the game. – simple but lots of fun!
+[skribbl.io](https://www.skribbl.io): One person gets a word that she/he has to draw with the mouse - the other people have to guess the word in the game chat. The earlier you identify the word, the more points you get. The person with the most points wins the game. – simple but lots of fun!
 
 ### Catering
 
-On a good event, a good catering cannot be missing. We chose a simple way and gave out online vouchers for a supermarket chain to all event participants. This was everyone could get their favorite food and drinks.
+On a good event, a good catering cannot be missing. We chose a simple way and gave out online vouchers for a supermarket chain to all event participants. This way everyone could get their favorite food and drinks.
 
 The first remote team event went very well and the feedback was amazing. So we will have more remote team events soon.
 

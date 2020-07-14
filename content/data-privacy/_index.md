@@ -7,7 +7,7 @@ type: "plain"
 
 ## Basic Information
 
-You can find the basics of our privacy policy [here](https://www.qaware.de/datenschutz/).
+You can find the basics of our privacy policy **[here](https://www.qaware.de/datenschutz/)**.
 
 ## Which cookies are used by remoteworklibrary.io?
 
@@ -27,3 +27,7 @@ Our website only uses statistics cookies. Statistics cookies collect information
 * Data privacy information: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de)
 * Cookie Name: `_ga`, `_gat`, `_gid`
 * Cookie lifetime: 2 years
+
+## Contributors
+
+If you have subscribed to our newsletter and have agreed that our partners may also inform you, we only pass on your name and email address. Please note that the data privacy policies of the relevant contributor apply to the communication with contributors.

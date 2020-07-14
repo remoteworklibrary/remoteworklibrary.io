@@ -7,7 +7,7 @@ type: "post"
 image: "remote-team-events.jpg"
 categories: ["culture", "tools", "practices"]
 tags: ["socialize", "serendipity"]
-draft: true
+draft: false
 weight: 1
 ---
 

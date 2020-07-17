@@ -30,7 +30,7 @@ A very simple solution for this is video conferencing, which is active 24 hours 
   {{< img src="coffee-emoji.jpg" alt="Coffee cup emoji in Slack channel" >}}
 {{< /figure >}}
 
-### Scheduled coffee breaks
+### Scheduled Coffee Breaks
 
 If you don't have the possibility of virtual coffee kitchens, you can also set up classic meetings via calendar: One-time, or series. With one colleague or with a group. You decide. You can easily schedule a coffee break meeting in your business calendar (e.g. Google Calendar) and link it to a video conference session (e.g. 1-click solution with Zoom's Google Calendar plugin).
 

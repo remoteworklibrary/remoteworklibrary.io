@@ -7,7 +7,7 @@ author: "[Josef Fuchshuber](https://www.linkedin.com/in/fuchshuber)"
 type: "post"
 image: "virtual-coffee-breaks.jpg"
 categories: ["culture"]
-tags: ["socialize", "rejuvenate"]
+tags: ["socialize", "rejuvenate", "serendipity"]
 weight: 1
 draft: false
 ---

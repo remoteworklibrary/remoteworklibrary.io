@@ -6,7 +6,7 @@ description: "Breaks are important. What usually just happens in normal office r
 author: "[Josef Fuchshuber](https://www.linkedin.com/in/fuchshuber)"
 type: "post"
 image: "virtual-coffee-breaks.jpg"
-categories: ["culture"]
+categories: ["culture", "practice"]
 tags: ["socialize", "rejuvenate", "serendipity"]
 weight: 1
 draft: false

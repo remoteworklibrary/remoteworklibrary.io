@@ -5,7 +5,7 @@ lastmod: 2020-7-13
 author: "[Ziba Cole](https://www.linkedin.com/in/ziba-cole-b03925b3/)"
 type: "post"
 image: "remote-team-events.jpg"
-categories: ["culture", "tools", "practices"]
+categories: ["culture", "tool", "practice"]
 tags: ["socialize", "serendipity"]
 draft: false
 weight: 1

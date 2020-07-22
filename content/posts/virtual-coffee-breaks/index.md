@@ -9,7 +9,7 @@ image: "virtual-coffee-breaks.jpg"
 categories: ["culture"]
 tags: ["socialize", "rejuvenate"]
 weight: 1
-draft: true
+draft: false
 ---
 
 Breaks are important. Whether at the water cooler, the coffee machine or the tea kettle: Taking breaks, especially together with your colleagues, is important. What usually just happens in normal office routine needs some assistance in a remote work situation.

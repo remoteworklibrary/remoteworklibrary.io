@@ -20,7 +20,7 @@ There are at least three different categories of virtual collaboration spaces:
 
 ## Virtual Offices
 
-This kind of virtual collaboration spaces tries to simulate office spaces where avatars can move around on a virtual office floor and video and voice interactions are possible. Those interactions can be started by moving into dedicated meeting rooms (like in [Remo](https://remo.co/virtual-office-space/)) or just by being close to each other (like in [Gather](https://gather.town)).
+This kind of virtual collaboration spaces tries to simulate office spaces where avatars can move around on a virtual office floor and video, and voice interactions are possible. Those interactions can be started by moving into dedicated meeting rooms (like in [Remo](https://remo.co/virtual-office-space/)) or just by being close to each other (like in [Gather](https://gather.town)).
 
 {{< figure figcaption="Source: https://www.sococo.com/why-sococo/" >}}
   {{< img src="virtual-office.png" alt="Sococo" >}}

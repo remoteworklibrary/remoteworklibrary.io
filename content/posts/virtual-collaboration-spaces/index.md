@@ -12,7 +12,7 @@ categories: ["tool"]
 tags: ["collaborate", "rejuvenate", "socialize"]
 ---
 
-Virtual Collaboration Spaces are the remote equivalent to offices and meeting rooms. You join those collaboration spaces to let [serendipitous moments](https://en.wikipedia.org/wiki/Serendipity) happen, get the awareness who is "in office" right now, and for [deep collaborative work](https://www.researchgate.net/publication/29814600_Effective_collaboration_Deep_collaboration_as_an_essential_element_of_the_learning_process). 
+Virtual Collaboration Spaces are the remote equivalent to offices and meeting rooms. You join those collaboration spaces to let [serendipitous moments](https://en.wikipedia.org/wiki/Serendipity) happen, get the awareness who is "in the office" right now, and for [deep collaborative work](https://www.researchgate.net/publication/29814600_Effective_collaboration_Deep_collaboration_as_an_essential_element_of_the_learning_process). 
 
 <!--more-->
 

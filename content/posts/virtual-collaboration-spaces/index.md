@@ -6,7 +6,7 @@ description: "Virtual Collaboration Spaces are the remote equivalent to offices 
 author: "[Josef Adersberger](https://www.linkedin.com/in/josefadersberger)"
 type: "post"
 image: "virtual-collaboration-spaces.jpg"
-draft: true
+draft: false
 weight: 1
 categories: ["tool"]
 tags: ["collaborate", "rejuvenate", "socialize"]

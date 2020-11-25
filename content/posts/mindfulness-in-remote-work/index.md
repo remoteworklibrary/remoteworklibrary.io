@@ -9,15 +9,16 @@ image: "mindfulness-in-remote-work.jpg"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus", "learn"]
 draft: true
+weight: 1
 ---
 
-Mindfulness is a key to personal satisfaction, but also to good relationships at work. If you are mindful, you will notice more quickly when you are tired, or when a meeting has ended with an ambiguity. You perceive your counterpart better. How is your colleague really doing? Did he really understand what you told him? Is there irritation between you, or do you get along well?
+Mindfulness is a key to personal satisfaction, but also to good relationships at work. If you are mindful, you will notice more quickly when you are tired, or when a meeting has ended with an ambiguity.
 
 <!--more-->
 
-Mindful people are more empathic, they experience fewer conflicts and are more satisfied at work. They also recognize their personal limits easier.
+If you are mindful, you perceive your counterpart better. How is your colleague really doing? Did he really understand what you told him? Is there irritation between you, or do you get along well?
 
-In the home office it is more difficult to perceive oneself and others. Attention is very focused on the laptop, and the natural body language in any encounter is limited to a few elements, which can also provide opportunities for misunderstandings.
+Mindful people are more empathic, they experience fewer conflicts and are more satisfied at work. They also recognize their personal limits easier. In the home office it is more difficult to perceive oneself and others. Attention is very focused on the laptop, and the natural body language in any encounter is limited to a few elements, which can also provide opportunities for misunderstandings.
 
 For self-awareness despite being at your home office you can do the following:
 

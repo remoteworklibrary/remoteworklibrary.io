@@ -1,13 +1,13 @@
 ---
 title: "Mindfulness in remote work"
-date: 2020-11-25
-lastmod: 2020-11-25
+date: 2020-12-18
+lastmod: 2020-12-18
 description: "Mindfulness is a key to personal satisfaction, but also to good relationships at work. If you are mindful, you will notice more quickly when you are tired, or when a meeting has ended with an ambiguity"
 author: "[Dipl.-Psych. Anke Precht](https://www.ankeprecht.de/)"
 type: "post"
 image: "mindfulness-in-remote-work.jpg"
 categories: ["practice", "culture"]
-tags: ["collaborate", "focus", "learn"]
+tags: ["collaborate", "focus", "socialize", "learn"]
 draft: true
 weight: 1
 ---

@@ -18,7 +18,7 @@ Due to the lack of personal interaction in virtual teams, it is more difficult t
 
 ## What is resilience and where does it help?
 
-Resilience means psychosocial resistance, the ability to successfully cope with unexpected, surprising, or particularly difficult life events. In other words: to be strong and flexible. Resilience also contributes to better mental health, higher job and career satisfaction, greater ties to the company, a higher level of work engagement, and greater openness to change in companies (Hartmann et al., 2020). However, resilience does not only affect individuals but is also found in teams and organizations. How does resilience in teams emerge? The more positive interactions there are in a group, the better the resilience of the group. This strengthens cohesion and satisfaction in the group.
+Resilience means psychosocial resistance, the ability to successfully cope with unexpected, surprising, or particularly difficult life events. In other words: to be strong and flexible. Resilience also contributes to better mental health, higher job and career satisfaction, greater ties to the company, a higher level of work engagement, and greater openness to change in companies (Hartmann et al., 2020 [^1]). However, resilience does not only affect individuals but is also found in teams and organizations. How does resilience in teams emerge? The more positive interactions there are in a group, the better the resilience of the group. This strengthens cohesion and satisfaction in the group.
 
 ## Challenges for virtual teams
 
@@ -26,9 +26,9 @@ Due to the lack of personal interaction in virtual teams, it is more difficult t
 
 ## What distinguishes resilient virtual teams?
 
-Degbey and Einola (2020) surveyed several virtual teams and observed how they deal with challenges. They assume that daily interaction with each other is crucial for building team resilience, similar to a muscle that is growing with each training session. Only a part of the teams studied had become resilient. But these teams managed to adapt dynamically to challenges such as misunderstandings, major problems with technology, and performance or time pressure.
+Degbey and Einola [^2] surveyed several virtual teams and observed how they deal with challenges. They assume that daily interaction with each other is crucial for building team resilience, similar to a muscle that is growing with each training session. Only a part of the teams studied had become resilient. But these teams managed to adapt dynamically to challenges such as misunderstandings, major problems with technology, and performance or time pressure.
 
-Degbey and Einola (2020) explained this as follows: If an event occurs, a search for the causes and an interpretation of the situation is automatically carried out. This automatism helps us to make sense of ambiguous situations and is crucial for the next steps a team is taking. Depending on how these steps are designed in the team, they strengthen or weaken the flexibility and resilience of teams. Successful teams are characterized by:
+Degbey and Einola [^2] explained this as follows: If an event occurs, a search for the causes and an interpretation of the situation is automatically carried out. This automatism helps us to make sense of ambiguous situations and is crucial for the next steps a team is taking. Depending on how these steps are designed in the team, they strengthen or weaken the flexibility and resilience of teams. Successful teams are characterized by:
 
 * Self-reflective practices
 * The active regulation of emotions
@@ -67,5 +67,5 @@ These teams built resilience from within and were better prepared for challenges
 
 ## Further Information
 
-* [Study Degbey & Einola (2020)](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/apps.12220)
-* [Study Hartmann et al. (2020)](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/apps.12191)
+[^1]: [Hartmann et al. (2020): Resilience in the Workplace: A Multilevel Review and Synthesis](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/apps.12191)
+[^2]: [Degbey & Einola (2020): Resilience in Virtual Teams: Developing the Capacity to Bounce Back](https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/apps.12220)

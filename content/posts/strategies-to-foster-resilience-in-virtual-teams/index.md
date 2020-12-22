@@ -8,7 +8,7 @@ type: "post"
 image: "strategies-to-foster-resilience-in-virtual-teams.png"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus", "learn"]
-draft: true
+draft: false
 weight: 1
 ---
 

@@ -8,7 +8,7 @@ type: "post"
 image: "mindfulness-in-remote-work.jpg"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus", "socialize", "learn"]
-draft: true
+draft: false
 weight: 1
 ---
 

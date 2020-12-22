@@ -8,7 +8,7 @@ type: "post"
 image: "home-office-habits.png"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus", "learn"]
-draft: true
+draft: false
 weight: 1
 ---
 

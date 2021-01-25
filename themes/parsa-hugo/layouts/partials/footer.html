@@ -3,31 +3,14 @@
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-        <h6>Contributors:</h6>
-        </div>
-      </div>
-      <div class="row">&nbsp;</div>
-      <div class="row">
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <a href="https://www.qaware.de" target="_blank"><img alt="QAware GmbH" src="https://www.qaware.de/typo3conf/ext/s2_qaware_templates/Resources/Public/Images/logo-qaware.svg" /></a>
           <div class="row">&nbsp;</div>
           <ul class="list-unstyled">
-            <li class="font-secondary text-dark">{{.Site.Params.contact.qa.company | markdownify }}</li>
-            <li class="font-secondary text-dark">{{.Site.Params.contact.qa.street | markdownify }}</li>
-            <li class="font-secondary text-dark">{{.Site.Params.contact.qa.city | markdownify }}</li>
-            <li class="font-secondary text-dark">Tel: {{ .Site.Params.contact.qa.tel | markdownify }}</li>
-            <li class="font-secondary text-dark">Email: {{ .Site.Params.contact.qa.email | markdownify }}</li>
-          </ul>
-        </div>
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <a href="https://www.codecentric.de" target="_blank"><img alt="codecentric AG" src="{{.Site.BaseURL}}codecentric.png" /></a>
-          <div class="row">&nbsp;</div>
-          <ul class="list-unstyled">
-            <li class="font-secondary text-dark">{{.Site.Params.contact.cc.company | markdownify }}</li>
-            <li class="font-secondary text-dark">{{.Site.Params.contact.cc.street | markdownify }}</li>
-            <li class="font-secondary text-dark">{{.Site.Params.contact.cc.city | markdownify }}</li>
-            <li class="font-secondary text-dark">Tel: {{ .Site.Params.contact.cc.tel | markdownify }}</li>
-            <li class="font-secondary text-dark">Email: {{ .Site.Params.contact.cc.email | markdownify }}</li>
+            <li class="font-secondary text-dark">{{.Site.Params.contact.company | markdownify }}</li>
+            <li class="font-secondary text-dark">{{.Site.Params.contact.street | markdownify }}</li>
+            <li class="font-secondary text-dark">{{.Site.Params.contact.city | markdownify }}</li>
+            <li class="font-secondary text-dark">Tel: {{ .Site.Params.contact.tel | markdownify }}</li>
+            <li class="font-secondary text-dark">Email: {{ .Site.Params.contact.email | markdownify }}</li>
           </ul>
         </div>
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">

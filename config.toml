@@ -87,19 +87,12 @@ socialShareTwitter = true
 socialTwitterAccount = "qaware"
 
 # Contact info
-[params.contact.qa]
+[params.contact]
 company = "QAware GmbH"
 tel = "+49 89 232315-0"
 email = "info@qaware.de"
 street = "Aschauer Str. 32"
 city = "81549 Munich, Germany"
-
-[params.contact.cc]
-company = "codecentric AG"
-tel = "+49 212 23 36 28 0"
-email = "info@codecentric.de"
-street = "Hochstraße 11"
-city = "42697 Solingen, Germany"
 
 # Instagram feed
 [params.instafeed]

@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.73.0 AS hugo
+FROM klakegg/hugo:0.80.0 AS hugo
 
 ARG BASE_URL=http://localhost:1313/
 

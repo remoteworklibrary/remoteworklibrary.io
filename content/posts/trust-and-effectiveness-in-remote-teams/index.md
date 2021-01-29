@@ -30,7 +30,7 @@ Above all, trust is built
 
 Obviously this makes virtual teams trust-killers: You don’t meet and observing your team members work directly is a real struggle. Therefore, building (swift) trust in remote teams is a task that needs time and attention.
 
-## Do‘s and Don‘ts for building trust in remote (virtual) teams: Tools and rules!
+## Do‘s and Don‘ts for building trust
 
 ### Do: Take care of initial interactions that help bonding
 
@@ -94,7 +94,7 @@ With multi-skilled teams from different work areas like Development, IT-Infrastr
 
 Seperate team members into groups with people from the same work areas – e.g. group all Devs together. Now take a look at the Empathy Map and reflect on your co-workers in that group:
 
-_What do they see in their normal work environment?_ This could mean real entities like buildings, screens but also their bosses‘ face behind a glass door 😉 or also „no-one except their two group members.“
+_What do they see in their normal work environment?_ This could mean real entities like buildings, screens but also their bosses‘ face behind a glass door or also „no-one except their two group members.“
 
 _What do they say?_ What phrases are commonly used? E.g. „We are deploying today.“ Or „Of course we can do that.“ „I need more specification to build that.“ Etc.
 
@@ -110,9 +110,17 @@ People often have no real clue which tasks their coworkers have in daily worklif
 
 Heterogene Teams, up to 4 different groups
 
-{{< figure figcaption="Empathy Map Canvas" >}}
+{{< figure figcaption="Empathy Map Canvas (source: [Updated Empathy Map Canvas](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a))" >}}
   {{< img src="empathy-map.png" alt="Empathy Map Canvas" >}}
 {{< /figure >}}
+
+## Further information
+
+### Related items
+
+* [Strategies to foster resilience in virtual teams]({{< ref "/posts/strategies-to-foster-resilience-in-virtual-teams/index.md" >}})
+* [Team Health Checks]({{< ref "/posts/team-health-checks/index.md" >}})
+
 
 ## Sources
 

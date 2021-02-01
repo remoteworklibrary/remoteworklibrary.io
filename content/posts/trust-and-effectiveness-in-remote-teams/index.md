@@ -12,6 +12,10 @@ draft: true
 weight: 1
 ---
 
+When working remotely trust within in a new team isn't something that builds up naturally: Here are some research results and  hands-on advice on how to foster swift trust in virtual teams and achieve better project communication and results.
+
+<!--more-->
+
 ## Trust is saving time and money
 
 Research shows the success of a team heavily depends on trusting relationships between team members (e.g. Jarvenpaa/Knoll/Leidner 1998 [^8]; Gilson/Maynard/Young 2015 [^6])  - meaning those teams are more proactive, more focused and provide better feedback (Clark/ Clark/Crossley 2010 [^4]). Team members have to trust one another, the team leader and also the organization they work in to be productive. Trust here is defined as „an individual’s willingness to be vulnerable to the actions of another person.” (Mayer/Davis/Schoorman 1995, S. 710 [^9]).
@@ -122,7 +126,7 @@ Heterogene Teams, up to 4 different groups
 * [Team Health Checks]({{< ref "/posts/team-health-checks/index.md" >}})
 
 
-## Sources
+### Sources
 
 [^1]: Aubert, B. A.; Kelsey, B. L.  (2003): Further understanding of trust and performance in virtual teams. In: Small Group Research. Vol. 34, S. 575-618.
 [^2]: Axtell, C.M., Fleck, S.J., and Turner, N. (2004): Virtual Teams: Collaborating across Distance. In: International Review of Industrial and Organizational Psychology, (9). S. 205–248.

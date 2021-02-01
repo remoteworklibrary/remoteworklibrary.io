@@ -9,7 +9,7 @@ image: "strategies-to-foster-resilience-in-virtual-teams.png"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus", "learn"]
 draft: false
-weight: 1
+weight: 2
 ---
 
 Due to the lack of personal interaction in virtual teams, it is more difficult to assess the personal situation and the social context of the other team members. This article shows some impulses how virtual teams can become more resilient in their teamwork.

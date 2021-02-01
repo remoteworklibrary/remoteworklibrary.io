@@ -9,7 +9,7 @@ image: "home-office-habits.png"
 categories: ["practice", "culture"]
 tags: ["collaborate", "focus", "learn"]
 draft: false
-weight: 1
+weight: 2
 ---
 
 Office work is usually structured. Working times and lunch or coffee breaks are by and large predefined, as well as the end of work in the evening. Habits structure the time around and enable different experiences and human exchanges: Encounters on the way to work, a drink with colleagues Friday evening, a common event in the company…

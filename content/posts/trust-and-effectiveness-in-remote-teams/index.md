@@ -1,7 +1,7 @@
 ---
 title: "Trust and Effectiveness in Remote Teams"
-date: 2021-01-28
-lastmod: 2021-01-28
+date: 2021-03-04
+lastmod: 2021-03-04
 description: ""
 author: "[Ina Fuchshuber](https://de.linkedin.com/in/ina-fuchshuber-8667b922)"
 type: "post"

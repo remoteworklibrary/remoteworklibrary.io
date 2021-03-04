@@ -8,7 +8,7 @@ type: "post"
 image: "trust.jpg"
 categories: ["tool", "culture", "practice"]
 tags: ["collaborate", "socialize"]
-draft: true
+draft: false
 weight: 1
 ---
 

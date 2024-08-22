@@ -32,7 +32,7 @@ jobs:
         if: github.ref == 'refs/heads/master'
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: remoteworklibrary/remoteworklibrary.github.io
           publish_dir: ./public
           #keep_files: true

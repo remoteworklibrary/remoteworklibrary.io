@@ -33,7 +33,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: remoteworklibrary/remoteworklibrary.github.io
           publish_dir: ./public
           #keep_files: true
           user_name: adersberger

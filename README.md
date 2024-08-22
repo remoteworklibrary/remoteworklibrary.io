@@ -167,13 +167,13 @@ git push
 ### Build image with current content
 
 ```bash
-docker build -t gcr.io/engineering-cloud/remoteworklibrary:latest .
+docker build -t europe-west3-docker.pkg.dev/remote-work-library/remote-work-library-docker/remote-work-library:latest .
 ```
 
 ### Run Docker container from image
 
 ```bash
-docker run -p 1313:80 --rm gcr.io/engineering-cloud/remoteworklibrary:latest
+docker run -p 1313:80 --rm europe-west3-docker.pkg.dev/remote-work-library/remote-work-library-docker/remote-work-library:latest
 ```
 
 Start your browser and open <http://localhost:1313/.>
@@ -184,4 +184,4 @@ Start your browser and open <http://localhost:1313/.>
   * GitHub project: https://github.com/remoteworklibrary/remoteworklibrary.github.io
   * Site: https://www.remoteworklibrary.io
 * Test environment with draft posts is automatically deployed by a github action to a Google Cloud Run service
-  * Site: https://remoteworklibrary-zkop4aqvwa-ez.a.run.app
+  * Site: https://remote-work-library-j62hawuk6q-ey.a.run.app

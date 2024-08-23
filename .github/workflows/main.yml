@@ -37,7 +37,6 @@ jobs:
           #keep_files: true
           user_name: adersberger
           user_email: josef.adersberger@qaware.de
-          publish_branch: master
           cname: www.remoteworklibrary.io
 
       - name: Audit URLs using Lighthouse
